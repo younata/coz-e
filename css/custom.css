@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+}
+
+table .red {
+    background-color: red;
+}
+
+table .yellow {
+    background-color: yellow;
+}
+
+table .green {
+    background-color: green;
+}
+
+.validated-content {
+    background-color: var(--quote-bg);
+    border: 1px solid var(--quote-border);
+    padding: 0 16px;
+}
