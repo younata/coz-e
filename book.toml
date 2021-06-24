@@ -1,0 +1,30 @@
+[book]
+title = "Coz-E"
+language = "en"
+multilingual = false
+authors = ["Rachel Brindle"]
+src = "src"
+description = "Electric Canard Airplane Build"
+
+[build]
+preprocess = ["links", "index"]
+
+[output.html]
+curly-quotes = true
+no-section-label = true
+mathjax-support = true
+additional-css = ["css/custom.css"]
+git-repository-url = "https://github.com/younata/coz-e/tree/main"
+edit-url-template = "https://github.com/younata/coz-e/edit/main/{path}"
+
+[output.api]
+
+[preprocessor.section-validator]
+hide_invalid = false
+invalid_message = "🚨 Warning, this content is out of date and is included for historical reasons."
+
+[preprocessor.chapter-path]
+strict = true
+
+[preprocessor.git-atom]
+base_url = "https://coz-e.rachelbrindle.com"
