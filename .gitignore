@@ -2,3 +2,4 @@ book
 .idea
 /src/SUMMARY.md
 *.swp
+/src/atom.xml
