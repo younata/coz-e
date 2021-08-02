@@ -1,0 +1,5 @@
+# How do you make Vortilons
+
+From Cozy Newsletter \#77:
+
+A way that works well is to make a flat 3-ply 8 x 8 layup on a piece of plastic, and then cut out a pair of each of the 3 vortilons (see M-18). Then tape saran wrap on the leading edge of the wings at each of the 3 locations. Use a generous amount of saran. Then put down a 2-ply layup over each of the saran wraps on the leading edge of the wing. Make it generous, and use peel ply over the top. Sand the vortilons. After the leading edge layups have cured, remove the peel ply and 5- minute the vortilons to the leading edge layups, using the 67 degree template on M-18 to make sure they are at the right angle. After all are in place with the right alignment, micro the inside corners and tape both sides of the vortilons to the flanges with 2 plies of BID, and peel ply. After cure, remove the flange-vortilons from the leading edge, and trim the flanges to about 3⁄4” width each side of the vortilon. Paint them. After the wings are painted, stick them on with clear silicone. They will adhere without coming loose even after many head bumps. Put them on before you fly and never take them off!
