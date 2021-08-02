@@ -2,7 +2,7 @@
 
 ![CAD rendering of workbench](/assets/images/workbench_render_with_top.png)
 
-These are heavily inspired by the <a href="http://www.eaa1000.av.org/technicl/worktabl/worktabl.htm" data-proofer-ignore>EAA Chapter 1000 Standardized Work Tables</a>, only designed to work with the 2'x4' plywood "project boards" you can easily get (larger sheets wouldn't fit in my car).
+These are heavily inspired by the <a href="http://www.eaa1000.av.org/technicl/worktabl/worktabl.htm" data-proofer-ignore>EAA Chapter 1000 Standardized Work Tables</a>, only designed to to be 2 feet by 4 feet instead of 2 feet by 5 feet. A bunch of people in the cozy community prefer joining 6 tables of these size to ultimately create the plans-recommended 12 foot by 4 foot table for the wings and other large pieces. This is my take on that.
 
 [USDZ (AR Preview)](/assets/cad/workbench.usdz) [Fusion 360 file](/assets/cad/workbench.f3d).
 
