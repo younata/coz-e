@@ -28,3 +28,4 @@ strict = true
 
 [preprocessor.git-atom]
 base_url = "https://coz-e.rachelbrindle.com"
+article_preview_lines = -1
