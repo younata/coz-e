@@ -46,7 +46,7 @@ The MGS 335 Epoxy should be mixed at a 100:38 resin:hardener ratio. This means t
 | 180 g (~6 oz) | 130.43 g | 49.57 g  |
 | 240 g (~8 oz) | 173.91 g | 66.09 g  |
 
-Don't try to mix more than 8 ounces (~240 g) in a batch. If your layup requires more than 8 ounces, make multiple batches. Mix enough epoxy for a 1:1 ratio of epoxy to fiberglass by weight.
+Don't try to mix more than 8 ounces (~240 g) in a batch. If your layup requires more than 8 ounces, make multiple batches. Mix enough epoxy for a 3:4 ratio of epoxy to fiberglass by weight (that is, mix 75% as much epoxy as fiberglass by weight).
 
 </div>
 <div class="section_content">

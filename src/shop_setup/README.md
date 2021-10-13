@@ -10,4 +10,4 @@ Future known work includes:
 
 - Box to store and heat epoxy.
 
-Additionally, I also have some [printouts of information good to have visible in the shop]({{#path_for Printouts}}).
+Additionally, I also have some [printouts of information good to have visible in the shop](./printouts/index.html).
