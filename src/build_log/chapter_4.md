@@ -29,4 +29,12 @@ Similarly to the F-28 bulkhead, this currently is cut in pieces, and I will epox
 
 ## Instrument Panel
 
-The Instrument Panel is roughly the same size as the F-22 bulkhead. And it's current state is also foam pieces, and I'm currently working to cut out more pieces of the instrument panel.
+The Instrument Panel is roughly the same size as the F-22 bulkhead. It's current state is also foam pieces, waiting to be epoxied together and then glassed.
+
+## Landing Gear Bulkheads
+
+Not yet started.
+
+## Firewall
+
+Not yet started.
