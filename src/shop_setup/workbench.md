@@ -4,7 +4,7 @@ These are heavily inspired by the [EAA Chapter 1000 Standardized Work Tables](ht
 
 ## Version 1.3, March 2022
 
-After making 3 editions of the original, out of laziness more than anything (I did not want to make so many dado cuts into the wood).
+On the fourth table I built, I had what's really the second meaningful change to the design of my tables This results in a larger bottom shelf, and a much easier build process. There's still work to improve the build process and make that easier, which will be part of the version 1.4 design.
 
 In this version, the top is still made using half-laps, but the bottom-shelf frame is joined using butt-joints and mostly screws.
 
