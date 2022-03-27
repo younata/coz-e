@@ -2,6 +2,25 @@
 
 These are heavily inspired by the [EAA Chapter 1000 Standardized Work Tables](https://www.eaa.org/eaa/aircraft-building/BuilderResources/while-youre-building/building-articles/tools-and-workshop/worktables), only designed to to be 2 feet by 4 feet instead of 2 feet by 5 feet. A bunch of people in the cozy community prefer joining 6 tables of these size to ultimately create the plans-recommended 12 foot by 4 foot table for the wings and other large pieces. This is my take on that.
 
+## Version 1.4, April 2022
+
+Starting on the fifth table, the primary goal is to simplify construction by removing the use of half-laps entirely. Here's what I came up with:
+
+- Make the top and bottom shelves roughly the same dimensions.
+- Have the legs of the table be 4x4s, place them at the actual corners of the table.
+- Keeping with v1.3, rest the top frame on the legs. You can use either pocket holes (driving up from the legs into the edge grain of the top frame) or create a bracket similar to what I describe in v1.3 to keep the top frame in place.
+- Attach the bottom shelf directly into the legs.
+
+Here's image of what I came up with:
+
+![CAD rendering of workbench](/assets/images/workbench_v1.4.png)
+
+[USDZ (AR Preview)](/assets/cad/workbench_v1.4.usdz) [Fusion 360 file](/assets/cad/workbench_v1.4.f3d).
+
+None of these previews include the wheels, because my CAD-fu isn't good enough.
+
+### Materials
+
 ## Version 1.3, March 2022
 
 On the fourth table I built, I had what's really the second meaningful change to the design of my tables This results in a larger bottom shelf, and a much easier build process. There's still work to improve the build process and make that easier, which will be part of the version 1.4 design.
@@ -63,7 +82,7 @@ Initially, I designed these to basically join using half-laps. Essentially, each
 
 ![CAD rendering of workbench](/assets/images/workbench_render_with_top.png)
 
-[USDZ (AR Preview)](/assets/cad/workbench.usdz) [Fusion 360 file](/assets/cad/workbench.f3d).
+[USDZ (AR Preview)](/assets/cad/workbench_v1.0.usdz) [Fusion 360 file](/assets/cad/workbench_v1.0.f3d).
 
 ### Materials
 

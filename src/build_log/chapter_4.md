@@ -25,16 +25,18 @@ Currently, I have the F-28 bulkhead cut, but have not glassed it. I don't have a
 
 The F-28 Bulkhead is the first piece that I need to build in pieces, then epoxy together. Similar to the F-28 bulkhead, I cut this out of clark foam using a utility knife and a Fein tool, and then sanding for a more precise finish.
 
-Similarly to the F-28 bulkhead, this currently is cut in pieces, and I will epoxy this together then ultimately glass it once it warms up.
+Similarly to the F-28 bulkhead, this currently is cut in pieces, and the pieces epoxied together using 5-minute epoxy. Once the temperature warms up and I can maintain at least 70℉ with a heater, I will glass it.
 
 ## Instrument Panel
 
-The Instrument Panel is roughly the same size as the F-22 bulkhead. It's current state is also foam pieces, waiting to be epoxied together and then glassed.
+The Instrument Panel is roughly the same size as the F-22 bulkhead. It's current state is also foam pieces, epoxied together with 5-minute epoxy. Along with the other bulkheads, I have not yet glassed it.
+
+Additionally, I need to cut out and prepare the stiffeners and cable channels for the instrument panel.
 
 ## Landing Gear Bulkheads
 
-Not yet started.
+Along with the other bulkheads, the landing gear bulkheads have had their foam parts cut out and epoxied together with 5-minute epoxy. I have not yet created the quarter-inch fiberglass hardpoints, nor have I glassed the bulkheads.
 
 ## Firewall
 
-Not yet started.
+I have done some work to start on the temporary firewall - it's cut down to roughly the dimensions I want it to be - but that's it. I haven't started on the actual firewall yet.
