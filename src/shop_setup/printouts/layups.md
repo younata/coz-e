@@ -2,7 +2,7 @@
 
 <!-- This is an updated copy of the Basic Layup Procedure page, from Chapter 3, page 19 of the Cozy Mark IV plans -->
 
-1. Preparation: Ply \#9 or Gloves (Nitrile preferred) on hands, shop temperature 75° F ± 10 °.
+1. Preparation: Ply \#9 or Gloves (Nitrile preferred) on hands, shop temperature 75° F ± 10 °. Don't do the layup unless you know the shop will stay within this range during the entire curing time.
 2. Cloth Cutting: Use the electric scissors.
   - Unless otherwise specified, cut at 45° to the fibers.
 3. Surface preparation:
