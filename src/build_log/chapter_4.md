@@ -1,6 +1,8 @@
 # Chapter 4 - Bulkheads, Instrument Panel, Front Seatback and Temporary Firewall
 
-Chapter 4 starts off fairly simple - you're mostly working with flat things that are all internal to the aircraft. Some curves, but no complex curves.
+Chapter 4 starts off fairly simple - you're working entirely with flat shapes that are all internal to the aircraft. The only curves are the edges.
+
+Current status (Late March, 2022): Fiberglass work is blocked on temperature. My workspace does not yet have dedicated heating (or cooling), meaning I have to use space heaters to warm the place. Even with space heaters, I can not maintain a reasonable temperature in my workshop to allow for proper epoxy curing. I am on a waitlist to get a minisplit system installed in my workshop so that this won't be an issue going forward.
 
 ## Front Seatback
 
@@ -14,6 +16,10 @@ A few days later, I did the next step, which is to add micro and UNI fiberglass 
 I cut out 2 lengths (approximately 42-45 inches) of full-width UNI and laid them out. I had to cut and rearrange the glass while laying it out, and there was some excess, but this worked well. Instead of using the polyester sheet as peel ply, like I had [previously]({{#path_for Chapter 3 - Education and Practice Layups}}), I used plastic sheeting. We'll see how it turns out.
 
 ![Angle shot of the front seatback after the first side is glassed](/assets/images/build_log/chapter_4/front_seatback_first_glassing.jpg)
+
+It turned out fine. I did go back to using polyester peel ply for the aft side of the front seatback. Which also turned out fine and was relatively easy to pull out.
+
+I identified a number of inconsistencies in the epoxy cure on both sides, and will be drilling holes and injecting epoxy into them once it warms up and I'm sure the injected epoxy will correctly cure.
 
 ## F-28 Bulkhead
 

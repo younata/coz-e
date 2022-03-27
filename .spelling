@@ -127,6 +127,8 @@ x24
 hardpoints
 v1.3
 CAD-fu
+waitlist
+minisplit
  - src/resources.md
 CNC'd
  - src/newsletter/README.md
