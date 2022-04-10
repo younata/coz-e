@@ -15,11 +15,28 @@ Here's image of what I came up with:
 
 ![CAD rendering of workbench](/assets/images/workbench_v1.4.png)
 
-[USDZ (AR Preview)](/assets/cad/workbench_v1.4.usdz) [Fusion 360 file](/assets/cad/workbench_v1.4.f3d).
+- [USDZ (AR Preview)](/assets/cad/workbench_v1.4.usdz)
+- [Fusion 360 file](/assets/cad/workbench_v1.4.f3d).
 
 None of these previews include the wheels, because my CAD-fu isn't good enough.
 
 ### Materials
+
+- 2 by 4 studs
+  - 2x 48" studs (the top rails)
+  - 4x 21" studs (the top center spans, plus a bottom shelf span)
+  - 2x 41" studs (the bottom rails)
+  - 2x 17" studs (the outer two bottom shelf spans)
+- 4 by 4 studs
+  - 4x 24" studs (the legs)
+- Plywood
+  - 1x 48" by 24" by 3/4" plywood (the top surface)
+  - 1x 48" by 24" by 1/4" plywood (the bottom shelf)
+- Extra hardware
+  - 4x castering wheels with center screw
+  - 4x t-nuts which fit those center screws
+  - Many screws
+  - Optional: Pocket hole jig + pocket hole screws (for securing things to the legs).
 
 ## Version 1.3, March 2022
 
@@ -82,7 +99,8 @@ Initially, I designed these to basically join using half-laps. Essentially, each
 
 ![CAD rendering of workbench](/assets/images/workbench_render_with_top.png)
 
-[USDZ (AR Preview)](/assets/cad/workbench_v1.0.usdz) [Fusion 360 file](/assets/cad/workbench_v1.0.f3d).
+- [USDZ (AR Preview)](/assets/cad/workbench_v1.0.usdz)
+- [Fusion 360 file](/assets/cad/workbench_v1.0.f3d).
 
 ### Materials
 

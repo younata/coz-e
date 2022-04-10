@@ -129,6 +129,12 @@ v1.3
 CAD-fu
 waitlist
 minisplit
+Workdesk
+workdesk
+woodglue
+endgrains
+endgrain
+edgebanding
  - src/resources.md
 CNC'd
  - src/newsletter/README.md
@@ -136,3 +142,7 @@ cozybuilders.org
 fiberfrax
 takeoff_abort
 _
+ - src/shop_setup/epoxy_dispenser.md
+arduino
+ - src/shop_setup/workdesk.md
+backguard
