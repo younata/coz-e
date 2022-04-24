@@ -135,6 +135,7 @@ woodglue
 endgrains
 endgrain
 edgebanding
+benchtop
  - src/resources.md
 CNC'd
  - src/newsletter/README.md

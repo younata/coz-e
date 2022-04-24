@@ -41,11 +41,12 @@ This is intended to be as simple as possible.
   ![Top-down view of bottom frame](/assets/images/workdesk/bottom_frame.jpg)
   - Line up the cross support (45" piece) and bottom depth supports (the 22.5" pieces), similar to the top frame. Only this time, because there's no center depth support, and only one cross support. That lack of extra cross support is why these depth supports are an extra 1.5 inches longer. Join them with woodglue and screws.
 4. Rotate the frames so that their fronts are facing down, and line up the front legs so that you can easily attach them using woodglue & screws.
+  - Installing the front legs first is recommended because the back legs, by virtue of being longer, are heavier and make the whole thing more unwieldy to move about.
 5. Rotate the assembly again so that the backs are on the ground, facing down. Install the rear legs similar to how you installed the front legs.
-6. While the desk has it's legs off the ground, now is a great time to install the wheels. Install them directly into the legs.
+6. While the desk is on its back, install the wheels.
 7. Rotate the desk so that it's upright.
 8. Cut 2 1.5" x 3.5" tabs into the back of the tabletop such that it'll fit nicely into the top of the desk with no overhangs on the front or rear.
 9. Get a friend to help you as you screw in the pegboard into the top of the rear legs.
 10. Install the "backguard" piece by screwing it in. You can add woodglue (or just actual caulk) as caulk to make sure that any small pieces that land back there don't fall off the back.
 11. Screw the tabletop into the top frame. Don't glue it in so that you can easily replace it in the future.
-12. Optional: Paint or add edgebanding as desired to make it look prettier.
+12. Optional: Paint, finish, or add edgebanding as desired to make it look prettier. I didn't do this because it's shop furniture and I don't really care how it looks.

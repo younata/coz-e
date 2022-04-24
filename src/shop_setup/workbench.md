@@ -6,37 +6,48 @@ These are heavily inspired by the [EAA Chapter 1000 Standardized Work Tables](ht
 
 Starting on the fifth table, the primary goal is to simplify construction by removing the use of half-laps entirely. Here's what I came up with:
 
-- Make the top and bottom shelves roughly the same dimensions.
-- Have the legs of the table be 4x4s, place them at the actual corners of the table.
-- Keeping with v1.3, rest the top frame on the legs. You can use either pocket holes (driving up from the legs into the edge grain of the top frame) or create a bracket similar to what I describe in v1.3 to keep the top frame in place.
-- Attach the bottom shelf directly into the legs.
+- Extend the lip of the top frame to line up with the tabletop.
+- Do away with resting the top frame on the legs. Screw the top frame into the legs.
+- Increase the size of the bottom frame to match the
+- Build the bottom frame into the legs.
+- Use height-adjustable casters. Screw them into the bench using t-nuts.
 
 Here's image of what I came up with:
 
-![CAD rendering of workbench](/assets/images/workbench_v1.4.png)
+![CAD rendering of workbench](/assets/images/workbench/workbench_v1.4.png)
 
-- [USDZ (AR Preview)](/assets/cad/workbench_v1.4.usdz)
-- [Fusion 360 file](/assets/cad/workbench_v1.4.f3d).
+- [USDZ (AR Preview)](/assets/cad/workbench/workbench_v1.4.usdz)
+- [Fusion 360 file](/assets/cad/workbench/workbench_v1.4.f3d).
 
 None of these previews include the wheels, because my CAD-fu isn't good enough.
 
 ### Materials
 
 - 2 by 4 studs
-  - 2x 48" studs (the top rails)
-  - 4x 21" studs (the top center spans, plus a bottom shelf span)
-  - 2x 41" studs (the bottom rails)
-  - 2x 17" studs (the outer two bottom shelf spans)
-- 4 by 4 studs
-  - 4x 24" studs (the legs)
+  - 2x 48" studs (the top frame rails)
+  - 3x 21" studs (the top frame spans)
+  - 2x 38" studs (the bottom frame rails)
+  - 3x 18" studs (the bottom frame spans)
+  - 4x 28" studs (the legs)
 - Plywood
   - 1x 48" by 24" by 3/4" plywood (the top surface)
-  - 1x 48" by 24" by 1/4" plywood (the bottom shelf)
+  - 1x 45" by 21" by 1/4" plywood (the bottom shelf)
 - Extra hardware
   - 4x castering wheels with center screw
   - 4x t-nuts which fit those center screws
   - Many screws
   - Optional: Pocket hole jig + pocket hole screws (for securing things to the legs).
+
+### Instructions
+
+1. Top Frame:
+  - Screw the top frame pieces together. Remember that the spans go inside of the rails.
+2. Bottom Frame:
+  - Screw the bottom frame pieces together. The rails screw into legs, same with each edge span.
+3. Placing the bottom assembly on the floor, place the top frame in place (the tops of the legs should meet at the 4 inner corners of the top frame). Make sure that the top of the top frame to be flush with the top of the legs. It'll help to use scrap wood to hold the frame on the legs. Screw the top frame into the legs from both the rails and the edge spans.
+4. Re-orient the frame to be upside down. Drill a hole in each leg, then put in a t-nut. Add a nut to the caster, then screw that in as well. The nut makes it a lot easier to lock in a height once you have the desired height.
+5. Re-orient the frame back to normal. Screw the benchtop into the top frame.
+6. Cut 1.5" by 3.5" tabs into the bottom shelf top, then slide that in to rest on the bottom frame. No need to screw this in, the legs of the table will keep it from moving around too much.
 
 ## Version 1.3, March 2022
 
@@ -97,10 +108,10 @@ Because of both, expect to see a version 2.0 sometime in the future, as I create
 
 Initially, I designed these to basically join using half-laps. Essentially, each wood stud would have either dados or rabbets cut into them, then I'd join them together using glue and screws. This makes for a very strong table, but it's more than I need. Archived here is the initial table version.
 
-![CAD rendering of workbench](/assets/images/workbench_render_with_top.png)
+![CAD rendering of workbench](/assets/images/workbench/workbench_render_with_top.png)
 
-- [USDZ (AR Preview)](/assets/cad/workbench_v1.0.usdz)
-- [Fusion 360 file](/assets/cad/workbench_v1.0.f3d).
+- [USDZ (AR Preview)](/assets/cad/workbench/workbench_v1.0.usdz)
+- [Fusion 360 file](/assets/cad/workbench/workbench_v1.0.f3d).
 
 ### Materials
 
