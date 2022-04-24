@@ -35,9 +35,11 @@ This is intended to be as simple as possible.
 
 1. Use woodglue (you can dilute it 1:1 with water to make it easier, but I generally choose not to do this) on the endgrains of the cross and depth supports. This makes drilling into the endgrain result in a much stronger joint.
 2. Top Frame
-  - Line up the cross supports and depth supports, with the depth supports inside of the cross supports, a 2 of the depth supports on either end, and the third in the center. Join them together with woodglue, then use screws to secure that connection.
+  ![Top-down view of top frame](/assets/images/workdesk/top_frame.jpg)
+  - Line up the cross supports (the 45" pieces) and depth supports (the 21" pieces), with the depth supports inside of the cross supports, and 2 of the depth supports on either end, and the third in the center. Join them together with woodglue, then use screws to secure that connection. I simply screwed into the end-grain. Which isn't that great of a bond. You could use pocket screws from the other end and it would be a much better joint. Either way works just fine for this.
 3. Bottom frame
-  - Line up the cross support and depth supports, similar to the top frame. Join them with woodglue and screws.
+  ![Top-down view of bottom frame](/assets/images/workdesk/bottom_frame.jpg)
+  - Line up the cross support (45" piece) and bottom depth supports (the 22.5" pieces), similar to the top frame. Only this time, because there's no center depth support, and only one cross support. That lack of extra cross support is why these depth supports are an extra 1.5 inches longer. Join them with woodglue and screws.
 4. Rotate the frames so that their fronts are facing down, and line up the front legs so that you can easily attach them using woodglue & screws.
 5. Rotate the assembly again so that the backs are on the ground, facing down. Install the rear legs similar to how you installed the front legs.
 6. While the desk has it's legs off the ground, now is a great time to install the wheels. Install them directly into the legs.
