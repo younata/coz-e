@@ -41,6 +41,7 @@ None of these previews include the wheels, because my CAD-fu isn't good enough.
 ### Instructions
 
 1. Top Frame:
+  ![Photo of the top frame laying on a side](/assets/images/workbench/workbench_v1.4_top_frame.jpg)
   - Screw the top frame pieces together. Remember that the spans go inside of the rails.
 2. Bottom Frame:
   - Screw the bottom frame pieces together. The rails screw into legs, same with each edge span.
