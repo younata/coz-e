@@ -35,16 +35,20 @@ This is intended to be as simple as possible.
 
 1. Use woodglue (you can dilute it 1:1 with water to make it easier, but I generally choose not to do this) on the endgrains of the cross and depth supports. This makes drilling into the endgrain result in a much stronger joint.
 2. Top Frame
-  ![Top-down view of top frame](/assets/images/workdesk/top_frame.jpg)
   - Line up the cross supports (the 45" pieces) and depth supports (the 21" pieces), with the depth supports inside of the cross supports, and 2 of the depth supports on either end, and the third in the center. Join them together with woodglue, then use screws to secure that connection. I simply screwed into the end-grain. Which isn't that great of a bond. You could use pocket screws from the other end and it would be a much better joint. Either way works just fine for this.
+  ![Top-down view of top frame](/assets/images/workdesk/top_frame.jpg)
 3. Bottom frame
-  ![Top-down view of bottom frame](/assets/images/workdesk/bottom_frame.jpg)
   - Line up the cross support (45" piece) and bottom depth supports (the 22.5" pieces), similar to the top frame. Only this time, because there's no center depth support, and only one cross support. That lack of extra cross support is why these depth supports are an extra 1.5 inches longer. Join them with woodglue and screws.
+  ![Top-down view of bottom frame](/assets/images/workdesk/bottom_frame.jpg)
 4. Rotate the frames so that their fronts are facing down, and line up the front legs so that you can easily attach them using woodglue & screws.
   - Installing the front legs first is recommended because the back legs, by virtue of being longer, are heavier and make the whole thing more unwieldy to move about.
+  ![View of the frames aligned with the front legs attached](/assets/images/workdesk/front_legs_attached.jpg)
 5. Rotate the assembly again so that the backs are on the ground, facing down. Install the rear legs similar to how you installed the front legs.
-6. While the desk is on its back, install the wheels.
+  ![view of the frames with the back legs attached](/assets/images/workdesk/back_legs_attached.jpg)
+6. While the desk is on its back, install the front wheels. Then rotate it again and install the back wheels.
+  ![view of the frames with the front wheels attached](/assets/images/workdesk/front_wheels_attached.jpg)
 7. Rotate the desk so that it's upright.
+  ![view of the frames assembled with wheels attached](/assets/images/workdesk/frame_assembled.jpg)
 8. Cut 2 1.5" x 3.5" tabs into the back of the tabletop such that it'll fit nicely into the top of the desk with no overhangs on the front or rear.
 9. Get a friend to help you as you screw in the pegboard into the top of the rear legs.
 10. Install the "backguard" piece by screwing it in. You can add woodglue (or just actual caulk) as caulk to make sure that any small pieces that land back there don't fall off the back.
