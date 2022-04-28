@@ -50,7 +50,9 @@ This is intended to be as simple as possible.
 7. Rotate the desk so that it's upright.
   ![view of the frames assembled with wheels attached](/assets/images/workdesk/frame_assembled.jpg)
 8. Cut 2 1.5" x 3.5" tabs into the back of the tabletop such that it'll fit nicely into the top of the desk with no overhangs on the front or rear.
+  ![View with the tabletop in place](/assets/images/workdesk/tabletop_attached.jpg)
 9. Get a friend to help you as you screw in the pegboard into the top of the rear legs.
+  ![Desk nearly finished with the pegboard in place](/assets/images/workdesk/pegboard_attached.jpg)
 10. Install the "backguard" piece by screwing it in. You can add woodglue (or just actual caulk) as caulk to make sure that any small pieces that land back there don't fall off the back.
 11. Screw the tabletop into the top frame. Don't glue it in so that you can easily replace it in the future.
 12. Optional: Paint, finish, or add edgebanding as desired to make it look prettier. I didn't do this because it's shop furniture and I don't really care how it looks.
