@@ -55,4 +55,4 @@ This is intended to be as simple as possible.
   ![Desk nearly finished with the pegboard in place](/assets/images/workdesk/pegboard_attached.jpg)
 10. Install the "backguard" piece by screwing it in. You can add woodglue (or just actual caulk) as caulk to make sure that any small pieces that land back there don't fall off the back.
 11. Screw the tabletop into the top frame. Don't glue it in so that you can easily replace it in the future.
-12. Optional: Paint, finish, or add edgebanding as desired to make it look prettier. I didn't do this because it's shop furniture and I don't really care how it looks.
+12. Paint or finish it as desired. Be sure to sand down the rough edges prior to use.
