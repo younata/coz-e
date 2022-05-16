@@ -25,13 +25,13 @@ I identified a number of inconsistencies in the epoxy cure on both sides, and wi
 
 The F-28 Bulkhead is a relatively small piece. In the future, I hope to build a CNC router to handle cutting foam for me. In the now, I'm cutting manually using a utility knife and a Fein tool.
 
-Currently, I have the F-28 bulkhead cut, but have not glassed it. I don't have a good solution to handling cold temperatures in my workshop yet. So I'm currently electing to cut as much foam as I can, planning to line up a bunch of pieces to fiberglass work as soon as it warms up enough for epoxy to set right.
+Currently, I have the F-28 bulkhead cut, but have not glassed it.
 
 ## F-22 Bulkhead
 
 The F-28 Bulkhead is the first piece that I need to build in pieces, then epoxy together. Similar to the F-28 bulkhead, I cut this out of clark foam using a utility knife and a Fein tool, and then sanding for a more precise finish.
 
-Similarly to the F-28 bulkhead, this currently is cut in pieces, and the pieces epoxied together using 5-minute epoxy. Once the temperature warms up and I can maintain at least 70℉ with a heater, I will glass it.
+Similarly to the F-28 bulkhead, this currently is cut in pieces, and the pieces epoxied together using 5-minute epoxy.
 
 ## Instrument Panel
 
@@ -41,8 +41,10 @@ Additionally, I need to cut out and prepare the stiffeners and cable channels fo
 
 ## Landing Gear Bulkheads
 
-Along with the other bulkheads, the landing gear bulkheads have had their foam parts cut out and epoxied together with 5-minute epoxy. I have not yet created the quarter-inch fiberglass hardpoints, nor have I glassed the bulkheads.
+Along with the other bulkheads, the landing gear bulkheads have had their foam parts cut out and epoxied together with 5-minute epoxy.
+
+I have laid up 2 of the 4 fiberglass hardpoints. As of this writing, I'm still waiting for them to cure.
 
 ## Firewall
 
-I have done some work to start on the temporary firewall - it's cut down to roughly the dimensions I want it to be - but that's it. I haven't started on the actual firewall yet.
+I have built a temporary firewall, and I have also cut out parts of the permanent firewall. I need to cut out the remaining pieces of the permanent firewall, as well as glass them.
