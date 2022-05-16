@@ -136,6 +136,8 @@ endgrains
 endgrain
 edgebanding
 benchtop
+hz
+cyanocracy
  - src/resources.md
 CNC'd
  - src/newsletter/README.md
