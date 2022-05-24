@@ -2,7 +2,7 @@
 
 Chapter 4 starts off fairly simple - you're working entirely with flat shapes that are all internal to the aircraft. The only curves are the edges.
 
-Current status (Late March, 2022): Fiberglass work is blocked on temperature. My workspace does not yet have dedicated heating (or cooling), meaning I have to use space heaters to warm the place. Even with space heaters, I can not maintain a reasonable temperature in my workshop to allow for proper epoxy curing. I am on a waitlist to get a minisplit system installed in my workshop so that this won't be an issue going forward.
+Current status (Late May, 2022): In early May 2022, I had a minisplit installed in my workshop. Since then, I have done at least an hour of work a day in the workshop. Work is thus proceeding at a brisk pace, and I hope to complete chapter 4 by mid June.
 
 ## Front Seatback
 
@@ -23,7 +23,7 @@ I identified a number of inconsistencies in the epoxy cure on both sides, and wi
 
 ## F-28 Bulkhead
 
-The F-28 Bulkhead is a relatively small piece. In the future, I hope to build a CNC router to handle cutting foam for me. In the now, I'm cutting manually using a utility knife and a Fein tool.
+The F-28 Bulkhead is a relatively small piece, and will be made of fiberglass glassed onto clark foam. I cut the foam out using a utility knife and a Fein tool.
 
 Currently, I have the F-28 bulkhead cut, but have not glassed it.
 
@@ -31,20 +31,22 @@ Currently, I have the F-28 bulkhead cut, but have not glassed it.
 
 The F-28 Bulkhead is the first piece that I need to build in pieces, then epoxy together. Similar to the F-28 bulkhead, I cut this out of clark foam using a utility knife and a Fein tool, and then sanding for a more precise finish.
 
-Similarly to the F-28 bulkhead, this currently is cut in pieces, and the pieces epoxied together using 5-minute epoxy.
+On Sunday, 2022-05-22, I glassed the aft face of the F-22 bulkhead, including adding the doubler. Once it cures, I'll take a look at it and finish it.
 
 ## Instrument Panel
 
 The Instrument Panel is roughly the same size as the F-22 bulkhead. It's current state is also foam pieces, epoxied together with 5-minute epoxy. Along with the other bulkheads, I have not yet glassed it.
 
-Additionally, I need to cut out and prepare the stiffeners and cable channels for the instrument panel.
+Additionally, I need to cut out and prepare the stiffeners and cable channels for the instrument panel. Which, per plans, I'll do after glassing both sides.
+
+The instrument Panel (and F-28) are both next in line for glassing, to be done the week of 2022-05-23, probably on the same day.
 
 ## Landing Gear Bulkheads
 
 Along with the other bulkheads, the landing gear bulkheads have had their foam parts cut out and epoxied together with 5-minute epoxy.
 
-I have laid up 2 of the 4 fiberglass hardpoints. As of this writing, I'm still waiting for them to cure.
+I have laid up all 4 of the fiberglass hardpoints, all of which have come out quite well. I need to cut them to their desired shapes, and then ultimately add them to the foam bulkheads when I glass them.
 
 ## Firewall
 
-I have built a temporary firewall, and I have also cut out parts of the permanent firewall. I need to cut out the remaining pieces of the permanent firewall, as well as glass them.
+I have built a temporary firewall, and I have also cut out parts of the permanent firewall. I need to cut out the remaining pieces of the permanent firewall, as well as glass them. I have alodyne on order from Aircraft spruce. I'll use that to protect the aluminum parts prior to inserting them into the firewall. Once the alodyne arrives, I'll complete work on the firewall.
