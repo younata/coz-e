@@ -25,13 +25,17 @@ I identified a number of inconsistencies in the epoxy cure on both sides, and wi
 
 The F-28 Bulkhead is a relatively small piece, and will be made of fiberglass glassed onto clark foam. I cut the foam out using a utility knife and a Fein tool.
 
-Currently, I have the F-28 bulkhead cut, but have not glassed it.
+I have glassed one side of the F-28 bulkhead.
 
 ## F-22 Bulkhead
 
 The F-28 Bulkhead is the first piece that I need to build in pieces, then epoxy together. Similar to the F-28 bulkhead, I cut this out of clark foam using a utility knife and a Fein tool, and then sanding for a more precise finish.
 
-On Sunday, 2022-05-22, I glassed the aft face of the F-22 bulkhead, including adding the doubler. Once it cures, I'll take a look at it and finish it.
+When adding the doubler, be sure to apply wet micro to both sides of the doubler. Micro is supposed to applied to every side of foam that touches glass.
+
+![Image of the aft face of the F-22 bulkhead, with doubler in place. After initial trimming of the fiberglass](/assets/images/build_log/chapter_4/f22_aft.jpg).
+
+A week after glassing the aft face (including the doubler), I glassed the forward face of the F-22 bulkhead. Currently awaiting curing.
 
 ## Instrument Panel
 
@@ -39,7 +43,7 @@ The Instrument Panel is roughly the same size as the F-22 bulkhead. It's current
 
 Additionally, I need to cut out and prepare the stiffeners and cable channels for the instrument panel. Which, per plans, I'll do after glassing both sides.
 
-The instrument Panel (and F-28) are both next in line for glassing, to be done the week of 2022-05-23, probably on the same day.
+I have glassed one side of the Instrument Panel. Currently awaiting curing.
 
 ## Landing Gear Bulkheads
 
