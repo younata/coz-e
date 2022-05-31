@@ -51,7 +51,17 @@ I have glassed one side of the Instrument Panel. Currently awaiting curing.
 
 Along with the other bulkheads, the landing gear bulkheads have had their foam parts cut out and epoxied together with 5-minute epoxy.
 
-I have laid up all 4 of the fiberglass hardpoints, all of which have come out quite well. I need to cut them to their desired shapes, and then ultimately add them to the foam bulkheads when I glass them.
+![Unglassed aft landing gear bulkhead](/assets/images/build_log/chapter_4/aft_landing_gear_bulkhead_unglassed.jpg)
+
+![Unglassed forward landing gear bulkheads](/assets/images/build_log/chapter_4/forward_landing_gear_bulkheads_unglassed.jpg)
+
+I made  12 inch by 8 inch sheets of 22 ply BID fiberglass for the bulkhead hardpoints. Which is enough to make 8 hardpoints. Which has turned out to be a good mistake because I irreparably damaged 2 of them with my trim router while I was trying to trim them to their final shape.
+
+![Damaged forward landing gear bulkheads](/assets/images/build_log/chapter_4/aft_landing_gear_hardpoints_damaged.jpg)
+
+Tip: If you're using a handheld router, hold the router with both hands. Don't try to hold it with one hand, and a vacuum hose (for dust collection) with the other. I was lucky and didn't get hurt when this happened. Get an assistant to help with dust collection - fiberglass dust is toxic, after all.
+
+When I try again, I will also 3d print templates of the hardpoints, which I will use as a guide with a trim bit so that I can even more precisely shape the fiberglass to the desired shape.
 
 ## Firewall
 

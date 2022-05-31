@@ -1,6 +1,6 @@
 # Introduction - The Coz-E
 
-![Image of the airplane, from the cover for my copy of the Cozy Plans](/assets/images/plans_cover_1.jpg)
+![Image of the the Cozy Mk IV prototype, from the cover for my copy of the Cozy Plans](/assets/images/plans_cover_1.jpg)
 
 This is the build log (and other relevant information) for my cozy-derived electric canard airplane.
 
