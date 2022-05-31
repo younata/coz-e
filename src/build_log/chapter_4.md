@@ -17,7 +17,9 @@ I cut out 2 lengths (approximately 42-45 inches) of full-width UNI and laid them
 
 ![Angle shot of the front seatback after the first side is glassed](/assets/images/build_log/chapter_4/front_seatback_first_glassing.jpg)
 
-It turned out fine. I did go back to using polyester peel ply for the aft side of the front seatback. Which also turned out fine and was relatively easy to pull out.
+![forward side of the front seatback](/assets/images/build_log/chapter_4/front_seatback_reclined.jpg)
+
+As you can see, it turned out fine. I did go back to using polyester peel ply for the aft side of the front seatback. Which also turned out fine and was relatively easy to pull out.
 
 I identified a number of inconsistencies in the epoxy cure on both sides, and will be drilling holes and injecting epoxy into them once it warms up and I'm sure the injected epoxy will correctly cure.
 
@@ -54,3 +56,5 @@ I have laid up all 4 of the fiberglass hardpoints, all of which have come out qu
 ## Firewall
 
 I have built a temporary firewall, and I have also cut out parts of the permanent firewall. I need to cut out the remaining pieces of the permanent firewall, as well as glass them. I have alodyne on order from Aircraft spruce. I'll use that to protect the aluminum parts prior to inserting them into the firewall. Once the alodyne arrives, I'll complete work on the firewall.
+
+![The temporary firewall](/assets/images/build_log/chapter_4/temporary_firewall.jpg)
