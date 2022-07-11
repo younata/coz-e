@@ -2,9 +2,11 @@
 
 Chapter 4 starts off fairly simple - you're working entirely with flat shapes that are all internal to the aircraft. The only curves are the edges.
 
-Current status (Late May, 2022): In early May 2022, I had a minisplit installed in my workshop. Since then, I have done at least an hour of work a day in the workshop. Work is thus proceeding at a brisk pace, and I hope to complete chapter 4 by mid June.
+Current status (Mid July, 2022): In early May 2022, I had a minisplit installed in my workshop. While I'm able to work quickly on this, I've had a few setbacks and Real-Life-Interruptions that keep this work ongoing.
 
 ## Front Seatback
+
+Status: Finished! ✅
 
 The front seatback is very simple - cut down a slab of 0.75" thick foam, shape two of the edges to be 45°, and glass it. Following the advice of other builders, I used a tablesaw to make those cuts. You can see the result below.
 
@@ -30,48 +32,53 @@ I identified a number of inconsistencies in the epoxy cure on both sides, and wi
 
 ## F-28 Bulkhead
 
+Status: 1 side glassed, awaiting glassing the other side.
+
 The F-28 Bulkhead is a relatively small piece, and will be made of fiberglass glassed onto clark foam. I cut the foam out using a utility knife and a Fein tool.
 
-I have glassed one side of the F-28 bulkhead.
+I have glassed one side of the F-28 bulkhead, and it turned out pretty good! I trimmed the fiberglass from the edges. I need to glass the other side.
 
 ## F-22 Bulkhead
 
-The F-28 Bulkhead is the first piece that I need to build in pieces, then epoxy together. Similar to the F-28 bulkhead, I cut this out of clark foam using a utility knife and a Fein tool, and then sanding for a more precise finish.
+Status: Remaking entirely.
 
-When adding the doubler, be sure to apply wet micro to both sides of the doubler. Micro is supposed to applied to every side of foam that touches glass.
+Tip: When adding the doubler, be sure to apply wet micro to both sides of the doubler. Micro is supposed to applied to every side of foam that touches glass.
 
-The F-22 bulkhead, with doubler in place. After initial trimming. I still need to go back and do a much closer trim.
-![Image of the aft face of the F-22 bulkhead, with doubler in place. After initial trimming of the fiberglass](/assets/images/build_log/chapter_4/f22_aft.jpg).
-
-A week after glassing the aft face (including the doubler), I glassed the forward face of the F-22 bulkhead. Currently awaiting curing.
+I had built out one F-22 bulkhead, with the aft face looking pretty decent. However, I had made a number of errors glassing the forward side. These errors were such that I'd essentially have to strip most of the fiberglass from the forward side. Additionally, after discussing this with other people, I realized that I had added way too much wet micro to the foam. With both of those, I made the decision to remake the F-22 bulkhead entirely.
 
 ## Instrument Panel
+
+Status: 1 side glassed, awaiting glassing the other side. Need to cut out and add stiffeners/cable channels.
 
 The Instrument Panel is roughly the same size as the F-22 bulkhead. It's current state is also foam pieces, epoxied together with 5-minute epoxy. Along with the other bulkheads, I have not yet glassed it.
 
 Additionally, I need to cut out and prepare the stiffeners and cable channels for the instrument panel. Which, per plans, I'll do after glassing both sides.
 
-I have glassed one side of the Instrument Panel. Currently awaiting curing.
+I have glassed one side of the Instrument Panel, and it turned out acceptably. I trimmed the fiberglass from the edges, and am awaiting glassing the other side.
 
 ## Landing Gear Bulkheads
 
-Along with the other bulkheads, the landing gear bulkheads have had their foam parts cut out and epoxied together with 5-minute epoxy.
+Status:
 
-Unglassed forward landing gear bulkheads
-![Unglassed forward landing gear bulkheads](/assets/images/build_log/chapter_4/forward_landing_gear_bulkheads_unglassed.jpg)
+| Upper Forward Landing Gear Bulkhead | Lower Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
+|-------------------------------------|-------------------------------------|---------------------------|
+| Foam core is cut. Need to glass. | Foam core is cut, need to cut hardpoints. | Foam core & hardpoints are cut. Need to join & glass them. |
 
-Unglassed aft landing gear bulkhead
-![Unglassed aft landing gear bulkhead](/assets/images/build_log/chapter_4/aft_landing_gear_bulkhead_unglassed.jpg)
+For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads.
+
+When I remade them with the correct foam, I was able to cut them in one piece - no epoxying with 5-minute epoxy required.
 
 I made  12 inch by 8 inch sheets of 22 ply BID fiberglass for the bulkhead hardpoints. Which is enough to make 8 hardpoints. Which has turned out to be a good mistake because I irreparably damaged 2 of them with my trim router while I was trying to trim them to their final shape.
 
 ![Damaged forward landing gear bulkheads](/assets/images/build_log/chapter_4/aft_landing_gear_hardpoints_damaged.jpg)
 
-Tip: If you're using a handheld router, hold the router with both hands. Don't try to hold it with one hand, and a vacuum hose (for dust collection) with the other. I was lucky and didn't get hurt when this happened. Get an assistant to help with dust collection - fiberglass dust is toxic, after all.
+Tip: If you're using a handheld router, hold the router with both hands. Don't try to hold it with one hand, and a vacuum hose (for dust collection) with the other. I was lucky and didn't get hurt when this happened.
 
 When I try again, I will also 3d print templates of the hardpoints, which I will use as a guide with a trim bit so that I can even more precisely shape the fiberglass to the desired shape.
 
 ## Firewall
+
+Status: Temporary firewall complete, awaiting alodyne for the permanent firewall.
 
 I have built a temporary firewall, and I have also cut out parts of the permanent firewall. I need to cut out the remaining pieces of the permanent firewall, as well as glass them. I have alodyne on order from Aircraft spruce. I'll use that to protect the aluminum parts prior to inserting them into the firewall. Once the alodyne arrives, I'll complete work on the firewall.
 
