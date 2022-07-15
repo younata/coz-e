@@ -32,11 +32,15 @@ I identified a number of inconsistencies in the epoxy cure on both sides, and wi
 
 ## F-28 Bulkhead
 
-Status: 1 side glassed, awaiting glassing the other side.
+Status: Finished! ✅
 
 The F-28 Bulkhead is a relatively small piece, and will be made of fiberglass glassed onto clark foam. I cut the foam out using a utility knife and a Fein tool.
 
-I have glassed one side of the F-28 bulkhead, and it turned out pretty good! I trimmed the fiberglass from the edges. I need to glass the other side.
+One side turned out better than the other. The first side I glassed, I put down a significantly thicker layer of wet micro than I should have. I determined that while that wasn't enough of an issue to warrant remaking the part, and made a note to only place a thin layer of wet micro when I did the other side.
+
+The image below is a composite image of both sides of the F-28 bulkhead, which shows the differences in the layup. Each side is labeled for convenience, both sides of F-28 received the same amount of fiberglass.
+
+![Composite image of both sides of the F-28 bulkhead](/assets/images/build_log/chapter_4/f28_composite.jpg).
 
 ## F-22 Bulkhead
 
