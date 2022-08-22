@@ -1,4 +1,4 @@
-# Chapter 10: Canard Construction
+# Chapter 10 - Canard Construction
 
 ## Log
 

@@ -8,5 +8,5 @@ Because the sidebar will last chapters in [lexicographical order](https://stacko
 - [Chapter 4 - Bulkheads, Instrument Panel, Front Seatback and Temporary Firewall]({{#path_for Chapter 4 - Bulkheads, Instrument Panel, Front Seatback and Temporary Firewall}})
 - [Chapter 5 - Fuselage sides]({{#path_for Chapter 5 - Fuselage Sides}})
 - [Chapter 10 - Canard Construction]({{#path_for Chapter 10 - Canard Construction}})
-- [Chapter 11 - Elevators]({{#path_for chapter_11 - Elevators}})
+- [Chapter 11 - Elevators]({{#path_for Chapter 11 - Elevators}})
 - [Chapter 19 - Wings and Ailerons]({{#path_for Chapter 19 - Wings and Ailerons}})
