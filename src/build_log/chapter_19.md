@@ -5,3 +5,8 @@ Normally, you're supposed to spend most of chapter 19 making jigs for the wings,
 ![Image of one of the wings, leading-edge down, resting on a foam stand](/assets/images/build_log/chapter_19/wings_as_received.jpg)
 
 This allows me to skip approximately 3/4 of chapter 19. I'm still taking stock of exactly where I need to pick up from. I also expect to not touch this for quite some time.
+
+## Log
+
+- 2022-06-20: [Took delivery of wings & Canard cores](https://twitter.com/younata/status/1539030876050186240)
+- 2022-07-23 & 2022-07-24: Built cart for to store wings on until I need them. [Link to tweet](https://twitter.com/younata/status/1552695879600992256)
