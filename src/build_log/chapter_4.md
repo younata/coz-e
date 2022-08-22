@@ -66,7 +66,7 @@ Status:
 
 | Upper Forward Landing Gear Bulkhead | Lower Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
 |-------------------------------------|-------------------------------------|---------------------------|
-| Foam core is cut. Need to glass. | Foam core is cut, need to cut hardpoints. | Foam core & hardpoints are cut. Need to join & glass them. |
+| Foam core is cut. Glassed aft side. Need to glass forward side. | Foam core is cut, need to cut hardpoints. | Foam core & hardpoints are cut. Need to join & glass them. |
 
 For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads.
 
@@ -95,16 +95,16 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2021-10-12 - [Glassed forward side of front seatback.](https://twitter.com/younata/status/1448125284012732421)
 - 2021-10-15 - Cut out corners from front seatback. Glassed aft side of front seatback.
 - 2021-10-23 - Finished front seatback (cut rest of holes).
-- 2021-10-27 - Cut foam shapes for F-28 & the F-22 doubler.
-- January 2022 - Cut foam for F-22 & Instrument Panel. Glued them together. Also cut & glued the wrong foam to make the landing gear bulkheads. Didn't realize this mistake until June 2022.
-- 2022-03-29 - Start cutting temporary firewall out of home depot 1/4 inch birch plywood.
+- 2021-10-27 - Cut foam shapes for F-28 & the F-22 doubler (initial).
+- January 2022 - Cut foam for F-22 (initial) & Instrument Panel. Glued them together. Also cut & glued the wrong foam to make the landing gear bulkheads. Didn't realize this mistake until June 2022.
+- 2022-03-29 - Start cutting temporary firewall out of home depot 1/4 inch birch plywood. Which is fine, because this won't go on the final aircraft.
 - 2022-03-31 - Finished temporary firewall.
 - 2022-04-05 - Cut rough outline for permanent firewall.
 - 2022-05-14 - Laid up 2 of 4 fiberglass bricks for landing gear bulkhead hardpoints
 - 2022-05-15 - Sanded down angles of F-22 doubler to the correct shape
 - 2022-05-20 - Laid up 2 more fiberglass bricks for landing gear bulkhead hardpoints. You don't necessarily need 4 bricks (you can easily get 2 hardpoints per brick. 3 if you're really careful. At the time, I thought it was 1 brick per hardpoint). But this worked out for me because I made errors cutting the 2 of the hardpoints.
-- 2022-05-22 - Laid up aft side of F-22 bulkhead
-- 2022-05-25 - Trimmed excess fiberglass from aft side of F-22.
+- 2022-05-22 - Laid up aft side of F-22 bulkhead (initial).
+- 2022-05-25 - Trimmed excess fiberglass from aft side of F-22 (initial).
 - 2022-05-28 - Laid up aft side of Instrument panel and one side of F-28.
 - 2022-05-29 - Laid up forward side of F-28 bulkhead
 - 2022-05-30 - Cut initial hardpoints for the forward landing gear bulkhead. Router slipped from my hand and both were damaged and in a to-me unrepairable state.
@@ -118,6 +118,6 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-07-28 - Cut stiffeners for instrument panel. Also cut new foam for F-22.
 - 2022-07-?? - Cut out side panels for permanent firewall.
 - 2022-08-03 - Drilled holes for screws in permanent firewall (side panels & bottom).
-- 2022-08-04 - Landed down hardpoints for landing gear bulkheads to desired shapes.
+- 2022-08-04 - Sanded down hardpoints for landing gear bulkheads.
 - 2022-08-06 - Attached horizontal instrument panel stiffeners with 5-minute epoxy.
 - 2022-08-10 - Glassed aft side of upper forward landing gear bulkhead (the one without hardpoints).
