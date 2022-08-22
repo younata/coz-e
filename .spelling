@@ -147,6 +147,7 @@ fiberglassing
 cnc-cut
 lovac
 cozygirrrl
+labmates
  - src/resources.md
 CNC'd
  - src/newsletter/README.md
@@ -158,3 +159,5 @@ _
 arduino
  - src/shop_setup/workdesk.md
 backguard
+ - src/build_log/chapter_4.md
+hardpoint

@@ -52,13 +52,11 @@ I had built out one F-22 bulkhead, with the aft face looking pretty decent. Howe
 
 ## Instrument Panel
 
-Status: 1 side glassed, awaiting glassing the other side. Need to cut out and add stiffeners/cable channels.
+Status: Both side glassed. Horizontal Stiffeners epoxied. Need to glass them & add vertical stiffeners.
 
 The Instrument Panel is roughly the same size as the F-22 bulkhead. It's current state is also foam pieces, epoxied together with 5-minute epoxy. Along with the other bulkheads, I have not yet glassed it.
 
 Additionally, I need to cut out and prepare the stiffeners and cable channels for the instrument panel. Which, per plans, I'll do after glassing both sides.
-
-I have glassed one side of the Instrument Panel, and it turned out acceptably. I trimmed the fiberglass from the edges, and am awaiting glassing the other side.
 
 ## Landing Gear Bulkheads
 
