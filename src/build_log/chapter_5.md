@@ -1,18 +1,17 @@
 # Chapter 5 - Fuselage Sides
 
-## FJ Jigs
+Chapter 4 was about making a bunch of bulkheads which are all internal to the fuselage structure. Chapter 5 involves making external parts - the fuselage sides.
+
+## FJ* Jigs
 
 Status:
 
-| FJA | FJB | FJC | FJD | FJE |
-| 1 template 3d printed | Not started | Not started | ✅ | Not started |
+| Template | Status |
+|----------|--------|
+| FJA | Template 3d printed & assembled, need to create actual jigs from it. |
+| FJB | Not started |
+| FJC | Not started |
+| FJD | ✅ (3d printed) |
+| FJE | Not started |
 
-The FJA, FJB, FJC, FJD and FJE jigs are used to give the fuselage sides the desired curves. These are intended to be cut out of 1-inch thick wood (nominally) and for the most part are very straight forward. With the exception of FJA, these are all very simple shapes. To make it easier for me, I wanted to 3d print as much of these jigs as I can. FJD is small enough that I could 3D print both of them on my desktop 3d printer, however the others are large enough that I'd have to print them in parts and join them. FJA is the only one actually worth doing this, because of that curve. I thought of getting a belt-style printer, so that I could print all of these without having to join them. But looking ahead, I don't think that would be a good investment for this. 1 of the 4 FJA jig is printed & joined. The other 3 will be made from wood, using a trim bit in my router and the 3d printed jig as a template.
-
-## Log
-
-- 2022-06-05 - Started tracing and noting where to cut for the FJB, FJC, and FJE jigs.
-- 2022-06-06 - [3D printed the FJD jigs.](https://twitter.com/younata/status/1533602662184148993)
-- 2022-06-06 - [Started 3D printing the FJA jigs.](https://twitter.com/younata/status/1533981952079843328)
-- 2022-06-08 - Finished 3D printing FJA.
-- 2022-07-?? - Joined the FJA jig, using gorilla glue.
+The FJ* jigs are used for shaping the longerons and providing a shape for the foam that will be epoxied. I have a desktop 3d printer, and decided that as much as possible, I should try to take advantage of it for making jigs and other non-airplane-parts. The FJD jig is small enough to print as a single piece, so I was able to easily print both copies of them. The other jigs are large enough that I'd have to glue them together post-printing. Which I chose to do for the FJA jig, which has a curve in it. I only made one of these, the other 3 copies I'll make by using the first as a template, and using a trim bit in my router.
