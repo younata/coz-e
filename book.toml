@@ -35,3 +35,5 @@ strict = true
 after = ["chapter-path"]
 base_url = "https://coz-e.rachelbrindle.com"
 article_preview_lines = -1
+
+[preprocessor.git-updated]

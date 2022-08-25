@@ -119,4 +119,5 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-08-04 - Sanded down hardpoints for landing gear bulkheads.
 - 2022-08-06 - Attached horizontal instrument panel stiffeners with 5-minute epoxy.
 - 2022-08-10 - Glassed aft side of upper forward landing gear bulkhead (the one without hardpoints).
-- 2022-08-23 - [Pulled off masking tape from instrument panel](https://twitter.com/younata/status/1562298805692682240). Should've done this while the epoxy was still green. There's still some small amount tape that's under some cured epoxy. Because of the location, the best I think I can do is scrape at it with a knife.
+- 2022-08-23 - [Pulled off pointers tape from instrument panel](https://twitter.com/younata/status/1562298805692682240). Should've done this while the epoxy was still green. There's still some small amount tape that's under some cured epoxy. Because of the location, the best I think I can do is scrape at it with a knife.
+- 2022-08-23 - [Removed as much painters tape on the instrument panel as I could, time-boxing to 2 hours](https://twitter.com/younata/status/1562651689253244928). Also [cut fiberglass for glassing the stiffeners](https://twitter.com/younata/status/1562652070398038019?s=20&t=VT8aAb7IGkz6Rm5fxrwjMA).
