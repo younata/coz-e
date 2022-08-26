@@ -2,7 +2,7 @@
 
 Chapter 4 starts off fairly simple - you're working entirely with flat shapes that are all internal to the aircraft. The only curves are the edges.
 
-Current status (Mid July, 2022): In early May 2022, I had a minisplit installed in my workshop. While I'm able to work quickly on this, I've had a few setbacks and Real-Life-Interruptions that keep this work ongoing.
+Current status (Late August, 2022): Still in progress.
 
 ## Front Seatback
 
@@ -50,13 +50,15 @@ Tip: When adding the doubler, be sure to apply wet micro to both sides of the do
 
 I had built out one F-22 bulkhead, with the aft face looking pretty decent. However, I had made a number of errors glassing the forward side. These errors were such that I'd essentially have to strip most of the fiberglass from the forward side. Additionally, after discussing this with other people, I realized that I had added way too much wet micro to the foam. With both of those, I made the decision to remake the F-22 bulkhead entirely.
 
+For the second go around, I had ordered more clark foam to use. Which meant I could be way more liberal with material usage as this high-density clark foam is not used after this chapter. This meant that I could minimize the amount of joins I needed to make, which made things a little bit easier. I still haven't glassed this second attempt.
+
 ## Instrument Panel
 
-Status: Both side glassed. Horizontal Stiffeners epoxied. Need to glass them & add vertical stiffeners.
+Status: Both sides glassed. Horizontal Stiffeners epoxied. Need to glass them & add vertical stiffeners.
 
-The Instrument Panel is roughly the same size as the F-22 bulkhead. It's current state is also foam pieces, epoxied together with 5-minute epoxy. Along with the other bulkheads, I have not yet glassed it.
+The Instrument Panel is a little bit larger than the F-22 bulkhead. I made this by cutting pieces of it out of clark foam, and them gluing them together with 5-minute epoxy. Afterwards (much later in my case), I laid up both sides with 2 layers of BID everywhere, and then a layer of UNI running top span only.
 
-Additionally, I need to cut out and prepare the stiffeners and cable channels for the instrument panel. Which, per plans, I'll do after glassing both sides.
+Once that cured, I added the horizontal stiffeners by gluing them in place with 5 minute epoxy. I will glass them with BID tape. Once the lower horizontal stiffener is fully glassed, I'll glue in the vertical stiffeners and glass those with BID tape as well. Then, it'll be done.
 
 ## Landing Gear Bulkheads
 
@@ -64,7 +66,7 @@ Status:
 
 | Upper Forward Landing Gear Bulkhead | Lower Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
 |-------------------------------------|-------------------------------------|---------------------------|
-| Foam core is cut. Glassed aft side. Need to glass forward side. | Foam core is cut, need to cut hardpoints. | Foam core & hardpoints are cut. Need to join & glass them. |
+| Foam core is cut. Glassed forward side. Need to glass aft side. | Foam core & hardpoints are cut. | Foam core & hardpoints are cut. Need to join & glass them. |
 
 For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads.
 
@@ -76,13 +78,15 @@ I made  12 inch by 8 inch sheets of 22 ply BID fiberglass for the bulkhead hardp
 
 Tip: If you're using a handheld router, hold the router with both hands. Don't try to hold it with one hand, and a vacuum hose (for dust collection) with the other. I was lucky and didn't get hurt when this happened.
 
-When I try again, I will also 3d print templates of the hardpoints, which I will use as a guide with a trim bit so that I can even more precisely shape the fiberglass to the desired shape.
+My second attempt was much more successful. I didn't bother with the router at all, and cut the fiberglass with an oscillating tool. I used a belt sander for final shaping, and it came out quite well.
+
+As of this writing, I have yet to join the hardpoints with the foam.
 
 ## Firewall
 
 Status: Temporary firewall complete, awaiting alodyne for the permanent firewall.
 
-I have built a temporary firewall, and I have also cut out parts of the permanent firewall. I need to cut out the remaining pieces of the permanent firewall, as well as glass them. I have alodyne on order from Aircraft spruce. I'll use that to protect the aluminum parts prior to inserting them into the firewall. Once the alodyne arrives, I'll complete work on the firewall.
+I have built a temporary firewall, and I have also made the cuts for the permanent firewall. I'm putting off glassing them because I decided to alodyne the aluminum parts prior to inserting them into the firewall. Which I'm still waiting for that to arrive.
 
 Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from a big box store. It's terrible wood, but that doesn't matter because it's not going to fly.
 ![The temporary firewall](/assets/images/build_log/chapter_4/temporary_firewall.jpg)

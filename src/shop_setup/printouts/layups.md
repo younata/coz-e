@@ -19,7 +19,7 @@
   - Dry Micro: Enough bubbles so it won't run.
   - Wet Flox: Thick, but pourable mixture of mixed epoxy & flocked cotton.
   - **Applying to surface**:
-    - Over foam: brush or squeegee on a thin micro slurry layer (urethane foam: Use a thick micro slurry layer).
+    - Over foam: brush or squeegee on a **very** thin micro slurry layer. (urethane foam: Use a thick micro slurry layer).
     - Over glass: Brush on a coat of epoxy.
 5. Lay on cloth:
   - Pull edges to straighten wrinkles.
@@ -32,11 +32,11 @@
 7. Squeegee:
   - If you have excess epoxy, squeegee it off to the side. Use squeegee with many light passes to move epoxy from wet areas to dry areas.
 8. Preliminary Contour Fill
-  - Save sanding by troweling dry micro over low areas while the glass layup is still tacky.
+  - Save sanding by troweling dry micro over low areas while the glass layup is "green".
   - This is done at trailing edges, spar caps, or over any low areas.
     - The low places are overfilled with micro, then sanded smooth after full cure.
 9. Knife Trim:
-  - Razor-trim the edges at the "knife trim" stage, about 3-4 hours after the layup.
+  - Razor-trim the edges at the "green" stage, about 3-4 hours after the layup.
   - Alternatively: Wait until a full cure, then use the variable oscillating tool to knife trim.
 10. General Inspection:
   - Look for dry glass, excess epoxy, bubbles, and delamination before walking away from wet layup.
