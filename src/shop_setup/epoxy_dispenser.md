@@ -35,6 +35,15 @@ Another feature I'd like is the ability to specify an exact amount of either res
 
 ![Epoxy Hardener crystalizing on the plastic tubing](/assets/images/epoxy_dispenser/hardener_osmosing_issue.jpg)
 
-More worryingly than issues replacing the contains, the epoxy hardener I use appears to be able to permeate through the plastic of the pumps. Which makes me worry that it might lead to gumming up the pump, potentially breaking it or causing some other issue. This appears to be the same issue that [@cyanocracy on twitter](https://twitter.com/cyanoacry) ran into [when he tried this same idea](https://twitter.com/cyanoacry/status/1520564688840396800), though he's using a slightly different epoxy system. I'm currently attempting to resolve the issue by using different tubing materials. Currently, I've tried silicone (which came with the epoxy pump), and Tygon PVC tubing (which appears to be less permeable to the hardener than the silicon is). I have on order additional tubing to try with this. Thankfully, the epoxy resin does not appear to have this issue at all.
+More worryingly than issues replacing the contains, the epoxy hardener I use appears to be able to permeate through the plastic of the pumps. Which makes me worry that it might lead to gumming up the pump, potentially breaking it or causing some other issue. This appears to be the same issue that [@cyanoacry on twitter](https://twitter.com/cyanoacry) ran into [when he tried this same idea](https://twitter.com/cyanoacry/status/1520564688840396800), though he's using a slightly different epoxy system. I've attempted to resolve this issue by using different tubing materials. At the moment, the I've gone through every tubing material I could find on McMaster Carr, and none of them completely solve the issue. The best I've come across is black rubber tubing, which lasts about 3 weeks before enough permeates through that I need to replace it. Thankfully, the epoxy resin does not appear to have this issue at all, and has been perfectly fine with the silicone tubing that came with the pump.
 
-If I can't resolve the tubing permeability issue, then perhaps I'll redesign this system. I've been thinking of a gravity-fed method where I'd store the resin and hardener in separate sealed metal boxes, and I'd dispense them using a servo to open or close a butterfly valve. Or I could give up and use a manual pump.
+I'm willing to accept this and resign myself to replacing the tubing twice a month, that's still plenty of time.
+
+## Future Work
+
+I'd love to improve this and make it more versatile, some ideas for future work include:
+
+- Redesign the system to have all components on a single board, instead of connecting different breakout boards.
+- Add a UI for dynamically configuring different mixtures of epoxy.
+- Add support for another motor, so that I can mix fast and slow hardeners for a configurable pot life.
+- Add buttons for shortcuts for different predefined mixtures.
