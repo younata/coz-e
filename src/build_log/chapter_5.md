@@ -20,3 +20,4 @@ The FJ* jigs are used for shaping the longerons and providing a shape for the fo
 
 - 2022-06-05, 2022-06-06 - 3D printed FJD jigs & FJA template jig.
 - 2022-09-03 - Made FJB, FJC, and FJD jigs. Made most of FJE, but need to trim a little bit more wood to get it to the final shape. Made rough cuts for what will eventually be the FJA jigs.
+- 2022-09-04 - A little further progress on one of the FJA jigs.

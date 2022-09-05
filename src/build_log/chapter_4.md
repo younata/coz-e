@@ -28,8 +28,6 @@ The forward side of the front seatback.
 
 As you can see, it turned out fine. I did go back to using polyester peel ply for the aft side of the front seatback. Which also turned out fine and was relatively easy to pull out.
 
-I identified a number of inconsistencies in the epoxy cure on both sides, and will be drilling holes and injecting epoxy into them once it warms up and I'm sure the injected epoxy will correctly cure.
-
 ## F-28 Bulkhead
 
 Status: Finished! ✅
@@ -54,7 +52,7 @@ For the second go around, I had ordered more clark foam to use. Which meant I co
 
 ## Instrument Panel
 
-Status: Both sides glassed. Horizontal Stiffeners epoxied. Need to glass them & add vertical stiffeners.
+Status: Both sides glassed. Horizontal Stiffeners epoxied. Vertical stiffeners added, interior of each vertical stiffener is glassed.
 
 The Instrument Panel is a little bit larger than the F-22 bulkhead. I made this by cutting pieces of it out of clark foam, and them gluing them together with 5-minute epoxy. Afterwards (much later in my case), I laid up both sides with 2 layers of BID everywhere, and then a layer of UNI running top span only.
 
@@ -66,7 +64,7 @@ Status:
 
 | Upper Forward Landing Gear Bulkhead | Lower Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
 |-------------------------------------|-------------------------------------|---------------------------|
-| Foam core is cut. Glassed forward side. Need to glass aft side. | Foam core & hardpoints are cut. | Foam core & hardpoints are cut. Need to join & glass them. |
+| Foam core is cut. Glassed both sides. Need to clean up the edges. | Foam core & hardpoints are cut & joined. | Foam core & hardpoints are cut. Need to join & glass them. |
 
 For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads.
 
@@ -80,7 +78,7 @@ Tip: If you're using a handheld router, hold the router with both hands. Don't t
 
 My second attempt was much more successful. I didn't bother with the router at all, and cut the fiberglass with an oscillating tool. I used a belt sander for final shaping, and it came out quite well.
 
-As of this writing, I have yet to join the hardpoints with the foam.
+As of this writing, I have only joined the hardpoints for the lower forward landing gear bulkhead.
 
 ## Firewall
 
@@ -133,3 +131,5 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-08-30 - Cut fiberglass for both fore and aft sides of the lower forward landing gear bulkhead.
 - 2022-08-31 - Glassed one side of the lower forward landing gear bulkhead.
 - 2022-09-01 - Glassed lower side of the horizontal stiffeners on the instrument panel. Also pulled off fiberglass from failed layup of the lower forward landing gear bulkhead.
+- 2022-09-02 - Glassed the 45° edge on the upper end of the horizontal stretch on the aft side of the upper forward landing gear bulkhead.
+- 2022-09-04 - Installed the vertical stiffeners on the instrument panel. Glassed the inner corners of these as well.
