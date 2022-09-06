@@ -133,3 +133,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-09-01 - Glassed lower side of the horizontal stiffeners on the instrument panel. Also pulled off fiberglass from failed layup of the lower forward landing gear bulkhead.
 - 2022-09-02 - Glassed the 45° edge on the upper end of the horizontal stretch on the aft side of the upper forward landing gear bulkhead.
 - 2022-09-04 - Installed the vertical stiffeners on the instrument panel. Glassed the inner corners of these as well.
+- 2022-09-05 - [Installed hardpoints to the aft landing gear bulkhead. Re-glassed the lower forward landing gear bulkhead](https://twitter.com/younata/status/1567000102744760320).
