@@ -41,3 +41,9 @@ Dry Micro is used to fill low spots and voids.
 Flox is a mixture of epoxy and flocked cotton. There are two types of flox: standard and "wet". Standard is epoxy mixed with just enough flocked cotton to make the mixture stand up, whereas wet flox uses less flocked cotton, and is mixed so that it'll sag or run, similar to wet micro.
 
 When using flox to bond a metal part, be sure to sand the metal dull with 220-grit sandpaper. Also paint pure epoxy (no flox) on the metal part prior to bonding with flox.
+
+## Peel Ply
+
+Peel Ply is a term for a layer of fabric used to absorb extra epoxy, smooth out the transition between extra layers of fiberglass, and to improve adhesion when applying additional layups of fiberglass to an already-cured layer. Peel ply is always added as the last layer in a layup, and is removed in the "green stage" - when the epoxy becomes more viscous and changes to being a very tacky kind of goop.
+
+The FAA has studied this, producing a document [The Effect of Peel-Ply Surface Preparation Variables on Bond Quality](https://www.tc.faa.gov/its/worldpac/techrpt/ar06-28.pdf). Which concludes that a thick-weave, uncoated polyester fabric is the best fabric to use as peel ply. I use a white, presumably uncoated, thick-weave polyester sourced from a local fabric store.
