@@ -2,7 +2,7 @@
 
 Chapter 4 starts off fairly simple - you're working entirely with flat shapes that are all internal to the aircraft. The only curves are the edges.
 
-Current status (Late August, 2022): Still in progress.
+Current status (Mid September, 2022): Front Seatback, F-28, and the instrument panel are all finished.
 
 ## Front Seatback
 
@@ -40,6 +40,16 @@ The image below is a composite image of both sides of the F-28 bulkhead, which s
 
 ![Composite image of both sides of the F-28 bulkhead](/assets/images/build_log/chapter_4/f28_composite.jpg).
 
+## Instrument Panel
+
+Status: Finished! ✅
+
+The Instrument Panel is a little bit larger than the F-22 bulkhead. I made this by cutting pieces of it out of clark foam, and them gluing them together with 5-minute epoxy. Afterwards (much later in my case), I laid up both sides with 2 layers of BID everywhere, and then a layer of UNI running top span only.
+
+I chose to attach and glass the stiffeners in 6 parts: First, I attached the horizontal stiffeners, which largely run across the upper span of the instrument panel. Second, I glassed the upper part of those stiffeners. Third, I glassed the lower part of those stiffeners. Which includes adding the "lip" to run wire channels and harnesses through. Fourth, I attached the vertical stiffeners, which run vertically along the center span of the instrument panel. Fifth, I glassed the inner parts of the vertical stiffeners (which don't have a lip on them). Lastly, I glassed the outer part of the vertical stiffeners. I went with this order so that the fiberglass used for the lower-horizontal stiffener would already be in place when I attached the vertical stiffeners. Additionally, I didn't want to deal with trying to add fiberglass underneath one of the "lips". For all of this glassing, I used [BID tape]({{#path_for Fiberglassing Techniques#bid-taping}}) with either 1 or 2 plies of BID, as called out in the plans.
+
+Note: I actually ended up using UNI instead of BID for this. Which while not according to spec, I don't expect this to be an issue. I'm also expecting to make a slightly different instrument panel later on, to account for the glass cockpit I'm intending to build.
+
 ## F-22 Bulkhead
 
 Status: Remaking entirely.
@@ -50,21 +60,13 @@ I had built out one F-22 bulkhead, with the aft face looking pretty decent. Howe
 
 For the second go around, I had ordered more clark foam to use. Which meant I could be way more liberal with material usage as this high-density clark foam is not used after this chapter. This meant that I could minimize the amount of joins I needed to make, which made things a little bit easier. I still haven't glassed this second attempt.
 
-## Instrument Panel
-
-Status: Both sides glassed. Horizontal Stiffeners glassed & cured. Vertical stiffeners added, interior of each vertical stiffener is glassed & cured. Exteriors are glassed, awaiting cured.
-
-The Instrument Panel is a little bit larger than the F-22 bulkhead. I made this by cutting pieces of it out of clark foam, and them gluing them together with 5-minute epoxy. Afterwards (much later in my case), I laid up both sides with 2 layers of BID everywhere, and then a layer of UNI running top span only.
-
-I chose to attach and glass the stiffeners in 6 parts: First, I attached the horizontal stiffeners, which largely run across the upper span of the instrument panel. Second, I glassed the upper part of those stiffeners. Third, I glassed the lower part of those stiffeners. Which includes adding the "lip" to run wire channels and harnesses through. Fourth, I attached the vertical stiffeners, which run vertically along the center span of the instrument panel. Fifth, I glassed the inner parts of the vertical stiffeners (which don't have a lip on them). Lastly, I glassed the outer part of the vertical stiffeners. I went with this order so that the fiberglass used for the lower-horizontal stiffener would already be in place when I attached the vertical stiffeners. Additionally, I didn't want to deal with trying to add fiberglass underneath one of the "lips". For all of this glassing, I used [BID tape]({{#path_for Fiberglassing Techniques#bid-taping}}) with either 1 or 2 plies of BID, as called out in the plans.
-
 ## Landing Gear Bulkheads
 
 Status:
 
 | Upper Forward Landing Gear Bulkhead | Lower Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
 |-------------------------------------|-------------------------------------|---------------------------|
-| Redoing. | Both sides glassed, one cured. Awaiting curing of the other one before declaring finished. | Foam core & hardpoints cut and joined. Awaiting glassing. |
+| Redoing. | Redoing. Foam core is cut, hardpoints are cut. | Foam core & hardpoints cut and joined. Awaiting glassing. |
 
 For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads.
 
@@ -83,6 +85,10 @@ At this point, both forward landing gear bulkheads should only be glassed with 2
 However, my lower forward landing gear bulkhead was built with the 3 layers as described in the plans. One side cured well, and the other side is currently curing.
 
 Unlike the forward bulkheads, the aft landing gear bulkhead does receive side reinforcement layers at this stage. Additionally, the entire bulkhead is covered in 2 layers of BID and 2 layers of horizontal UNI. The reinforcement layers for the aft bulkhead are 8 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the forward side, and 3 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the aft side.
+
+---
+
+On 2022-09-11, I discovered that some replacement BID I had switched over to in August was actually UNI. This mistake was due to blindly trusting that the BID I had ordered was actually BID, without verifying that. Once I realized this mistake, I went through my build footage to check which parts were affected, and to my relief, it was really only the lower forward landing gear bulkhead (the other parts I had used the not-BID for were either rejected, or were the stiffener ribs on the instrument panel, which I don't think will be an issue). I marked that part as not-for-flight, ordered new foam and fiberglass, and made a note to check that in the future the fiberglass I receive is actually I actually ordered. Once the new fiberglass came, I did verify that it was actually BID, and that the fibers were running as they should be.
 
 ## Firewall
 
@@ -141,3 +147,5 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-09-06, 2022-09-08 - Cut fiberglass for the landing gear bulkheads.
 - 2022-09-09 - Glassed the other side of the lower forward landing gear bulkhead. Glassed the exterior of the vertical stiffeners on the instrument panel.
 - 2022-09-10 - Cut & shaped foam for a new upper forward landing gear bulkhead.
+- 2022-09-11 - Realized I had accidentally been using UNI as BID, paused work as I figured out which parts were now useless and awaited for more actual BID to arrive. (Thankfully only need to redo the lower forward landing gear bulkhead)
+- 2022-09-18 - Replacement foam for landing gear bulkhead arrived. Cut new foam for this. Also cut new hardpoint from last remaining hardpoint sheet. Also trimmed the last bit of fiberglass for the instrument panel, finishing it.
