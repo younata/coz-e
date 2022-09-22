@@ -149,3 +149,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-09-10 - Cut & shaped foam for a new upper forward landing gear bulkhead.
 - 2022-09-11 - Realized I had accidentally been using UNI as BID, paused work as I figured out which parts were now useless and awaited for more actual BID to arrive. (Thankfully only need to redo the lower forward landing gear bulkhead)
 - 2022-09-18 - Replacement foam for landing gear bulkhead arrived. Cut new foam for this. Also cut new hardpoint from last remaining hardpoint sheet. Also trimmed the last bit of fiberglass for the instrument panel, finishing it.
+- 2022-09-22 - Glassed forward lower landing gear bulkhead attempt number 2.
