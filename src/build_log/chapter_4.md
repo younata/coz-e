@@ -64,11 +64,13 @@ For the second go around, I had ordered more clark foam to use. Which meant I co
 
 Status:
 
-| Upper Forward Landing Gear Bulkhead | Lower Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
+| Upper Landing Gear Bulkhead | Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
 |-------------------------------------|-------------------------------------|---------------------------|
-| Redoing. | Redoing. Foam core is cut, hardpoints are cut. | Foam core & hardpoints cut and joined. Awaiting glassing. |
+| Attempt 2: upper face is glassed and looks good. Need to trim cured fiberglass & glass lower face. | Attempt 3: Hardpoints are processed and ready, need to cut foam core and glass | Glassed aft face. |
 
-For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads.
+Note: The plans call the upper landing gear bulkhead and the forward landing gear bulkhead the same part. But they are made separately and then later joined. For that reason, as well as because "upper forward landing gear bulkhead" is a bit much, I'm going to refer to the lower portion of the forward landing gear bulkhead as the forward landing gear bulkhead. Similarly, the upper portion of the forward landing gear will be referred to as the upper landing gear bulkhead.
+
+For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads. Additionally, these are still useful as templates for making additional copies of the foam cores.
 
 When I remade them with the correct foam, I was able to cut them in one piece - no epoxying with 5-minute epoxy required.
 
@@ -80,21 +82,25 @@ Tip: If you're using a handheld router, hold the router with both hands. Don't t
 
 My second attempt was much more successful. I didn't bother with the router at all, and cut the fiberglass with an oscillating tool. I used a belt sander for final shaping, and it came out quite well.
 
-At this point, both forward landing gear bulkheads should only be glassed with 2 layers of BID and a layer of UNI (horizontally). While the lower forward landing gear bulkhead will only ever have those 3 layers (or at least, the extra layers are added when it's joined with the upper version in chapter 6), the upper forward landing gear bulkhead will later have some additional reinforcement layups. These will be added in chapter 6. In my first version of the upper forward landing gear bulkhead, I made the mistake of adding the reinforcement layups while building the initial part. That and other mistakes (not applying the horizontal layer of UNI to the vertical sides of the part, the 45° edges delaminated from the foam during cure) led me to conclude that I should redo the upper forward landing gear bulkhead. Don't make the same mistake I did.
+At this point, the forward and upper landing gear bulkheads should only be glassed with 2 layers of BID and a layer of UNI (horizontally). Later in Chapter 6, the forward and upper landing gear bulkheads will be joined together with some additional reinforcement layups. In my first version of the upper landing gear bulkhead, I made the mistake of adding the reinforcement layups while building the initial part. That and other mistakes (not applying the horizontal layer of UNI to the vertical sides of the part, the 45° edges delaminated from the foam during cure) led me to conclude that I should redo the upper landing gear bulkhead. Don't make the same mistake I did, double check your fiberglass.
 
-However, my lower forward landing gear bulkhead was built with the 3 layers as described in the plans. One side cured well, and the other side is currently curing.
-
-Unlike the forward bulkheads, the aft landing gear bulkhead does receive side reinforcement layers at this stage. Additionally, the entire bulkhead is covered in 2 layers of BID and 2 layers of horizontal UNI. The reinforcement layers for the aft bulkhead are 8 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the forward side, and 3 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the aft side.
+However, my lower landing gear bulkhead was built with the 3 layers as described in the plans. Unfortunately, I rejected this part after curing both sides because I accidentally used the wrong kind of fiberglass.
 
 ---
 
-On 2022-09-11, I discovered that some replacement BID I had switched over to in August was actually UNI. This mistake was due to blindly trusting that the BID I had ordered was actually BID, without verifying that. Once I realized this mistake, I went through my build footage to check which parts were affected, and to my relief, it was really only the lower forward landing gear bulkhead (the other parts I had used the not-BID for were either rejected, or were the stiffener ribs on the instrument panel, which I don't think will be an issue). I marked that part as not-for-flight, ordered new foam and fiberglass, and made a note to check that in the future the fiberglass I receive is actually I actually ordered. Once the new fiberglass came, I did verify that it was actually BID, and that the fibers were running as they should be.
+On 2022-09-11, I discovered that some replacement BID I had switched over to in August was actually UNI. This mistake was due to blindly trusting that the BID I had ordered was actually BID, without verifying that. Once I realized this mistake, I went through my build footage to check which parts were affected, and to my relief, it was really only the forward landing gear bulkhead (the other parts I had used the not-BID for were either rejected, or were the stiffener ribs on the instrument panel, which I don't think will be an issue). I marked that part as not-for-flight, ordered new foam and fiberglass, and made a note to check that in the future the fiberglass I receive is actually I actually ordered. Once the new fiberglass came, I did verify that it was actually BID, and that the fibers were running as they should be.
+
+---
+
+Unlike the forward bulkheads, the aft landing gear bulkhead does receive side reinforcement layers at this stage. Additionally, the entire bulkhead is covered in 2 layers of BID and 2 layers of horizontal UNI. The reinforcement layers for the aft bulkhead are 8 layers of UNI (vertically skewed, aligned with the inside edges) on each outer edge of the forward side, and 3 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the aft side.
+
+At this stage, the aft face of the aft landing gear bulkhead has been glassed, and I'm awaiting a full cure before I glass the forward face.
 
 ## Firewall
 
-Status: Temporary firewall complete, awaiting alodyne for the permanent firewall.
+Status: Temporary firewall complete, awaiting glassing the permanent firewall.
 
-I have built a temporary firewall, and I have also made the cuts for the permanent firewall. I'm putting off glassing them because I decided to alodyne the aluminum parts prior to inserting them into the firewall. Which I'm still waiting for that to arrive.
+I have built a temporary firewall, and I have also made the cuts for the permanent firewall.
 
 Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from a big box store. It's terrible wood, but that doesn't matter because it's not going to fly.
 ![The temporary firewall](/assets/images/build_log/chapter_4/temporary_firewall.jpg)
@@ -130,23 +136,27 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-08-03 - Drilled holes for screws in permanent firewall (side panels & bottom).
 - 2022-08-04 - Sanded down hardpoints for landing gear bulkheads.
 - 2022-08-06 - Attached horizontal instrument panel stiffeners with 5-minute epoxy.
-- 2022-08-10 - Glassed forward side of upper forward landing gear bulkhead (the one without hardpoints).
+- 2022-08-10 - Glassed forward side of upper landing gear bulkhead (the one without hardpoints).
 - 2022-08-23 - [Pulled off pointers tape from instrument panel](https://twitter.com/younata/status/1562298805692682240). Should've done this while the epoxy was still green. There's still some small amount tape that's under some cured epoxy. Because of the location, the best I think I can do is scrape at it with a knife.
 - 2022-08-24 - [Removed as much painters tape on the instrument panel as I could, time-boxing to 2 hours](https://twitter.com/younata/status/1562651689253244928). Also [cut fiberglass for glassing the stiffeners](https://twitter.com/younata/status/1562652070398038019?s=20&t=VT8aAb7IGkz6Rm5fxrwjMA).
-- 2022-08-25 - Cut fiberglass in preparation for glassing the aft side of the upper forward landing gear bulkhead (the one without hardpoints).
-- 2022-08-26 - Beveled edges of upper forward landing gear bulkhead. Was going to glass the aft side of this bulkhead, but ran into an issue with the new revision of the epoxy dispenser board and had to work around it.
-- 2022-08-27 - Glassed the aft side of the upper forward landing gear bulkhead. Also glassed the upper side of the horizontal stiffeners on the instrument panel.
-- 2022-08-28 - Pulled off the peel ply from the upper forward landing gear bulkhead & horizontal stiffeners.
-- 2022-08-29 - Epoxied (with 5 minute epoxy) [the hardpoints to the lower forward landing gear bulkhead](https://twitter.com/younata/status/1564448840979447808). (The aft landing gear bulkhead's hardpoints still need a little bit of material trimmed from them).
-- 2022-08-30 - Cut fiberglass for both fore and aft sides of the lower forward landing gear bulkhead.
-- 2022-08-31 - Glassed one side of the lower forward landing gear bulkhead.
-- 2022-09-01 - Glassed lower side of the horizontal stiffeners on the instrument panel. Also pulled off fiberglass from failed layup of the lower forward landing gear bulkhead.
-- 2022-09-02 - Glassed the 45° edge on the upper end of the horizontal stretch on the aft side of the upper forward landing gear bulkhead.
+- 2022-08-25 - Cut fiberglass in preparation for glassing the aft side of the upper landing gear bulkhead (the one without hardpoints).
+- 2022-08-26 - Beveled edges of upper landing gear bulkhead. Was going to glass the aft side of this bulkhead, but ran into an issue with the new revision of the epoxy dispenser board and had to work around it.
+- 2022-08-27 - Glassed the aft side of the upper landing gear bulkhead. Also glassed the upper side of the horizontal stiffeners on the instrument panel.
+- 2022-08-28 - Pulled off the peel ply from the upper landing gear bulkhead & horizontal stiffeners.
+- 2022-08-29 - Epoxied (with 5 minute epoxy) [the hardpoints to the forward landing gear bulkhead](https://twitter.com/younata/status/1564448840979447808). (The aft landing gear bulkhead's hardpoints still need a little bit of material trimmed from them).
+- 2022-08-30 - Cut fiberglass for both fore and aft sides of the forward landing gear bulkhead.
+- 2022-08-31 - Glassed one side of the forward landing gear bulkhead.
+- 2022-09-01 - Glassed lower side of the horizontal stiffeners on the instrument panel. Also pulled off fiberglass from failed layup of the forward landing gear bulkhead.
+- 2022-09-02 - Glassed the 45° edge on the upper end of the horizontal stretch on the aft side of the upper landing gear bulkhead.
 - 2022-09-04 - Installed the vertical stiffeners on the instrument panel. Glassed the inner corners of these as well.
-- 2022-09-05 - [Installed hardpoints to the aft landing gear bulkhead. Re-glassed the lower forward landing gear bulkhead](https://twitter.com/younata/status/1567000102744760320).
+- 2022-09-05 - [Installed hardpoints to the aft landing gear bulkhead. Re-glassed the forward landing gear bulkhead](https://twitter.com/younata/status/1567000102744760320).
 - 2022-09-06, 2022-09-08 - Cut fiberglass for the landing gear bulkheads.
-- 2022-09-09 - Glassed the other side of the lower forward landing gear bulkhead. Glassed the exterior of the vertical stiffeners on the instrument panel.
-- 2022-09-10 - Cut & shaped foam for a new upper forward landing gear bulkhead.
-- 2022-09-11 - Realized I had accidentally been using UNI as BID, paused work as I figured out which parts were now useless and awaited for more actual BID to arrive. (Thankfully only need to redo the lower forward landing gear bulkhead)
+- 2022-09-09 - Glassed the other side of the forward landing gear bulkhead. Glassed the exterior of the vertical stiffeners on the instrument panel.
+- 2022-09-10 - Cut & shaped foam for a new upper landing gear bulkhead.
+- 2022-09-11 - Realized I had accidentally been using UNI as BID, paused work as I figured out which parts were now useless and awaited for more actual BID to arrive. (Thankfully only need to redo the forward landing gear bulkhead)
 - 2022-09-18 - Replacement foam for landing gear bulkhead arrived. Cut new foam for this. Also cut new hardpoint from last remaining hardpoint sheet. Also trimmed the last bit of fiberglass for the instrument panel, finishing it.
-- 2022-09-22 - Glassed forward lower landing gear bulkhead attempt number 2.
+- 2022-09-22 - Glassed aft face of the forward landing gear bulkhead attempt number 2.
+- 2022-09-23 - Glassed F-22 attempt number 2.
+- 2022-10-02 - Glassed upper face of the upper landing gear bulkhead attempt number 2.
+- 2022-10-08 - Glassed aft face of the aft landing gear bulkhead
+- 2022-10-09 - Cut out and sanded foam off hardpoints from forward landing gear bulkhead attempt 2, to be used in attempt 3.
