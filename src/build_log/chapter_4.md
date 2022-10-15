@@ -52,7 +52,7 @@ Note: I actually ended up using UNI instead of BID for this. Which while not acc
 
 ## F-22 Bulkhead
 
-Status: Remaking entirely.
+Status: Attempt number 2 has aft face glassed, with doubler installed. Need to trim off some excess fiberglass & glass forward face.
 
 Tip: When adding the doubler, be sure to apply wet micro to both sides of the doubler. Micro is supposed to applied to every side of foam that touches glass.
 
@@ -66,7 +66,7 @@ Status:
 
 | Upper Landing Gear Bulkhead | Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
 |-------------------------------------|-------------------------------------|---------------------------|
-| Attempt 2: upper face is glassed and looks good. Need to trim cured fiberglass & glass lower face. | Attempt 3: Hardpoints are processed and ready, need to cut foam core and glass | Glassed aft face. |
+| Attempt 2: upper face is glassed and looks good. Need to trim cured fiberglass & glass lower face. | Attempt 3: Glassed 1 side. Awaiting curing and glassing other side. | Glassed aft face. Need to cut off the extra fiberglass |
 
 Note: The plans call the upper landing gear bulkhead and the forward landing gear bulkhead the same part. But they are made separately and then later joined. For that reason, as well as because "upper forward landing gear bulkhead" is a bit much, I'm going to refer to the lower portion of the forward landing gear bulkhead as the forward landing gear bulkhead. Similarly, the upper portion of the forward landing gear will be referred to as the upper landing gear bulkhead.
 
@@ -82,9 +82,11 @@ Tip: If you're using a handheld router, hold the router with both hands. Don't t
 
 My second attempt was much more successful. I didn't bother with the router at all, and cut the fiberglass with an oscillating tool. I used a belt sander for final shaping, and it came out quite well.
 
-At this point, the forward and upper landing gear bulkheads should only be glassed with 2 layers of BID and a layer of UNI (horizontally). Later in Chapter 6, the forward and upper landing gear bulkheads will be joined together with some additional reinforcement layups. In my first version of the upper landing gear bulkhead, I made the mistake of adding the reinforcement layups while building the initial part. That and other mistakes (not applying the horizontal layer of UNI to the vertical sides of the part, the 45° edges delaminated from the foam during cure) led me to conclude that I should redo the upper landing gear bulkhead. Don't make the same mistake I did, double check your fiberglass.
+At this point, the forward and upper landing gear bulkheads should only be glassed with 2 layers of BID and a layer of UNI (horizontally). Later in Chapter 6, the forward and upper landing gear bulkheads will be joined together with some additional reinforcement layups. In my first version of the upper landing gear bulkhead, I made the mistake of adding the reinforcement layups while building the initial part. That and other mistakes (not applying the horizontal layer of UNI to the vertical sides of the part, the 45° edges delaminated from the foam during cure) led me to conclude that I should redo the upper landing gear bulkhead. Don't make the same mistake I did, double check the layups you'll be doing before doing them.
 
 However, my lower landing gear bulkhead was built with the 3 layers as described in the plans. Unfortunately, I rejected this part after curing both sides because I accidentally used the wrong kind of fiberglass.
+
+The next forward landing gear bulkhead I made had what looked like too many air bubbles over the hardpoints. After trying to sand off enough fiberglass to repair that mistake, I realized it would be faster to just cut off the hardpoints and re-use them with a new foam core. Which is exactly what I did.
 
 ---
 
@@ -93,8 +95,6 @@ On 2022-09-11, I discovered that some replacement BID I had switched over to in 
 ---
 
 Unlike the forward bulkheads, the aft landing gear bulkhead does receive side reinforcement layers at this stage. Additionally, the entire bulkhead is covered in 2 layers of BID and 2 layers of horizontal UNI. The reinforcement layers for the aft bulkhead are 8 layers of UNI (vertically skewed, aligned with the inside edges) on each outer edge of the forward side, and 3 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the aft side.
-
-At this stage, the aft face of the aft landing gear bulkhead has been glassed, and I'm awaiting a full cure before I glass the forward face.
 
 ## Firewall
 
@@ -160,3 +160,6 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-10-02 - Glassed upper face of the upper landing gear bulkhead attempt number 2.
 - 2022-10-08 - Glassed aft face of the aft landing gear bulkhead
 - 2022-10-09 - Cut out and sanded foam off hardpoints from forward landing gear bulkhead attempt 2, to be used in attempt 3.
+- 2022-10-12 - Rough trim of fiberglass off of the aft landing gear bulkhead. Will probably build a router table for the final trim.
+- 2022-10-13 - Cut out new foam core of the forward landing gear bulkhead. Epoxied in place the hardpoints.
+- 2022-10-14 - Glassed one side of the forward landing gear bulkhead.
