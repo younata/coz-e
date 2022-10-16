@@ -2,13 +2,15 @@
 
 Chapter 4 was about making a bunch of bulkheads which are all internal to the fuselage structure. Chapter 5 involves making external parts - the fuselage sides.
 
+In this chapter, only the interior faces of the fuselage sides will be glassed. The exterior faces will be glassed in chapter 7, when the fuselage is assembled.
+
 ## FJ* Jigs
 
 Status:
 
 | Template | Status |
 |----------|--------|
-| FJA | Template 3d printed & assembled, need to create actual jigs from it. |
+| FJA | 1/4 jigs completed! |
 | FJB | ✅ |
 | FJC | ✅ |
 | FJD | ✅ |
@@ -21,3 +23,4 @@ The FJ* jigs are used for shaping the longerons and providing a shape for the fo
 - 2022-06-05, 2022-06-06 - 3D printed FJD jigs & FJA template jig.
 - 2022-09-03 - Made FJB, FJC, and FJD jigs. Made most of FJE, but need to trim a little bit more wood to get it to the final shape. Made rough cuts for what will eventually be the FJA jigs.
 - 2022-09-04 - A little further progress on one of the FJA jigs.
+- 2022-10-15 - Cut one of the FJA jigs to final & correct size. 3 left!
