@@ -163,3 +163,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-10-12 - Rough trim of fiberglass off of the aft landing gear bulkhead. Will probably build a router table for the final trim.
 - 2022-10-13 - Cut out new foam core of the forward landing gear bulkhead. Epoxied in place the hardpoints.
 - 2022-10-14 - Glassed one side of the forward landing gear bulkhead.
+- 2022-10-18 - Trimmed fiberglass off forward landing gear bulkhead. Did same to most of the upper landing gear bulkhead.
