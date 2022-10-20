@@ -70,6 +70,8 @@ Status:
 
 Note: The plans call the upper landing gear bulkhead and the forward landing gear bulkhead the same part. But they are made separately and then later joined. For that reason, as well as because "upper forward landing gear bulkhead" is a bit much, I'm going to refer to the lower portion of the forward landing gear bulkhead as the forward landing gear bulkhead. Similarly, the upper portion of the forward landing gear will be referred to as the upper landing gear bulkhead.
 
+When you glass these bulkheads, it's a really good idea to apply masking tape to opposite faces. Especially around the hardpoints. I found that epoxy could very easily get underneath the foam where the bulkheads are. Masking off the underside face will likely save you from having to sand off that epoxy.
+
 For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads. Additionally, these are still useful as templates for making additional copies of the foam cores.
 
 When I remade them with the correct foam, I was able to cut them in one piece - no epoxying with 5-minute epoxy required.
@@ -164,3 +166,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-10-13 - Cut out new foam core of the forward landing gear bulkhead. Epoxied in place the hardpoints.
 - 2022-10-14 - Glassed one side of the forward landing gear bulkhead.
 - 2022-10-18 - Trimmed fiberglass off forward landing gear bulkhead. Did same to most of the upper landing gear bulkhead.
+- 2022-10-19 - [Sanded off epoxy that got on the unglassed sides of all of the landing gear bulkheads](https://twitter.com/younata/status/1582931026292400129).
