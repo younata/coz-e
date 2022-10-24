@@ -167,3 +167,5 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-10-14 - Glassed one side of the forward landing gear bulkhead.
 - 2022-10-18 - Trimmed fiberglass off forward landing gear bulkhead. Did same to most of the upper landing gear bulkhead.
 - 2022-10-19 - [Sanded off epoxy that got on the unglassed sides of all of the landing gear bulkheads](https://twitter.com/younata/status/1582931026292400129).
+- 2022-10-22 - [Glassed the other sides of the forward landing gear bulkhead and the upper landing gear bulkhead.](https://twitter.com/younata/status/1584022751119278080)
+- 2022-10-23 - Cut fiberglass in preparation for glassing the forward face of the aft landing gear bulkhead, as well as the forward face of the F-22 bulkhead.
