@@ -125,9 +125,9 @@ Unlike the forward bulkheads, the aft landing gear bulkhead does receive side re
 
 ## Firewall
 
-Status: Temporary firewall complete, awaiting glassing the permanent firewall.
+Status: Temporary firewall complete. Permanent firewall is cut out, but need to figure out how to handle the blind screws.
 
-I have built a temporary firewall, and I have also made the cuts for the permanent firewall.
+I have built a temporary firewall, and I have also made the cuts for the permanent firewall. I'm delaying further work while I figure out how best to handle the blind screws. The way you're supposed to secure these is essentially by applying a bunch of flox and hoping that the epoxy holds - has been known to cause a ton of issues, because the flox does not handle torque well. There are a couple possible solutions. One is to use hex bolts and chisel out a recess for the bolt heads. Another is to use <a href="http://www.cozygirrrl.com/clickbonds.htm" data-proofer-ignore>clickbonds from cozygirrrl</a>. A third is to wrap a metal thread around the screws. I'm leaning towards using hex bolts, but haven't fully decided yet.
 
 Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from a big box store. It's terrible wood, but that doesn't matter because it's not going to fly.
 ![The temporary firewall](/assets/images/build_log/chapter_4/temporary_firewall.jpg)
