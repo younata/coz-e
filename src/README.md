@@ -8,6 +8,12 @@ You can think of this as a [Cozy Mark IV](https://en.wikipedia.org/wiki/Cozy_MK_
 
 Unlike [my digital garden](https://knowledge.rachelbrindle.com), which provides more generic knowledge and things I've gathered, this site is intended to scope down to the Coz-E.
 
+## Using this site
+
+Pages are organized on the sidebar to the left. It's sorted alphabetically, and most top-level sections have nested subsections. Sections with the chevron next to them can be expanded to show additional subsections. You can also search for things by clicking or tapping on the search icon in the top left.
+
+There is an [rss feed to track updated articles here](/atom.xml). You can also paste any article's URL into your rss reader and it should discover the feed.
+
 ## Recent Work
 
 The pages that I've recently been working on.
