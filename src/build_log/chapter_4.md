@@ -68,7 +68,7 @@ Status:
 
 | Upper Landing Gear Bulkhead | Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
 |-------------------------------------|-------------------------------------|---------------------------|
-| Attempt 2: Both faces glassed. Faces trimmed. In progress lower face. | Finished! ✅ 2022-10-28 | Both faces glassed. Need to trim excess fiberglass. |
+| Attempt 2: Both faces glassed. Faces trimmed. In progress lower face. | Finished! ✅ 2022-10-28 | Finished! ✅ 2022-10-30 |
 
 The landing gear attach bulkheads are the bulkheads used to attach the main landing gear to the rest of the airplane. When installed into the fuselage in Chapter 6, they'll form a box with an open bottom. This bottom is where the mains will be inserted, and then clamped into. During installation, the forward and upper landing gear bulkheads will be joined together into one bulkhead, while the aft landing gear bulkhead will remain separated.
 
@@ -121,7 +121,9 @@ I made a mistakes here, which I didn't discover until near the very end. The top
 
 ### Aft Landing Gear Bulkhead
 
-Unlike the forward bulkheads, the aft landing gear bulkhead does receive side reinforcement layers at this stage. Additionally, the entire bulkhead is covered in 2 layers of BID and 2 layers of horizontal UNI. The reinforcement layers for the aft bulkhead are 8 layers of UNI (vertically skewed, aligned with the inside edges) on each outer edge of the forward side, and 3 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the aft side.
+Unlike the forward bulkheads, the aft landing gear bulkhead does receive side reinforcement layers at this stage. Additionally, the entire bulkhead is covered in 2 layers of BID and 2 layers of horizontal UNI. The reinforcement layers for the aft bulkhead are 8 layers of UNI (vertically skewed, aligned with the inside edges) on each outer edge of the forward side, and 3 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the aft side. Then at the end, you drill in 2 7/8" holes near the top on the outer edges.
+
+![Forward face of the aft landing gear attach bulkhead.](/assets/images/build_log/chapter_4/aft_landing_gear_bulkhead_forward.jpg) ![Aft face of the aft landing gear attach bulkhead.](/assets/images/build_log/chapter_4/aft_landing_gear_bulkhead_aft.jpg) ![Side view of the aft landing gear attach bulkhead, showing off the difference in thickness between the two faces.](/assets/images/build_log/chapter_4/aft_landing_gear_bulkhead_side.jpg)
 
 ## Firewall
 
@@ -199,3 +201,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-10-27 - Sanded off fiberglass from lower 45° angled side on the lower face of the upper landing gear bulkhead.
 - 2022-10-28 - Trimmed fiberglass off F-22 bulkhead. Sanded excess micro & epoxy off F-22 bulkhead. Drilled 1/4 inch holes in hardpoints of forward landing gear bulkhead, finishing the part. Sanded off fiberglass from the upper 45° angled side pieces on the lower face of the upper landing gear bulkhead.
 - 2022-10-29 - Glassed the forward face of the F-22 bulkhead.
+- 2022-10-30 - Finished the Aft Landing Gear Attach Bulkhead (trimmed fiberglass & drilled holes). Pulled peel ply of of the F-22 bulkhead.
