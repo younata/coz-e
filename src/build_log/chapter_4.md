@@ -52,7 +52,7 @@ Note: I actually ended up using UNI instead of BID for this. Which while not acc
 
 ## F-22 Bulkhead
 
-Status: Attempt number 2 has aft face glassed, with doubler installed. Forward face is glassed. Awaiting curing.
+Status: Attempt number 2 has aft face glassed, with doubler installed. Forward face is glassed. Need to trim fiberglass.
 
 Tip: When adding the doubler, be sure to apply wet micro to both sides of the doubler. Micro is supposed to applied to every side of foam that touches glass.
 
@@ -68,7 +68,7 @@ Status:
 
 | Upper Landing Gear Bulkhead | Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
 |-------------------------------------|-------------------------------------|---------------------------|
-| Attempt 2: Both faces glassed. Faces trimmed. In progress lower face. | Finished! ✅ 2022-10-28 | Finished! ✅ 2022-10-30 |
+| Attempt 2: Both faces glassed & trimmed. Glassed repair job on lower face, awaiting cure. Still need to repair upper face. | Finished! ✅ 2022-10-28 | Finished! ✅ 2022-10-30 |
 
 The landing gear attach bulkheads are the bulkheads used to attach the main landing gear to the rest of the airplane. When installed into the fuselage in Chapter 6, they'll form a box with an open bottom. This bottom is where the mains will be inserted, and then clamped into. During installation, the forward and upper landing gear bulkheads will be joined together into one bulkhead, while the aft landing gear bulkhead will remain separated.
 
@@ -117,7 +117,7 @@ This third forward landing gear bulkhead I tried was successful. This is where I
 
 The upper landing gear bulkhead is made much like the lower landing gear bulkhead. It does not have hardpoints, but it still receives the same 2-BID, 1-UNI layup.
 
-I made a mistakes here, which I didn't discover until near the very end. The top and bottom 45° edges are not supposed to be glassed. I did glass them. Fortunately, because these edges didn't turn out evenly, decided to sand them off, with the intention to reglass them. I should've stopped once I sanded those layers off, but I also thought the faces should still be glassed, so I also sanded off some nearby fiberglass, per the instructions for doing repairs. I'll have to re-glass these soon.
+I made a mistakes here, which I didn't discover until near the very end. The top and bottom 45° edges are not supposed to be glassed. I did glass them. Fortunately, because these edges didn't turn out evenly, decided to sand them off, with the intention to reglass them. I should've stopped once I sanded those layers off, but I also thought the faces should still be glassed, so I also sanded off some nearby fiberglass, per the instructions for doing repairs. I have since reglassed those areas, and am awaiting curing.
 
 ### Aft Landing Gear Bulkhead
 
@@ -202,3 +202,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-10-28 - Trimmed fiberglass off F-22 bulkhead. Sanded excess micro & epoxy off F-22 bulkhead. Drilled 1/4 inch holes in hardpoints of forward landing gear bulkhead, finishing the part. Sanded off fiberglass from the upper 45° angled side pieces on the lower face of the upper landing gear bulkhead.
 - 2022-10-29 - Glassed the forward face of the F-22 bulkhead.
 - 2022-10-30 - Finished the Aft Landing Gear Attach Bulkhead (trimmed fiberglass & drilled holes). Pulled peel ply of of the F-22 bulkhead.
+- 2022-11-01 - Re-glassed parts of the lower face of the Upper Landing Gear Attach Bulkhead.
