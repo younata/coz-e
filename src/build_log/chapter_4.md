@@ -117,7 +117,7 @@ This third forward landing gear bulkhead I tried was successful. This is where I
 
 The upper landing gear bulkhead is made much like the lower landing gear bulkhead. It does not have hardpoints, but it still receives the same 2-BID, 1-UNI layup.
 
-I made a mistakes here, which I didn't discover until near the very end. The top and bottom 45° edges are not supposed to be glassed. I did glass them. Fortunately, because these edges didn't turn out evenly, decided to sand them off, with the intention to reglass them. I should've stopped once I sanded those layers off, but I also thought the faces should still be glassed, so I also sanded off some nearby fiberglass, per the instructions for doing repairs. I have since reglassed those areas, and am awaiting curing.
+I made a mistakes here, which I didn't discover until near the very end. The top and bottom 45° edges are not supposed to be glassed. I did glass them. Fortunately, because these edges didn't turn out evenly, decided to sand them off, with the intention to reglass them. I should've stopped once I sanded those layers off, but I also thought the faces should still be glassed, so I also sanded off some nearby fiberglass, per the instructions for doing repairs. I have since re-glassed those areas, and am awaiting curing.
 
 ### Aft Landing Gear Bulkhead
 
@@ -129,7 +129,7 @@ Unlike the forward bulkheads, the aft landing gear bulkhead does receive side re
 
 Status: Temporary firewall complete. Permanent firewall is cut out, but need to figure out how to handle the blind screws.
 
-I have built a temporary firewall, and I have also made the cuts for the permanent firewall. I'm delaying further work while I figure out how best to handle the blind screws. The way you're supposed to secure these is essentially by applying a bunch of flox and hoping that the epoxy holds - has been known to cause a ton of issues, because the flox does not handle torque well. There are a couple possible solutions. One is to use hex bolts and chisel out a recess for the bolt heads. Another is to use <a href="http://www.cozygirrrl.com/clickbonds.htm" data-proofer-ignore>clickbonds from cozygirrrl</a>. A third is to wrap a metal thread around the screws. I'm leaning towards using hex bolts, but haven't fully decided yet.
+I have built a temporary firewall, and I have also made the cuts for the permanent firewall. I'm delaying further work while I figure out how best to handle the blind screws. The way you're supposed to secure these is essentially by applying a bunch of flox and hoping that the epoxy holds - has been known to cause a ton of issues, because the flox does not handle torque well. There are a couple possible solutions. One is to use hex bolts and chisel out a recess for the bolt heads. Another is to use <a href="http://www.cozygirrrl.com/clickbonds.htm" data-proofer-ignore>clickbonds from cozygirrrl</a>. A third is to wrap a metal thread around the screws. After some deliberation, I decided to go with hex bolts. I order a bunch of AN4-6A hex bolts from Aircraft Spruce (25/32" nominal length, 3/16" grip length, cadmium plated, undrilled), and will be finishing the firewall with them once they arrive.
 
 Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from a big box store. It's terrible wood, but that doesn't matter because it's not going to fly.
 ![The temporary firewall](/assets/images/build_log/chapter_4/temporary_firewall.jpg)
@@ -203,3 +203,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-10-29 - Glassed the forward face of the F-22 bulkhead.
 - 2022-10-30 - Finished the Aft Landing Gear Attach Bulkhead (trimmed fiberglass & drilled holes). Pulled peel ply of of the F-22 bulkhead.
 - 2022-11-01 - Re-glassed parts of the lower face of the Upper Landing Gear Attach Bulkhead.
+- 2022-11-02 - Re-glassed parts of the upper face of the Upper Landing Gear Attach Bulkhead.
