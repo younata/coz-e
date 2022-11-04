@@ -2,11 +2,11 @@
 
 Chapter 4 starts off fairly simple - you're working entirely with flat shapes that are all internal to the aircraft. The only curves are the edges.
 
-Current status (Late October, 2022): Front Seatback, F-28, instrument panel, and the forward landing gear attach bulkhead are all finished.
+Current status (Early November, 2022): Front Seatback, F-22 F-28, instrument panel, and the landing gear attach bulkheads are all finished. Going to work on the firewall after the fuselage sides are completed.
 
 ## Front Seatback
 
-Status: Finished! ✅
+Status: Finished! ✅ 2021-10-23
 
 The front seatback is very simple - cut down a slab of 0.75" thick foam, shape two of the edges to be 45°, and glass it. Following the advice of other builders, I used a tablesaw to make those cuts. You can see the result below.
 
@@ -30,7 +30,7 @@ As you can see, it turned out fine. I did go back to using polyester peel ply fo
 
 ## F-28 Bulkhead
 
-Status: Finished! ✅
+Status: Finished! ✅ 2022-07-14
 
 The F-28 Bulkhead is a relatively small piece, and will be made of fiberglass glassed onto clark foam. I cut the foam out using a utility knife and a Fein tool.
 
@@ -42,7 +42,7 @@ The image below is a composite image of both sides of the F-28 bulkhead, which s
 
 ## Instrument Panel
 
-Status: Finished! ✅
+Status: Finished! ✅ 2022-09-18
 
 The Instrument Panel is a little bit larger than the F-22 bulkhead. I made this by cutting pieces of it out of clark foam, and them gluing them together with 5-minute epoxy. Afterwards (much later in my case), I laid up both sides with 2 layers of BID everywhere, and then a layer of UNI running top span only.
 
@@ -52,7 +52,7 @@ Note: I actually ended up using UNI instead of BID for this. Which while not acc
 
 ## F-22 Bulkhead
 
-Status: Attempt number 2 has aft face glassed, with doubler installed. Forward face is glassed. Need to trim fiberglass.
+Status: Finished! ✅ 2022-11-03
 
 Tip: When adding the doubler, be sure to apply wet micro to both sides of the doubler. Micro is supposed to applied to every side of foam that touches glass.
 
@@ -67,8 +67,8 @@ Glassing the aft face went went. It took a while before I got around to trimming
 Status:
 
 | Upper Landing Gear Bulkhead | Forward Landing Gear Bulkhead | Aft Landing Gear Bulkhead |
-|-------------------------------------|-------------------------------------|---------------------------|
-| Attempt 2: Both faces glassed & trimmed. Glassed repair job on lower face, awaiting cure. Still need to repair upper face. | Finished! ✅ 2022-10-28 | Finished! ✅ 2022-10-30 |
+|-----------------------------|-------------------------------|---------------------------|
+| Finished! ✅ 2022-11-03 | Finished! ✅ 2022-10-28 | Finished! ✅ 2022-10-30 |
 
 The landing gear attach bulkheads are the bulkheads used to attach the main landing gear to the rest of the airplane. When installed into the fuselage in Chapter 6, they'll form a box with an open bottom. This bottom is where the mains will be inserted, and then clamped into. During installation, the forward and upper landing gear bulkheads will be joined together into one bulkhead, while the aft landing gear bulkhead will remain separated.
 
@@ -82,6 +82,10 @@ Tips:
 For all three of these bulkheads, I initially misread the plans and made them out of high-density clark foam like the other bulkheads are. These should be made out of lower-density PVC foam, which I am working on remaking these with. Thankfully, I had not done much other than assemble the foam core of the bulkheads. Additionally, these are still useful as templates for making additional copies of the foam cores.
 
 When I remade them with the correct foam, I was able to cut them in one piece - no epoxying with 5-minute epoxy required.
+
+When joined in the fuselage, the landing gear bulkheads will form a box. The fuselage struts will be bolted on in between the hardpoints on either side.
+
+![Image showing relative placement of the landing gear attach bulkheads](/assets/images/build_log/chapter_4/landing_gear_bulkheads_combined.jpg)
 
 ### Making the Hardpoints
 
@@ -119,6 +123,12 @@ The upper landing gear bulkhead is made much like the lower landing gear bulkhea
 
 I made a mistakes here, which I didn't discover until near the very end. The top and bottom 45° edges are not supposed to be glassed. I did glass them. Fortunately, because these edges didn't turn out evenly, decided to sand them off, with the intention to reglass them. I should've stopped once I sanded those layers off, but I also thought the faces should still be glassed, so I also sanded off some nearby fiberglass, per the instructions for doing repairs. I have since re-glassed those areas, and am awaiting curing.
 
+Additionally, after I glassed the upper face, while removing the peel ply, I took off some of the top layer of UNI. Which isn't a big deal. Sand down the area to create a good surface for a mechanical bond, also sand the surrounding area a bit. And reglass with a layer of BID (to replace the layer of BID I damaged by sanding in to), and a layer of UNI. Just in the affected areas. Not too difficult.
+
+![The finished upper landing gear bulkhead, upper face](/assets/images/build_log/chapter_4/upper_landing_gear_bulkhead_upper_face.jpg)
+
+![The finished upper landing gear bulkhead, lower face](/assets/images/build_log/chapter_4/upper_landing_gear_bulkhead_lower_face.jpg)
+
 ### Aft Landing Gear Bulkhead
 
 Unlike the forward bulkheads, the aft landing gear bulkhead does receive side reinforcement layers at this stage. Additionally, the entire bulkhead is covered in 2 layers of BID and 2 layers of horizontal UNI. The reinforcement layers for the aft bulkhead are 8 layers of UNI (vertically skewed, aligned with the inside edges) on each outer edge of the forward side, and 3 layers of UNI (vertically skewed, aligned with the inside slant) on each outer edge of the aft side. Then at the end, you drill in 2 7/8" holes near the top on the outer edges.
@@ -127,7 +137,7 @@ Unlike the forward bulkheads, the aft landing gear bulkhead does receive side re
 
 ## Firewall
 
-Status: Temporary firewall complete. Permanent firewall is cut out, but need to figure out how to handle the blind screws.
+Status: Temporary firewall complete. Permanent firewall is cut out, but on hold until I attach bolts.
 
 I have built a temporary firewall, and I have also made the cuts for the permanent firewall. I'm delaying further work while I figure out how best to handle the blind screws. The way you're supposed to secure these is essentially by applying a bunch of flox and hoping that the epoxy holds - has been known to cause a ton of issues, because the flox does not handle torque well. There are a couple possible solutions. One is to use hex bolts and chisel out a recess for the bolt heads. Another is to use <a href="http://www.cozygirrrl.com/clickbonds.htm" data-proofer-ignore>clickbonds from cozygirrrl</a>. A third is to wrap a metal thread around the screws. After some deliberation, I decided to go with hex bolts. I order a bunch of AN4-6A hex bolts from Aircraft Spruce (25/32" nominal length, 3/16" grip length, cadmium plated, undrilled), and will be finishing the firewall with them once they arrive.
 
@@ -204,3 +214,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-10-30 - Finished the Aft Landing Gear Attach Bulkhead (trimmed fiberglass & drilled holes). Pulled peel ply of of the F-22 bulkhead.
 - 2022-11-01 - Re-glassed parts of the lower face of the Upper Landing Gear Attach Bulkhead.
 - 2022-11-02 - Re-glassed parts of the upper face of the Upper Landing Gear Attach Bulkhead.
+- 2022-11-03 - Trimmed excess fiberglass from F-22 and Upper Landing Gear Attach Bulkhead.
