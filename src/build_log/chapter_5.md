@@ -28,6 +28,14 @@ Status: Ripped a 4x8 sheet of 1/8th inch sheet of masonite into 2x 21 inch by 8 
 
 The fuselage sides need a form to rest on, otherwise they'll sag and not be the correct side. Per plans, I got a large sheet of masonite, and used it to create forms for the 2 fuselage sides. I did this by ripping it into 2x 21 inch wide by 8 foot long sheets, keeping the scrap. The scrap will be used to extend the width of these sheets to the necessary 102.5 inches.
 
+## Upper Longerons
+
+Status: Tables are aligned and leveled. FJA, FJB, and FJC jigs are screwed into the tables.
+
+Tip: The plans say to epoxy the long strips of spruce, let those cure, then add on the stiffener & doublers. Instead, do everything at once.
+
+The upper longerons (one for each side) are made of 3 long strips of 1" by 0.25" by 105" sitka spruce. Along with a stiffener and 2 doublers, also made of spruce. Because these will go on top of the foam for the fuselage sides, they need to have a slightly tighter curve than the fuselage sides. This is done by laying FJA, FJB, and FJC on their sides, adding a bit extra space at the ends of FJA and FJC.
+
 ## Log
 
 - 2022-06-05, 2022-06-06 - 3D printed FJD jigs & FJA template jig.
@@ -36,3 +44,4 @@ The fuselage sides need a form to rest on, otherwise they'll sag and not be the 
 - 2022-10-15 - Cut one of the FJA jigs to final & correct size. 3 left!
 - 2022-10-29 - Ripped a 4x8 sheet of masonite into 2x 21 inch by 8 foot sheets.
 - 2022-10-30 - Finished the FJ* jigs.
+- 2022-11-04 - Started work assembling tables and jigs for eventually creating the upper longerons.
