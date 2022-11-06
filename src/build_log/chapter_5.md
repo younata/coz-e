@@ -32,9 +32,12 @@ The fuselage sides need a form to rest on, otherwise they'll sag and not be the 
 
 Status: Tables are aligned and leveled. FJA, FJB, and FJC jigs are screwed into the tables.
 
-Tip: The plans say to epoxy the long strips of spruce, let those cure, then add on the stiffener & doublers. Instead, do everything at once.
+Tips:
+ - Place the forward doubler about 0.5" back from where the plans indicate. This prevents a canard placement issue that many people report.
 
-The upper longerons (one for each side) are made of 3 long strips of 1" by 0.25" by 105" sitka spruce. Along with a stiffener and 2 doublers, also made of spruce. Because these will go on top of the foam for the fuselage sides, they need to have a slightly tighter curve than the fuselage sides. This is done by laying FJA, FJB, and FJC on their sides, adding a bit extra space at the ends of FJA and FJC.
+The upper longerons (one for each side) are made of 3 long strips of 1" by 0.25" by 105" sitka spruce. Along with a stiffener and 2 doublers, also made of spruce. Because these will go on top of the foam for the fuselage sides, they need to have a slightly tighter curve than the fuselage sides. This is done by laying FJA, FJB, and FJC on their sides, with the ends of FJA and FJC being 0.5" apart, but angled so that they are adjacent by the time they meet FJB. Once you have the jigs set up, you're supposed to join the 105" spruce by painting the interiors, then use clamps to hold the wood to the jigs.
+
+Once the epoxy has cured, you're supposed to add the doublers and stiffener on them. These are joined by using flox.
 
 ## Log
 
@@ -44,4 +47,5 @@ The upper longerons (one for each side) are made of 3 long strips of 1" by 0.25"
 - 2022-10-15 - Cut one of the FJA jigs to final & correct size. 3 left!
 - 2022-10-29 - Ripped a 4x8 sheet of masonite into 2x 21 inch by 8 foot sheets.
 - 2022-10-30 - Finished the FJ* jigs.
-- 2022-11-04 - Started work assembling tables and jigs for eventually creating the upper longerons.
+- 2022-11-04 - Assembled & leveled tables. Installed jigs for eventually creating the upper longerons.
+- 2022-11-05 - Epoxied the 105" spruce strips together and clamped them to the jigs.
