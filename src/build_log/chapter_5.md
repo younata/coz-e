@@ -4,7 +4,7 @@ Chapter 4 was about making a bunch of bulkheads which are all internal to the fu
 
 In this chapter, only the interior faces of the fuselage sides will be glassed. The exterior faces will be glassed in chapter 7, when the fuselage is assembled.
 
-Current Status (Late October, 2022): FJ* jigs are complete, started on the fuselage side forms.
+Current Status (Early November, 2022): FJ* jigs are complete, started on the fuselage side forms. Upper longerons nearly complete.
 
 ## FJ* Jigs
 
@@ -30,14 +30,16 @@ The fuselage sides need a form to rest on, otherwise they'll sag and not be the 
 
 ## Upper Longerons
 
-Status: Tables are aligned and leveled. FJA, FJB, and FJC jigs are screwed into the tables.
+Status: Spruce strips are epoxied together. Doublers and stiffeners have been floxed on. Awaiting curing.
 
 Tips:
  - Place the forward doubler about 0.5" back from where the plans indicate. This prevents a canard placement issue that many people report.
 
-The upper longerons (one for each side) are made of 3 long strips of 1" by 0.25" by 105" sitka spruce. Along with a stiffener and 2 doublers, also made of spruce. Because these will go on top of the foam for the fuselage sides, they need to have a slightly tighter curve than the fuselage sides. This is done by laying FJA, FJB, and FJC on their sides, with the ends of FJA and FJC being 0.5" apart, but angled so that they are adjacent by the time they meet FJB. Once you have the jigs set up, you're supposed to join the 105" spruce by painting the interiors, then use clamps to hold the wood to the jigs.
+The upper longerons (one for each side) are made of 3 long strips of 1" by 0.25" by 105" sitka spruce. Along with a stiffener and 2 doublers, also made of spruce. Because these will go on top of the foam for the fuselage sides, they need to have a slightly tighter curve than the fuselage sides. This is done by laying FJA, FJB, and FJC on their sides, with the ends of FJA and FJC being 0.5" apart, but angled so that they are adjacent by the time they meet FJB. Once you have the jigs set up, you're supposed to join the 105" spruce by painting the interiors, then use clamps & nails to hold the wood to the jigs. I was able to get away using just clamps.
 
-Once the epoxy has cured, you're supposed to add the doublers and stiffener on them. These are joined by using flox.
+Once the epoxy cured, I added the doublers and stiffeners. Per plans, I pre-drilled holes for nails on the forward doublers and the stiffeners. Then, once the wet flox was mixed up, I painted it on to the forward and aft doublers. For the center stiffeners, I found it easier to paint the flox onto the spruce strips, not the stiffeners. I also added regular flox into the saw holes, to try to counteract the fact that I made way more saw holes than I needed to. Once everything was epoxied and in place, I re-clamped everything, then added weights.
+
+You're supposed to let this whole thing cure for at least a day.
 
 ## Log
 
@@ -49,3 +51,4 @@ Once the epoxy has cured, you're supposed to add the doublers and stiffener on t
 - 2022-10-30 - Finished the FJ* jigs.
 - 2022-11-04 - Assembled & leveled tables. Installed jigs for eventually creating the upper longerons.
 - 2022-11-05 - Epoxied the 105" spruce strips together and clamped them to the jigs.
+- 2022-11-06 - Shaped doublers & stiffeners. Installed them into place. Upper longerons nearly complete!
