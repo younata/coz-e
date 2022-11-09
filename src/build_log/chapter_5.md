@@ -8,7 +8,7 @@ Current Status (Early November, 2022): FJ* jigs are complete, started on the fus
 
 ## FJ* Jigs
 
-Status:
+Status: ✅ 2022-10-30
 
 | Template | Status |
 |----------|--------|
@@ -24,13 +24,15 @@ The FJ* jigs are used for shaping the longerons and providing a shape for the fo
 
 ## Fuselage Side Forms
 
-Status: Ripped a 4x8 sheet of 1/8th inch sheet of masonite into 2x 21 inch by 8 foot sheets, keeping the scrap.
+Status: ✅ 2022-11-08
 
-The fuselage sides need a form to rest on, otherwise they'll sag and not be the correct side. Per plans, I got a large sheet of masonite, and used it to create forms for the 2 fuselage sides. I did this by ripping it into 2x 21 inch wide by 8 foot long sheets, keeping the scrap. The scrap will be used to extend the width of these sheets to the necessary 102.5 inches.
+The fuselage sides need a form to rest on, otherwise they'll sag and not be the correct side. Per plans, I got a large sheet of masonite, and used it to create forms for the 2 fuselage sides. I did this by ripping it into 2x 21 inch wide by 8 foot long sheets, keeping the scrap. The scrap was used to extend the width of these sheets to the necessary 102.5 inches. Note: I accidentally cut my strips of scrap too short, by about an inch or so. I don't think it'll make that much of a difference (and if it will, I'll add on that extra inch or so of material).
+
+Once the forms were at their full length, I aligned them on top of each other and drew out the points for the shape. Then connected the points with straight lines, then tried my best to cut it using a jigsaw. This produced two forms of the exact same shape, which I'll use to help shape the fuselage side foam.
 
 ## Upper Longerons
 
-Status: Spruce strips are epoxied together. Doublers and stiffeners have been floxed on. Awaiting curing.
+Status: ✅ 2022-11-08
 
 Tips:
  - Place the forward doubler about 0.5" back from where the plans indicate. This prevents a canard placement issue that many people report.
@@ -39,7 +41,13 @@ The upper longerons (one for each side) are made of 3 long strips of 1" by 0.25"
 
 Once the epoxy cured, I added the doublers and stiffeners. Per plans, I pre-drilled holes for nails on the forward doublers and the stiffeners. Then, once the wet flox was mixed up, I painted it on to the forward and aft doublers. For the center stiffeners, I found it easier to paint the flox onto the spruce strips, not the stiffeners. I also added regular flox into the saw holes, to try to counteract the fact that I made way more saw holes than I needed to. Once everything was epoxied and in place, I re-clamped everything, then added weights.
 
-You're supposed to let this whole thing cure for at least a day.
+You're supposed to let this whole thing cure for at least a 24 hours. I let it cure for more than that. This is because when I initially installed the doublers, I mistakenly placed the aft doublers in the wrong orientation (I had it aligned such that the taper was aligned with the curve of the longeron. You're supposed to have that taper be facing up). I didn't realize this error until I was preparing to go to bed, ~4 hours later. I got up and re-installed the aft doublers in the correct position (and checked with the plans multiple times while I was doing so - didn't want to make an error because I was tired). Everything worked out, but it did mean that it would be way more convenient to just let it cure an additional night (and work on something else for once).
+
+![Image of the completed upper longerons](/assets/images/build_log/chapter_5/upper_longerons.jpg)
+
+## Fuselage Sides
+
+Status: Barely started.
 
 ## Log
 
@@ -52,3 +60,4 @@ You're supposed to let this whole thing cure for at least a day.
 - 2022-11-04 - Assembled & leveled tables. Installed jigs for eventually creating the upper longerons.
 - 2022-11-05 - Epoxied the 105" spruce strips together and clamped them to the jigs.
 - 2022-11-06 - Shaped doublers & stiffeners. Installed them into place. Upper longerons nearly complete!
+- 2022-11-08 - Unclamped upper longerons. Removed screws from stiffener. Upper longerons complete! Shaped to both fuselage side forms to the correct shape, finishing them!
