@@ -4,7 +4,7 @@ Chapter 4 was about making a bunch of bulkheads which are all internal to the fu
 
 In this chapter, only the interior faces of the fuselage sides will be glassed. The exterior faces will be glassed in chapter 7, when the fuselage is assembled.
 
-Current Status (Early November, 2022): FJ* jigs are complete, started on the fuselage side forms. Upper longerons nearly complete.
+Current Status (Early November, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. In progress setting up the base layer of fuselage side foam.
 
 ## FJ* Jigs
 
@@ -47,7 +47,15 @@ You're supposed to let this whole thing cure for at least a 24 hours. I let it c
 
 ## Fuselage Sides
 
-Status: Barely started.
+Status: Jig box assembled, forms nailed down, base foam cut and joined.
+
+The plans state to hot glue the fuselage jigs to your workbench. Which is what I started to do, except I ran into issues both with my workbench not being sufficiently level (one of the main downsides of wanting to create a large workbench from several smaller workbenches - leveling them is nearly impossible), and with the jigs themselves having twist and otherwise not being perfectly straight. So instead, I made a series of spacers that I glued & screwed into place to keep the jigs the correct distance apart. This forms kind of the skeleton of a box, and is why I'm calling it a jig box.
+
+Once you've done that, you're supposed to place down the fuselage forms, and nail them in place. [Per Wayne Hicks](https://ez.canardaircraft.com/www.ez.org/pages/waynehicks/chapter_05.html), you should only nail to the inside corner to ensure that the forms have entirely convex curves.
+
+Ideally, prior to this point, you should have cut & joined your foam. Which I did not do. Instead, I placed the foam on the forms, then I used a sharpie to trace the outside curve (the non-straight edge). After, I cut the foam along traced lines, then sanded it smooth. Which worked, but was annoying. Afterwards, I then joined the foam panels together in-place on the forms. Which, again. I should have done that on a flat surface, but I didn't really have one available. It worked out, but just took longer and more effort than it should have been.
+
+Once you have the foam put together, you're supposed to secure it directly to the forms using 5-minute epoxy. People have had issue with the foam tearing upon removal. I thought I'd be clever by applying painters tape to both the form and the foam, then applying 5-minute epoxy between the painters tape. Except the painters tape did not actually adhere to the foam. Perhaps stickier tape on the foam might work better? After noticing this failure, I ended for the day.
 
 ## Log
 
@@ -61,3 +69,4 @@ Status: Barely started.
 - 2022-11-05 - Epoxied the 105" spruce strips together and clamped them to the jigs.
 - 2022-11-06 - Shaped doublers & stiffeners. Installed them into place. Upper longerons nearly complete!
 - 2022-11-08 - Unclamped upper longerons. Removed screws from stiffener. Upper longerons complete! Shaped to both fuselage side forms to the correct shape, finishing them!
+- 2022-11-09 through 2022-11-13 - Constructed jig box for fuselage sides, nailed fuselage forms to the jig box, and cut and joined foam for the fuselage sides.
