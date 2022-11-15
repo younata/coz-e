@@ -55,7 +55,9 @@ Once you've done that, you're supposed to place down the fuselage forms, and nai
 
 Ideally, prior to this point, you should have cut & joined your foam. Which I did not do. Instead, I placed the foam on the forms, then I used a sharpie to trace the outside curve (the non-straight edge). After, I cut the foam along traced lines, then sanded it smooth. Which worked, but was annoying. Afterwards, I then joined the foam panels together in-place on the forms. Which, again. I should have done that on a flat surface, but I didn't really have one available. It worked out, but just took longer and more effort than it should have been.
 
-Once you have the foam put together, you're supposed to secure it directly to the forms using 5-minute epoxy. People have had issue with the foam tearing upon removal. I thought I'd be clever by applying painters tape to both the form and the foam, then applying 5-minute epoxy between the painters tape. Except the painters tape did not actually adhere to the foam. Perhaps stickier tape on the foam might work better? After noticing this failure, I ended for the day.
+Once you have the foam put together, you're supposed to secure it directly to the forms using 5-minute epoxy. People have had issue with the foam tearing upon removal. I thought I'd be clever by applying painters tape to both the form and the foam, then applying 5-minute epoxy between the painters tape. Except the painters tape did not actually adhere to the foam. The next day, I came back and used masking tape, which worked immensely better.
+
+Once I had the foam secured, I started cutting the side spacers. These spacers are 3/4" low-density last-a-foam that are supposed to to be micro'd to the top, bottom and aft edges of each side panel. Unlike the high-density last-a-foam used in F-22, F-28 and the instrument panel from chapter 4, this low-density stuff cuts very easily with a utility knife.
 
 ## Log
 
@@ -70,3 +72,4 @@ Once you have the foam put together, you're supposed to secure it directly to th
 - 2022-11-06 - Shaped doublers & stiffeners. Installed them into place. Upper longerons nearly complete!
 - 2022-11-08 - Unclamped upper longerons. Removed screws from stiffener. Upper longerons complete! Shaped to both fuselage side forms to the correct shape, finishing them!
 - 2022-11-09 through 2022-11-13 - Constructed jig box for fuselage sides, nailed fuselage forms to the jig box, and cut and joined foam for the fuselage sides.
+- 2022-11-14 - Started on the fuselage side spacers.
