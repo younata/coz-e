@@ -59,6 +59,8 @@ Once you have the foam put together, you're supposed to secure it directly to th
 
 Once I had the foam secured, I started cutting the side spacers. These spacers are 3/4" low-density last-a-foam that are supposed to to be micro'd to the top, bottom and aft edges of each side panel. Unlike the high-density last-a-foam used in F-22, F-28 and the instrument panel from chapter 4, this low-density stuff cuts very easily with a utility knife.
 
+I cut out the spacers for the top and bottom, then 3d printed jigs so I could easily cut them on my bandsaw at the angles described in the plans. Once these had been cut, I micro'd them to the fuselage sides.
+
 ## Log
 
 - 2022-06-05, 2022-06-06 - 3D printed FJD jigs & FJA template jig.
@@ -73,3 +75,4 @@ Once I had the foam secured, I started cutting the side spacers. These spacers a
 - 2022-11-08 - Unclamped upper longerons. Removed screws from stiffener. Upper longerons complete! Shaped to both fuselage side forms to the correct shape, finishing them!
 - 2022-11-09 through 2022-11-13 - Constructed jig box for fuselage sides, nailed fuselage forms to the jig box, and cut and joined foam for the fuselage sides.
 - 2022-11-14 - Started on the fuselage side spacers.
+- 2022-11-15 - Finished cutting upper and lower fuselage side spacers.
