@@ -61,6 +61,13 @@ Once I had the foam secured, I started cutting the side spacers. These spacers a
 
 I cut out the spacers for the top and bottom, then 3d printed jigs so I could easily cut them on my bandsaw at the angles described in the plans. Once these had been cut, I micro'd them to the fuselage sides.
 
+![fuselage side panels with no spacers added](/assets/images/build_log/chapter_5/bare_side_panels.jpg)
+![fuselage sides with shaped spacers placed on top of them](/assets/images/build_log/chapter_5/side_panels_with_placed_upper_lower_spacers.jpg)
+
+## Glassing the Upper Longerons
+
+- Don't worry about getting the fiberglass all smooth near the front of the upper longeron (forward of where F-28 will get installed): it gets cut off in chapter 7. In fact, you don't even have to glass those first few inches.
+
 ## Log
 
 - 2022-06-05, 2022-06-06 - 3D printed FJD jigs & FJA template jig.
@@ -75,4 +82,5 @@ I cut out the spacers for the top and bottom, then 3d printed jigs so I could ea
 - 2022-11-08 - Unclamped upper longerons. Removed screws from stiffener. Upper longerons complete! Shaped to both fuselage side forms to the correct shape, finishing them!
 - 2022-11-09 through 2022-11-13 - Constructed jig box for fuselage sides, nailed fuselage forms to the jig box, and cut and joined foam for the fuselage sides.
 - 2022-11-14 - Started on the fuselage side spacers.
-- 2022-11-15 - Finished cutting upper and lower fuselage side spacers.
+- 2022-11-15 - Cut out the foam that will be the upper and lower side spacers.
+- 2022-11-17 - Cut to shape the upper and lower side spacers.

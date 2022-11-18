@@ -139,10 +139,15 @@ Unlike the forward bulkheads, the aft landing gear bulkhead does receive side re
 
 Status: Temporary firewall complete. Permanent firewall is cut out, but on hold until I attach bolts.
 
-I have built a temporary firewall, and I have also made the cuts for the permanent firewall. I'm delaying further work while I figure out how best to handle the blind screws. The way you're supposed to secure these is essentially by applying a bunch of flox and hoping that the epoxy holds - has been known to cause a ton of issues, because the flox does not handle torque well. There are a couple possible solutions. One is to use hex bolts and chisel out a recess for the bolt heads. Another is to use <a href="http://www.cozygirrrl.com/clickbonds.htm" data-proofer-ignore>clickbonds from cozygirrrl</a>. A third is to wrap a metal thread around the screws. After some deliberation, I decided to go with hex bolts. I order a bunch of AN4-6A hex bolts from Aircraft Spruce (25/32" nominal length, 3/16" grip length, cadmium plated, undrilled), and will be finishing the firewall with them once they arrive.
+I have built a temporary firewall, and I have also made the cuts for the permanent firewall.
 
 Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from a big box store. It's terrible wood, but that doesn't matter because it's not going to fly.
 ![The temporary firewall](/assets/images/build_log/chapter_4/temporary_firewall.jpg)
+
+I delayed building the permanent firewall due to worrying about the blind screws. The way you're supposed to secure the blind screws is essentially by applying a bunch of flox and hoping that the epoxy holds - has been known to cause a ton of issues, because the flox does not handle torque well. There are a couple possible solutions. One is to use hex bolts and chisel out a recess for the bolt heads. Another is to use <a href="http://www.cozygirrrl.com/clickbonds.htm" data-proofer-ignore>clickbonds from cozygirrrl</a>. A third is to wrap a metal thread around the screws. After some deliberation, I decided to go with hex bolts. I order a bunch of AN4-6A hex bolts from Aircraft Spruce (25/32" nominal length, 3/16" grip length, cadmium plated, undrilled), and will be finishing the firewall with them once they arrive.
+
+After the hex bolts arrived, and not a whole lot of other excuses to put this off, I decided to start cut out the aluminum blocks for the engine mount. This was a pain, because I don't really have metal cutting tools available to me. Thankfully, aluminum can be cut with woodworking tools - it just takes a while. I cut these 4 using a dremel and my oscillating tool. This was my first time using a dremel, and I'm just happy I didn't explode a cutting wheel. If I were to build another firewall, I would 100% buy already-cut blocks of aluminum. Even if I have to oversize them, it would be worth it to me.
+![the aluminum motor mounts](/assets/images/build_log/chapter_4/firewall_motor_mount_points.jpg)
 
 ## Log
 
@@ -215,3 +220,4 @@ Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from 
 - 2022-11-01 - Re-glassed parts of the lower face of the Upper Landing Gear Attach Bulkhead.
 - 2022-11-02 - Re-glassed parts of the upper face of the Upper Landing Gear Attach Bulkhead.
 - 2022-11-03 - Trimmed excess fiberglass from F-22 and Upper Landing Gear Attach Bulkhead.
+- 2022-11-16, 2022-11-17 - Cut out the 1" by 1" by 0.25" aluminum blocks, to be used for the motor mounts on the firewall.
