@@ -59,10 +59,13 @@ Once you have the foam put together, you're supposed to secure it directly to th
 
 Once I had the foam secured, I started cutting the side spacers. These spacers are 3/4" low-density last-a-foam that are supposed to to be micro'd to the top, bottom and aft edges of each side panel. Unlike the high-density last-a-foam used in F-22, F-28 and the instrument panel from chapter 4, this low-density stuff cuts very easily with a utility knife.
 
-I cut out the spacers for the top and bottom, then 3d printed jigs so I could easily cut them on my bandsaw at the angles described in the plans. Once these had been cut, I micro'd them to the fuselage sides.
+I cut out the spacers for the top and bottom, then 3d printed jigs so I could easily cut them on my bandsaw at the angles described in the plans. Once these had been cut, I installed them to the fuselage sides with wet micro (albeit, it was on the dry side of wet micro). As per plans, I used finishing nails to help hold them down + maintain shape.
+
+While the top and bottom spacers cured, I went about figuring out the dimensions for the aft spacers.
 
 ![fuselage side panels with no spacers added](/assets/images/build_log/chapter_5/bare_side_panels.jpg)
 ![fuselage sides with shaped spacers placed on top of them](/assets/images/build_log/chapter_5/side_panels_with_placed_upper_lower_spacers.jpg)
+![fuselage sides with upper and lower spacers immediately after being installed](/assets/images/build_log/chapter_5/side_panels_installing_upper_lower_spacers.jpg)
 
 ## Glassing the Upper Longerons
 
@@ -84,3 +87,4 @@ I cut out the spacers for the top and bottom, then 3d printed jigs so I could ea
 - 2022-11-14 - Started on the fuselage side spacers.
 - 2022-11-15 - Cut out the foam that will be the upper and lower side spacers.
 - 2022-11-17 - Cut to shape the upper and lower side spacers.
+- 2022-11-18 - Installed the upper and lower side spacers.

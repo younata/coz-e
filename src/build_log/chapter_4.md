@@ -221,3 +221,4 @@ After the hex bolts arrived, and not a whole lot of other excuses to put this of
 - 2022-11-02 - Re-glassed parts of the upper face of the Upper Landing Gear Attach Bulkhead.
 - 2022-11-03 - Trimmed excess fiberglass from F-22 and Upper Landing Gear Attach Bulkhead.
 - 2022-11-16, 2022-11-17 - Cut out the 1" by 1" by 0.25" aluminum blocks, to be used for the motor mounts on the firewall.
+- 2022-11-18 - Alodine'd the aluminum motor mounts.
