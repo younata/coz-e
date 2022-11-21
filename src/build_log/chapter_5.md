@@ -61,11 +61,12 @@ Once I had the foam secured, I started cutting the side spacers. These spacers a
 
 I cut out the spacers for the top and bottom, then 3d printed jigs so I could easily cut them on my bandsaw at the angles described in the plans. Once these had been cut, I installed them to the fuselage sides with wet micro (albeit, it was on the dry side of wet micro). As per plans, I used finishing nails to help hold them down + maintain shape.
 
-While the top and bottom spacers cured, I went about figuring out the dimensions for the aft spacers. This was mostly done by eyeballing it, along with what little precise dimensions are given by the plans. It's good enough.
+While the top and bottom spacers cured, I went about figuring out the dimensions for the aft spacers. This was mostly done by eyeballing it, along with what little precise dimensions are given by the plans. It's good enough. Again, I installed these with wet micro. While they cured, I used a router to add the depressions for the control sticks. For a gas-powered cozy, this is also where you'd create the depressions for the fuel sight gauges. I'm building an electric cozy. I don't need fuel sight gauges. While I could take off a few grams by creating these depressions, it's not going to make a difference one way or another.
 
 ![fuselage side panels with no spacers added](/assets/images/build_log/chapter_5/bare_side_panels.jpg)
 ![fuselage sides with shaped spacers placed on top of them](/assets/images/build_log/chapter_5/side_panels_with_placed_upper_lower_spacers.jpg)
 ![fuselage sides with upper and lower spacers immediately after being installed](/assets/images/build_log/chapter_5/side_panels_installing_upper_lower_spacers.jpg)
+![fuselage sides with aft spacers installed and control sticks contoured](/assets/images/build_log/chapter_5/side_panels_ready_for_glassing.jpg)
 
 ## Glassing the Upper Longerons
 
@@ -89,3 +90,4 @@ While the top and bottom spacers cured, I went about figuring out the dimensions
 - 2022-11-17 - Cut to shape the upper and lower side spacers.
 - 2022-11-18 - Installed the upper and lower side spacers.
 - 2022-11-19 - Cut and shaped the aft side spacers.
+- 2022-11-20 - Installed the aft side spacers, contoured the fuselage sides (added depressions for the control sticks)
