@@ -72,6 +72,10 @@ While the top and bottom spacers cured, I went about figuring out the dimensions
 
 - Don't worry about getting the fiberglass all smooth near the front of the upper longeron (forward of where F-28 will get installed): it gets cut off in chapter 7. In fact, you don't even have to glass those first few inches.
 
+## Installing the Lower Longerons
+
+Once the lower longerons are installed installed, the plans state to build 2 plugs for the electrical channel. I built these plugs much earlier - before I had done the first glassing of the fuselage sides. These plugs are made, per plans, out of 2 identical sloped pieces of 3/4" last-a-foam. These foam pieces serve as a mold. I wrapped them in packing tape and then glassed them with 1 play of BID.
+
 ## Log
 
 - 2022-06-05, 2022-06-06 - 3D printed FJD jigs & FJA template jig.
@@ -91,3 +95,4 @@ While the top and bottom spacers cured, I went about figuring out the dimensions
 - 2022-11-18 - Installed the upper and lower side spacers.
 - 2022-11-19 - Cut and shaped the aft side spacers.
 - 2022-11-20 - Installed the aft side spacers, contoured the fuselage sides (added depressions for the control sticks)
+- 2022-11-21 - Glassed the electrical channel plugs.

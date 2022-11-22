@@ -149,6 +149,8 @@ I delayed building the permanent firewall due to worrying about the blind screws
 After the hex bolts arrived, and not a whole lot of other excuses to put this off, I decided to start cut out the aluminum blocks for the engine mount. This was a pain, because I don't really have metal cutting tools available to me. Thankfully, aluminum can be cut with woodworking tools - it just takes a while. I cut these 4 using a dremel and my oscillating tool. This was my first time using a dremel, and I'm just happy I didn't explode a cutting wheel. If I were to build another firewall, I would 100% buy already-cut blocks of aluminum. Even if I have to oversize them, it would be worth it to me.
 ![the aluminum motor mounts](/assets/images/build_log/chapter_4/firewall_motor_mount_points.jpg)
 
+A few days after I had cut the motor mounts, I installed them in the firewall pieces and glassed the aft faces of all 4 pieces of the permanent firewall.
+
 ## Log
 
 - 2021-10-09 - Cut front seatback foam panel to size.
@@ -222,3 +224,4 @@ After the hex bolts arrived, and not a whole lot of other excuses to put this of
 - 2022-11-03 - Trimmed excess fiberglass from F-22 and Upper Landing Gear Attach Bulkhead.
 - 2022-11-16, 2022-11-17 - Cut out the 1" by 1" by 0.25" aluminum blocks, to be used for the motor mounts on the firewall.
 - 2022-11-18 - Alodined the aluminum motor mounts.
+- 2022-11-21 - Glassed the aft face of the the 4 parts of the permanent firewall.
