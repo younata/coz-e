@@ -4,7 +4,7 @@ Chapter 4 was about making a bunch of bulkheads which are all internal to the fu
 
 In this chapter, only the interior faces of the fuselage sides will be glassed. The exterior faces will be glassed in chapter 7, when the fuselage is assembled.
 
-Current Status (Early November, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. In progress setting up the base layer of fuselage side foam.
+Current Status (Late November, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. Fuselage side panels are cut and in place. Fuselage spacers are installed. Fuselage sides have been glassed, and the upper longerons are installed.
 
 ## FJ* Jigs
 
@@ -63,6 +63,8 @@ I cut out the spacers for the top and bottom, then 3d printed jigs so I could ea
 
 While the top and bottom spacers cured, I went about figuring out the dimensions for the aft spacers. This was mostly done by eyeballing it, along with what little precise dimensions are given by the plans. It's good enough. Again, I installed these with wet micro. While they cured, I used a router to add the depressions for the control sticks. For a gas-powered cozy, this is also where you'd create the depressions for the fuel sight gauges. I'm building an electric cozy. I don't need fuel sight gauges. While I could take off a few grams by creating these depressions, it's not going to make a difference one way or another.
 
+A few days later, my wife was available to help glass the fuselage side interiors. You could probably do this layup without any help, but her help made this immensely easier and much faster. Even with her help, this took close to 6 hours to complete. The first task was to coat all of the foam with micro, which took about 2 hours on its own. Then, with my wife's help, we laid down the UNI fiberglass on the foam. You're supposed to add 2 layers of UNI, at 30° fiber orientation from horizontal, with one layer oriented mostly forward to aft, and the other oriented in a forward-facing direction. Once the UNI was laid down, we massaged it into place. It's really important to get the fibers to conform to all of the curves and corners, which was a little bit of a pain, but we managed to do it with minimal wrinkles. Once that was wetted out, we laid down the second layer of UNI and wet it out. Again, we had some minor difficulties with handling the complex curves, but we got it. Once this layer was fully wetted out, we grabbed a flashlight and double checked the layup for any potential issues. We came across a few, but took care of them. Then, I grabbed the upper longerons, and my wife painted the mating faces with wet flox while I held them. I placed them onto the fuselage sides then clamped them down. Then, we put down peel ply everywhere, and let it sit.
+
 ![fuselage side panels with no spacers added](/assets/images/build_log/chapter_5/bare_side_panels.jpg)
 ![fuselage sides with shaped spacers placed on top of them](/assets/images/build_log/chapter_5/side_panels_with_placed_upper_lower_spacers.jpg)
 ![fuselage sides with upper and lower spacers immediately after being installed](/assets/images/build_log/chapter_5/side_panels_installing_upper_lower_spacers.jpg)
@@ -96,3 +98,4 @@ Once the lower longerons are installed installed, the plans state to build 2 plu
 - 2022-11-19 - Cut and shaped the aft side spacers.
 - 2022-11-20 - Installed the aft side spacers, contoured the fuselage sides (added depressions for the control sticks)
 - 2022-11-21 - Glassed the electrical channel plugs.
+- 2022-11-23 - Glassed the interiors of the fuselage sides, installed the upper longerons.
