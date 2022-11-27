@@ -4,7 +4,7 @@ Chapter 4 was about making a bunch of bulkheads which are all internal to the fu
 
 In this chapter, only the interior faces of the fuselage sides will be glassed. The exterior faces will be glassed in chapter 7, when the fuselage is assembled.
 
-Current Status (Late November, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. Fuselage side panels are cut and in place. Fuselage spacers are installed. Fuselage sides have been glassed, and the upper longerons are installed.
+Current Status (Late November, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. Fuselage side panels are cut and in place. Fuselage spacers are installed. Fuselage sides have been glassed, and the upper longerons are installed and glassed.
 
 ## FJ* Jigs
 
@@ -47,7 +47,7 @@ You're supposed to let this whole thing cure for at least a 24 hours. I let it c
 
 ## Fuselage Sides
 
-Status: Jig box assembled, forms nailed down, base foam cut and joined. Interior layup complete. Upper longerons installed. Awaiting curing of repairs.
+Status: ✅ 2022-11-14
 
 The plans state to hot glue the fuselage jigs to your workbench. Which is what I started to do, except I ran into issues both with my workbench not being sufficiently level (one of the main downsides of wanting to create a large workbench from several smaller workbenches - leveling them is nearly impossible), and with the jigs themselves having twist and otherwise not being perfectly straight. So instead, I made a series of spacers that I glued & screwed into place to keep the jigs the correct distance apart. This forms kind of the skeleton of a box, and is why I'm calling it a jig box.
 
@@ -57,28 +57,43 @@ Ideally, prior to this point, you should have cut & joined your foam. Which I di
 
 Once you have the foam put together, you're supposed to secure it directly to the forms using 5-minute epoxy. People have had issue with the foam tearing upon removal. I thought I'd be clever by applying painters tape to both the form and the foam, then applying 5-minute epoxy between the painters tape. Except the painters tape did not actually adhere to the foam. The next day, I came back and used masking tape, which worked immensely better.
 
+![fuselage side panels with no spacers added](/assets/images/build_log/chapter_5/bare_side_panels.jpg)
+
+## Fuselage Side Spacers & Control Stick Depressions
+
+Status: ✅ 2022-11-20
+
 Once I had the foam secured, I started cutting the side spacers. These spacers are 3/4" low-density last-a-foam that are supposed to to be micro'd to the top, bottom and aft edges of each side panel. Unlike the high-density last-a-foam used in F-22, F-28 and the instrument panel from chapter 4, this low-density stuff cuts very easily with a utility knife.
 
 I cut out the spacers for the top and bottom, then 3d printed jigs so I could easily cut them on my bandsaw at the angles described in the plans. Once these had been cut, I installed them to the fuselage sides with wet micro (albeit, it was on the dry side of wet micro). As per plans, I used finishing nails to help hold them down + maintain shape.
 
 While the top and bottom spacers cured, I went about figuring out the dimensions for the aft spacers. This was mostly done by eyeballing it, along with what little precise dimensions are given by the plans. It's good enough. Again, I installed these with wet micro. While they cured, I used a router to add the depressions for the control sticks. For a gas-powered cozy, this is also where you'd create the depressions for the fuel sight gauges. I'm building an electric cozy. I don't need fuel sight gauges. While I could take off a few grams by creating these depressions, it's not going to make a difference one way or another.
 
-A few days later, my wife was available to help glass the fuselage side interiors. You could probably do this layup without any help, but her help made this immensely easier and much faster. Even with her help, this took close to 6 hours to complete. The first task was to coat all of the foam with micro, which took about 2 hours on its own. Then, with my wife's help, we laid down the UNI fiberglass on the foam. You're supposed to add 2 layers of UNI, at 30° fiber orientation from horizontal, with one layer oriented mostly forward to aft, and the other oriented in a forward-facing direction. Once the UNI was laid down, we massaged it into place. It's really important to get the fibers to conform to all of the curves and corners, which was a little bit of a pain, but we managed to do it with minimal wrinkles. Once that was wetted out, we laid down the second layer of UNI and wet it out. Again, we had some minor difficulties with handling the complex curves, but we got it. Once this layer was fully wetted out, we grabbed a flashlight and double checked the layup for any potential issues. We came across a few, but took care of them. Then, I grabbed the upper longerons, and my wife painted the mating faces with wet flox while I held them. I placed them onto the fuselage sides then clamped them down. Then, we put down peel ply everywhere, and let it sit.
-
-After letting it cure for an hour, I pulled off the peel ply to discover the results of my work. I was very pleased with the result. Yes, there were bubbles, but they were all repairable. Most were repairable with a simple injection of epoxy, which was incredibly satisfying to do. However, a few required me to sand off the fiberglass and re-apply it. In some of these cases, I ended up sanding off too much of the foam. For those cases, I applied dry micro as a filler to get to the desired shape. In the end, I'm very happy with the results.
-
-![fuselage side panels with no spacers added](/assets/images/build_log/chapter_5/bare_side_panels.jpg)
 ![fuselage sides with shaped spacers placed on top of them](/assets/images/build_log/chapter_5/side_panels_with_placed_upper_lower_spacers.jpg)
 ![fuselage sides with upper and lower spacers immediately after being installed](/assets/images/build_log/chapter_5/side_panels_installing_upper_lower_spacers.jpg)
 ![fuselage sides with aft spacers installed and control sticks contoured](/assets/images/build_log/chapter_5/side_panels_ready_for_glassing.jpg)
 
+## Fuselage Side Interior Layup
+
+Status: ✅ 2022-11-26
+
+The Interior Fuselage Side Layup is the first large layup you do. This is glassing the interior faces of the entire fuselage sides. It's a source of a lot of trouble for many people. I came away relatively unscathed.
+
+A few days later after installing the spacers, my wife was available to help glass the fuselage side interiors. You could probably do this layup without any help, but her help made this immensely easier and much faster. Even with her help, this took close to 6 hours to complete. The first task was to coat all of the foam with micro, which took about 2 hours on its own. Then, with my wife's help, we laid down the UNI fiberglass on the foam. You're supposed to add 2 layers of UNI, at 30° fiber orientation from horizontal, with one layer oriented mostly forward to aft, and the other oriented in a forward-facing direction. Once the UNI was laid down, we massaged it into place. It's really important to get the fibers to conform to all of the curves and corners, which was a little bit of a pain, but we managed to do it with minimal wrinkles. Once that was wetted out, we laid down the second layer of UNI and wet it out. Again, we had some minor difficulties with handling the complex curves, but we got it. Once this layer was fully wetted out, we grabbed a flashlight and double checked the layup for any potential issues. We came across a few, but took care of them. Then, I grabbed the upper longerons, and my wife painted the mating faces with wet flox while I held them. I placed them onto the fuselage sides then clamped them down. Then, we put down peel ply everywhere, and let it sit.
+
+After letting it cure for an hour, I pulled off the peel ply to discover the results of my work. I was very pleased with the result. Yes, there were bubbles, but they were all repairable. Most were repairable with a simple injection of epoxy, which was incredibly satisfying to do. However, a few required me to sand off the fiberglass and re-apply it. In some of these cases, I ended up sanding off too much of the foam. For those cases, I applied dry micro as a filler to get to the desired shape. In the end, I'm very happy with the results.
+
 ## Glassing the Upper Longerons
 
-- Don't worry about getting the fiberglass all smooth near the front of the upper longeron (forward of where F-28 will get installed): it gets cut off in chapter 7. In fact, you don't even have to glass those first few inches.
+Status: Awaiting Cure
+
+Once the fuselage side layup was finished and repaired, I moved on to glassing the upper longerons. Frankly, this was my least favorite layup I've done so far. It's a large layup, but the overall section widths were very small, as well as some vertical sections. Which meant that I couldn't really use a squeegee to spread epoxy. So I had to stipple pretty much the entire layup. I squeegeed as much as I could, to both improve the speed as well as to remove air bubbles and voids. But still, this was not a fun layup. I hope I don't have too many layups like this.
+
+Because the upper longeron forward of F-28 will be getting cut off in a future chapter, I did not bother glassing forward of the forward doubler.
 
 ## Installing the Lower Longerons
 
-Once the lower longerons are installed installed, the plans state to build 2 plugs for the electrical channel. I built these plugs much earlier - before I had done the first glassing of the fuselage sides. These plugs are made, per plans, out of 2 identical sloped pieces of 3/4" last-a-foam. These foam pieces serve as a mold. I wrapped them in packing tape and then glassed them with 1 play of BID.
+Once the lower longerons are installed, the plans state to build 2 plugs for the electrical channel. I built these plugs much earlier - before I had done the first glassing of the fuselage sides. These plugs are made, per plans, out of 2 identical sloped pieces of 3/4" last-a-foam. These foam pieces serve as a mold. I wrapped them in packing tape and then glassed them with 1 play of BID.
 
 ## Log
 
@@ -103,3 +118,4 @@ Once the lower longerons are installed installed, the plans state to build 2 plu
 - 2022-11-23 - Glassed the interiors of the fuselage sides, installed the upper longerons.
 - 2022-11-24 - Pulled off peel ply from the fuselage sides, inspecting the results.
 - 2022-11-25 - Repaired interior layups of the fuselage sides.
+- 2022-11-26 - Glassed the upper longerons.
