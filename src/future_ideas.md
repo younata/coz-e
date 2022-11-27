@@ -4,13 +4,15 @@ The goal of the initial build is to get a safe, flying airplane as soon as possi
 
 I also want to get these out of my head so that I can stop thinking about them when I should be thinking about/working on/doing research for the main build.
 
-## V2 Electric Airplane
-
-This would be an entirely new airplane. One of the things I want to do with this is make a larger, 4+ person airplane. This would likely be made most of carbon fiber, with the battery compartment being lined with fiberglass (because fiberglass is non-conductive, unlike carbon fiber). Other thoughts include changing the fuselage side structure to make ingress & egress easier. As well as every other mod described here.
-
 ## Carbon Fiber Canard, Wings, Strakes and Winglets
 
 Just shy of making an entirely new airplane is replacing most of the exterior with carbon fiber parts. This would almost certainly result in a ton of weight savings, but would also require a lot of testing of sample pieces to get right. Especially if I want to try to get a similar level of strength as a fiberglass part, but with less layups.
+
+## Ducted Propeller
+
+This will likely be the first mod I try.
+
+This would be adding an airfoil in the shape of a ring around the propeller to turn it into a ducted fan. Ducted fans are more efficient than standard propellers. The only question is how much more efficient this is, and is it worth the extra weight?
 
 ## Heated Canard, Wings, Strakes and Winglets
 
@@ -20,14 +22,18 @@ There are a number of problems with this. Most obvious is I don't want to risk a
 
 Obviously, this would require a ton of time to get right, but this is one of the first things I want to investigate once I have a flying airplane.
 
+## Larger Lifting Surfaces
+
+Increasing the length of the lifting surfaces (main wings + canard) should result in both increased efficiency and an increased carrying capacity. Meaning increased battery capacity. I would have to do research to determine how much longer each should be. If you make the main wings larger without adjusting the canard, all you've done is make it easier to enter a deep stall. I'm less sure about the effects of a larger canard relative to the main wings, but I'm sure it's also not as desirable.
+
+This would require a bunch of research to get right. Which means I'll put it off for quite some time.
+
 ## Motorized Landing Gear
 
 This is an idea that's maybe on the "don't do" side, but there are a number of upsides to it and it might be worth the weight penalty. But electrically driven wheels would be great for ground operations. Using the propeller to taxi is very inefficient compared to directly driving the wheels. Additionally, this could be used to assist takeoff and landing by using the wheels for some small extra acceleration, as well as regenerative braking on landing.
 
 However, this would add at least 30 lbs of weight to the system, which is not available. For an airplane that's being optimized for cruise flight, it seems silly to try to add some optimizations for ground operations.
 
-## Ducted Propeller
+## V2 Electric Airplane
 
-This will likely be the first mod I try.
-
-This would be adding an airfoil in the shape of a ring around the propeller to turn it into a ducted fan. Ducted fans are more efficient than standard propellers. The only question is how much more efficient this is, and is it worth the extra weight?
+This would be an entirely new airplane. One of the things I want to do with this is make a larger, 4+ person airplane. This would likely be made most of carbon fiber, with the battery compartment being lined with fiberglass (because fiberglass is non-conductive, unlike carbon fiber). Other thoughts include changing the fuselage side structure to make ingress & egress easier. As well as every other mod described here.
