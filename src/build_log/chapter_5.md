@@ -87,9 +87,11 @@ After letting it cure for an hour, I pulled off the peel ply to discover the res
 
 Status: Awaiting Cure
 
-Once the fuselage side layup was finished and repaired, I moved on to glassing the upper longerons. Frankly, this was my least favorite layup I've done so far. It's a large layup, but the overall section widths were very small, as well as some vertical sections. Which meant that I couldn't really use a squeegee to spread epoxy. So I had to stipple pretty much the entire layup. I squeegeed as much as I could, to both improve the speed as well as to remove air bubbles and voids. But still, this was not a fun layup. I hope I don't have too many layups like this.
+Once the fuselage side layup was finished and repaired, I moved on to glassing the upper longerons. Frankly, this was my least favorite layup I've done so far. It's a large layup, but the overall section widths were very small, as well as some vertical sections. Which meant that I couldn't really use a squeegee to spread epoxy. So I had to stipple pretty much the entire layup. I squeegeed as much as I could, to both improve the speed as well as to remove air bubbles and voids. But still, this was not a fun layup.
 
 Because the upper longeron forward of F-28 will be getting cut off in a future chapter, I did not bother glassing forward of the forward doubler.
+
+This layup turned out horribly. Bubbles galore and even some delaminations.
 
 ## Installing the Lower Longerons
 

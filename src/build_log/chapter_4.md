@@ -151,6 +151,8 @@ After the hex bolts arrived, and not a whole lot of other excuses to put this of
 
 A few days after I had cut the motor mounts, I installed them in the firewall pieces and glassed the aft faces of all 4 pieces of the permanent firewall.
 
+About a week after glassing the aft face, I used a dremel to route out recesses for the hex bolts. I installed the hex bolts, using flox to fill out the remaining space, and then glassed the forward faces of the firewall pieces.
+
 ## Log
 
 - 2021-10-09 - Cut front seatback foam panel to size.
@@ -225,3 +227,4 @@ A few days after I had cut the motor mounts, I installed them in the firewall pi
 - 2022-11-16, 2022-11-17 - Cut out the 1" by 1" by 0.25" aluminum blocks, to be used for the motor mounts on the firewall.
 - 2022-11-18 - Alodined the aluminum motor mounts.
 - 2022-11-21 - Glassed the aft face of the the 4 parts of the permanent firewall.
+- 2022-11-28 - Installed hex bolts - a deliberate change from the plans. Glassed the forward faces of the permanent firewall.
