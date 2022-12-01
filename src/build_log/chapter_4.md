@@ -137,12 +137,13 @@ Unlike the forward bulkheads, the aft landing gear bulkhead does receive side re
 
 ## Firewall
 
-Status: Temporary firewall complete. Permanent firewall is cut out, but on hold until I attach bolts.
+Status: Temporary firewall complete. 3 out of 4 pieces of the permanent firewall are also complete.
 
-I have built a temporary firewall, and I have also made the cuts for the permanent firewall.
+Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from a big box store. It's terrible wood, but that doesn't matter because it's not going to fly. It'll be used briefly in chapter 6 as a fit check before assembling the fuselage with the lower piece of the permanent firewall.
 
-Temporary firewall, cut from a large 4x8 sheet of 1/8 inch birch ply I got from a big box store. It's terrible wood, but that doesn't matter because it's not going to fly.
 ![The temporary firewall](/assets/images/build_log/chapter_4/temporary_firewall.jpg)
+
+The permanent firewall is made out of very high quality baltic birch (with a price to match).
 
 I delayed building the permanent firewall due to worrying about the blind screws. The way you're supposed to secure the blind screws is essentially by applying a bunch of flox and hoping that the epoxy holds - has been known to cause a ton of issues, because the flox does not handle torque well. There are a couple possible solutions. One is to use hex bolts and chisel out a recess for the bolt heads. Another is to use <a href="http://www.cozygirrrl.com/clickbonds.htm" data-proofer-ignore>clickbonds from cozygirrrl</a>. A third is to wrap a metal thread around the screws. After some deliberation, I decided to go with hex bolts. I ordered a bunch of AN3-5A hex bolts from Aircraft Spruce (21/32" nominal length, 1/4" grip length, cadmium plated, undrilled), and will be finishing the firewall with them once they arrive.
 
@@ -152,6 +153,12 @@ After the hex bolts arrived, and not a whole lot of other excuses to put this of
 A few days after I had cut the motor mounts, I installed them in the firewall pieces and glassed the aft faces of all 4 pieces of the permanent firewall.
 
 About a week after glassing the aft face, I used a dremel to route out recesses for the hex bolts. I installed the hex bolts, using flox to fill out the remaining space, and then glassed the forward faces of the firewall pieces.
+
+The next day, I pulled off the peel ply. I lined up pieces for a final "yay, I'm done" photo, when I realized I had accidentally made 2 copies of the left-middle piece.
+
+![Duplicate middle-left firewall pieces](/assets/images/build_log/chapter_4/firewall_duplicate_middle_pieces.jpg)
+
+The following day, I cut out a wood core for a right-middle firewall piece. I marked where the bolt holes should go, then I marked which face is which. Then I checked that those markings were correct. Twice. Then I glassed the aft face of that firewall piece.
 
 ## Log
 
@@ -228,3 +235,5 @@ About a week after glassing the aft face, I used a dremel to route out recesses 
 - 2022-11-18 - Alodined the aluminum motor mounts.
 - 2022-11-21 - Glassed the aft face of the the 4 parts of the permanent firewall.
 - 2022-11-28 - Installed hex bolts - a deliberate change from the plans. Glassed the forward faces of the permanent firewall.
+- 2022-11-29 - Pulled off peel ply from the forward faces of the permanent firewall. Realized that I had accidentally made duplicates of the left-middle pieces in the firewall.
+- 2022-11-30 - Cut new wood, marked where holes for bolts should be drilled, marked which side to glass first, and glassed the aft face of the new right-middle firewall piece.
