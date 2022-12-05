@@ -158,7 +158,7 @@ The next day, I pulled off the peel ply. I lined up pieces for a final "yay, I'm
 
 ![Duplicate middle-left firewall pieces](/assets/images/build_log/chapter_4/firewall_duplicate_middle_pieces.jpg)
 
-The following day, I cut out a wood core for a right-middle firewall piece. I marked where the bolt holes should go, then I marked which face is which. Then I checked that those markings were correct. Twice. Then I glassed the aft face of that firewall piece.
+The following day, I cut out a wood core for a right-middle firewall piece. I marked where the bolt holes should go, then I marked which face is which. Then I checked that those markings were correct. Twice. Then I glassed the aft face of that firewall piece. A few days later, I drilled out the recesses for the bolts, installed the bolts, and laid up the forward face.
 
 ## Log
 
@@ -237,3 +237,5 @@ The following day, I cut out a wood core for a right-middle firewall piece. I ma
 - 2022-11-28 - Installed hex bolts - a deliberate change from the plans. Glassed the forward faces of the permanent firewall.
 - 2022-11-29 - Pulled off peel ply from the forward faces of the permanent firewall. Realized that I had accidentally made duplicates of the left-middle pieces in the firewall.
 - 2022-11-30 - Cut new wood, marked where holes for bolts should be drilled, marked which side to glass first, and glassed the aft face of the new right-middle firewall piece.
+- 2022-12-03 - Cut holes & drilled recesses for the bolts on the new right-middle firewall piece.
+- 2022-12-04 - Fully installed bolts & laid up forward face of right-middle firewall piece.

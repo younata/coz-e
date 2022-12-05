@@ -91,7 +91,7 @@ Once the fuselage side layup was finished and repaired, I moved on to glassing t
 
 Because the upper longeron forward of F-28 will be getting cut off in a future chapter, I did not bother glassing forward of the forward doubler.
 
-This layup turned out horribly. Bubbles galore and even some delaminations.
+This layup turned out horribly. Bubbles galore and even some delaminations. Most of the issues were along the wood longerons, and only really the first 2 or 3 layers deep. Still frustrating. After spending a few days dreading this, I sanded off most of the fiberglass. This took 2 days. The day after that, I re-glassed the upper longerons.
 
 ## Installing the Lower Longerons
 
@@ -120,4 +120,7 @@ Once the lower longerons are installed, the plans state to build 2 plugs for the
 - 2022-11-23 - Glassed the interiors of the fuselage sides, installed the upper longerons.
 - 2022-11-24 - Pulled off peel ply from the fuselage sides, inspecting the results.
 - 2022-11-25 - Repaired interior layups of the fuselage sides.
-- 2022-11-26 - Glassed the upper longerons.
+- 2022-11-26 - Glassed the upper longerons - which ultimately failed.
+- 2022-12-02 - Sanded off glass from failed upper longeron layup.
+- 2022-12-03 - Sanded off glass from failed upper longeron layup.
+- 2022-12-04 - Redid the upper longeron layup.
