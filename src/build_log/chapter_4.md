@@ -2,7 +2,7 @@
 
 Chapter 4 starts off fairly simple - you're working entirely with flat shapes that are all internal to the aircraft. The only curves are the edges.
 
-Current status (Early November, 2022): Front Seatback, F-22 F-28, instrument panel, and the landing gear attach bulkheads are all finished. Going to work on the firewall after the fuselage sides are completed.
+Current status: Finished! ✅ 2022-12-05
 
 ## Front Seatback
 
@@ -158,7 +158,9 @@ The next day, I pulled off the peel ply. I lined up pieces for a final "yay, I'm
 
 ![Duplicate middle-left firewall pieces](/assets/images/build_log/chapter_4/firewall_duplicate_middle_pieces.jpg)
 
-The following day, I cut out a wood core for a right-middle firewall piece. I marked where the bolt holes should go, then I marked which face is which. Then I checked that those markings were correct. Twice. Then I glassed the aft face of that firewall piece. A few days later, I drilled out the recesses for the bolts, installed the bolts, and laid up the forward face.
+The following day, I cut out a wood core for a right-middle firewall piece. I marked where the bolt holes should go, then I marked which face is which. Then I checked that those markings were correct. Twice. Then I glassed the aft face of that firewall piece. A few days later, I drilled out the recesses for the bolts, installed the bolts, and laid up the forward face. The next day, I pull off the peel ply and cut off the excess fiberglass. Thus completing the firewall pieces and chapter 4.
+
+![Completed firewall pieces placed next to each other](/assets/images/build_log/chapter_4/firewall_complete.jpg)
 
 ## Log
 
@@ -239,3 +241,4 @@ The following day, I cut out a wood core for a right-middle firewall piece. I ma
 - 2022-11-30 - Cut new wood, marked where holes for bolts should be drilled, marked which side to glass first, and glassed the aft face of the new right-middle firewall piece.
 - 2022-12-03 - Cut holes & drilled recesses for the bolts on the new right-middle firewall piece.
 - 2022-12-04 - Fully installed bolts & laid up forward face of right-middle firewall piece.
+- 2022-12-05 - Cut off excess fiberglass from right-middle firewall piece, completing chapter 4.

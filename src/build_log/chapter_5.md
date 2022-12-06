@@ -4,7 +4,7 @@ Chapter 4 was about making a bunch of bulkheads which are all internal to the fu
 
 In this chapter, only the interior faces of the fuselage sides will be glassed. The exterior faces will be glassed in chapter 7, when the fuselage is assembled.
 
-Current Status (Late November, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. Fuselage side panels are cut and in place. Fuselage spacers are installed. Fuselage sides have been glassed, and the upper longerons are installed and glassed.
+Current Status (Early December, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. Fuselage side panels are cut and in place. Fuselage spacers are installed. Fuselage sides have been glassed, and the upper longerons are installed, and nearly finished glassing.
 
 ## FJ* Jigs
 
@@ -91,7 +91,7 @@ Once the fuselage side layup was finished and repaired, I moved on to glassing t
 
 Because the upper longeron forward of F-28 will be getting cut off in a future chapter, I did not bother glassing forward of the forward doubler.
 
-This layup turned out horribly. Bubbles galore and even some delaminations. Most of the issues were along the wood longerons, and only really the first 2 or 3 layers deep. Still frustrating. After spending a few days dreading this, I sanded off most of the fiberglass. This took 2 days. The day after that, I re-glassed the upper longerons.
+This layup turned out horribly. Bubbles galore and even some delaminations. Most of the issues were along the wood longerons, and only really the first 2 or 3 layers deep. Still frustrating. After spending a few days dreading this, I sanded off most of the fiberglass. This took 2 days. The day after that, I re-glassed the upper longerons. This second layup turned out significantly better - I only identified 5 issues, 2 of which could be fixed by injecting epoxy into the bubble. I decided to let the epoxy finish curing for another day before repairing.
 
 ## Installing the Lower Longerons
 
