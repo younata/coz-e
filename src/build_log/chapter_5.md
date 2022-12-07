@@ -91,11 +91,21 @@ Once the fuselage side layup was finished and repaired, I moved on to glassing t
 
 Because the upper longeron forward of F-28 will be getting cut off in a future chapter, I did not bother glassing forward of the forward doubler.
 
-This layup turned out horribly. Bubbles galore and even some delaminations. Most of the issues were along the wood longerons, and only really the first 2 or 3 layers deep. Still frustrating. After spending a few days dreading this, I sanded off most of the fiberglass. This took 2 days. The day after that, I re-glassed the upper longerons. This second layup turned out significantly better - I only identified 5 issues, 2 of which could be fixed by injecting epoxy into the bubble. I decided to let the epoxy finish curing for another day before repairing.
+This layup turned out horribly. Bubbles galore and even some delaminations. Most of the issues were along the wood longerons, and only really the first 2 or 3 layers deep. Still frustrating. After spending a few days dreading this, I sanded off most of the fiberglass. This took 2 days. The day after that, I re-glassed the upper longerons. This second layup turned out significantly better - I only identified 3 issues, and then 2 more that actually looked like non-issues when I re-examined while repairing the other 3. I decided to let the epoxy finish curing for another day before repairing.
+
+Two days after that, I performed the second repair of the upper longeron.
 
 ## Installing the Lower Longerons
 
+To aid with clamping the lower longerons to the fuselage sides, most builders make wood blocks with a convex inner 45° corner to match the triangular lower longeron piece. I decided that the best route for me was to instead model these jigs in CAD and 3d print them. I modeled 1 up, printed a test print to verify it works. After checking that I had the dimensions correct, I printed 11 more of them.
+
+The plans are slightly unclear on how you're supposed to make sure the lower longerons are correctly installed. The important thing is that the lower longerons need to be installed such that each side exactly matches - each lower longeron needs to be exactly the same distance from the corresponding upper longeron. They should be close to the numbers specified in figure 5, but since it's impossible to actually get that correct (considering you're now measuring on a curved surface, when figure 5 is for a flat surface), the distances just need to be close to what figure 5 specifies.
+
+The plans state to add saw cuts on the inside every 4 inches, then every 2 inches where the curvature is sharper. A bunch of other builders have reported better success with doubling that - making cuts every 2 inches and every inch in sharper curves. Which I also did. Additionally, I made these cuts using a thin blade on my oscillating tool, so I feel that the more-frequent cuts will better help with this curve.
+
 Once the lower longerons are installed, the plans state to build 2 plugs for the electrical channel. I built these plugs much earlier - before I had done the first glassing of the fuselage sides. These plugs are made, per plans, out of 2 identical sloped pieces of 3/4" last-a-foam. These foam pieces serve as a mold. I wrapped them in packing tape and then glassed them with 1 play of BID.
+
+
 
 ## Log
 
@@ -124,3 +134,4 @@ Once the lower longerons are installed, the plans state to build 2 plugs for the
 - 2022-12-02 - Sanded off glass from failed upper longeron layup.
 - 2022-12-03 - Sanded off glass from failed upper longeron layup.
 - 2022-12-04 - Redid the upper longeron layup.
+- 2022-12-06 - Repaired upper longeron layup (repair part 2). Added initial saw cuts through entire triangular pieces of lower longerons.
