@@ -4,7 +4,7 @@ Chapter 4 was about making a bunch of bulkheads which are all internal to the fu
 
 In this chapter, only the interior faces of the fuselage sides will be glassed. The exterior faces will be glassed in chapter 7, when the fuselage is assembled.
 
-Current Status (Early December, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. Fuselage side panels are cut and in place. Fuselage spacers are installed. Fuselage sides have been glassed, and the upper longerons are installed, and nearly finished glassing.
+Current Status (Early December, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. Fuselage side panels are cut and in place. Fuselage spacers are installed. Fuselage sides have been glassed. The upper longerons are installed and glassed. Working on installing the lower longerons.
 
 ## FJ* Jigs
 
