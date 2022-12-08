@@ -95,11 +95,31 @@ This layup turned out horribly. Bubbles galore and even some delaminations. Most
 
 Two days after that, I performed the second repair of the upper longeron.
 
-## Installing the Lower Longerons
+## The Lower Longerons
 
-To aid with clamping the lower longerons to the fuselage sides, most builders make wood blocks with a convex inner 45° corner to match the triangular lower longeron piece. I decided that the best route for me was to instead model these jigs in CAD and 3d print them. I modeled 1 up, printed a test print to verify it works. After checking that I had the dimensions correct, I printed 11 more of them.
+To aid with clamping the lower longerons to the fuselage sides, most builders make wood blocks with a convex inner 45° corner to match the triangular lower longeron piece. I decided that the best route for me was to instead model these jigs in CAD and 3d print them. I modeled 1 up, printed a test print to verify it works. After checking that I had the dimensions correct, I printed a bunch more of them.
 
-The plans are slightly unclear on how you're supposed to make sure the lower longerons are correctly installed. The important thing is that the lower longerons need to be installed such that each side exactly matches - each lower longeron needs to be exactly the same distance from the corresponding upper longeron. They should be close to the numbers specified in figure 5, but since it's impossible to actually get that correct (considering you're now measuring on a curved surface, when figure 5 is for a flat surface), the distances just need to be close to what figure 5 specifies.
+### Measuring & Marking the Lower Longerons
+
+The plans are slightly unclear on how you're supposed to make sure the lower longerons are correctly installed. The important thing is that the lower longerons need to be installed such that each side exactly matches - each lower longeron needs to be exactly the same distance from the corresponding upper longeron. They should be close to the numbers specified in figure 5, but since it's impossible to actually get that correct (considering you're now measuring on a curved surface, when figure 5 is for a flat surface), the distances just need to be close to what figure 5 specifies. I measured the distance with a carpenter's square, using wood spacers to avoid any error from measuring a vertical distance. I recorded the distances at 10 inch intervals, and then computed their differences. After, I marked the insets on the relevant sides, where relevant. Then I prepared for glassing. Here are the values I measured, along with what figure 5 specifies:
+
+| Distance from forward Edge (inches) | Port Side Distance (inches) | Starboard Side Distance (inches) | Difference (inches) | Value Specified in Fig. 5 (inches) |
+| 0 | 20 2/16 | 20 2/16 | 0 | 20.1 |
+| 10 | 20 11/16 | 20 10/16 | 1/16 | 20.6 |
+| 20 | 20 15/16 | 20 14/16 | 1/16 | 20.9 |
+| 30 | 20 15/16 | 21 1/16 | -2/16 | 20.9 |
+| 40 | 20 13/16 | 20 13/16 | 0 | 20.9 |
+| 50 | 20 14/16 | 20 14/16 | 0 | 20.85 |
+| 60 | 20 14/16 | 20 12/16 | 2/16 | 20.8 |
+| 70 | 20 10/16 | 20 8/16 | 2/16 | 20.5 |
+| 80 | 19 12/16 | 19 13/16 | -1/16 | 20.0 |
+| 90 | 18 13/16 | 18 14/16 | -1/16 | 19.0 |
+| 100 | 17 9/16 | 17 14/16 | -5/16 | 17.7 |
+| Aft Edge | 17 2/16 | 17 1/16 | 1/16 | 17.25 |
+
+So, they're fairly close to each other, and relatively close to the values specified in figure 5.
+
+### Installing the lower longerons
 
 The plans state to add saw cuts on the inside every 4 inches, then every 2 inches where the curvature is sharper. A bunch of other builders have reported better success with doubling that - making cuts every 2 inches and every inch in sharper curves. Which I also did. Additionally, I made these cuts using a thin blade on my oscillating tool, so I feel that the more-frequent cuts will better help with this curve.
 
@@ -135,3 +155,4 @@ Once the lower longerons are installed, the plans state to build 2 plugs for the
 - 2022-12-03 - Sanded off glass from failed upper longeron layup.
 - 2022-12-04 - Redid the upper longeron layup.
 - 2022-12-06 - Repaired upper longeron layup (repair part 2). Added initial saw cuts through entire triangular pieces of lower longerons.
+- 2022-12-07 - Some additional, final repairs of the interior fuselage side layup that I hadn't noticed until now. Additionally, measured and marked locations for lower longerons.
