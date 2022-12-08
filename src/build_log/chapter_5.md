@@ -104,6 +104,7 @@ To aid with clamping the lower longerons to the fuselage sides, most builders ma
 The plans are slightly unclear on how you're supposed to make sure the lower longerons are correctly installed. The important thing is that the lower longerons need to be installed such that each side exactly matches - each lower longeron needs to be exactly the same distance from the corresponding upper longeron. They should be close to the numbers specified in figure 5, but since it's impossible to actually get that correct (considering you're now measuring on a curved surface, when figure 5 is for a flat surface), the distances just need to be close to what figure 5 specifies. I measured the distance with a carpenter's square, using wood spacers to avoid any error from measuring a vertical distance. I recorded the distances at 10 inch intervals, and then computed their differences. After, I marked the insets on the relevant sides, where relevant. Then I prepared for glassing. Here are the values I measured, along with what figure 5 specifies:
 
 | Distance from forward Edge (inches) | Port Side Distance (inches) | Starboard Side Distance (inches) | Difference (inches) | Value Specified in Fig. 5 (inches) |
+|---|---------|---------|---|------|
 | 0 | 20 2/16 | 20 2/16 | 0 | 20.1 |
 | 10 | 20 11/16 | 20 10/16 | 1/16 | 20.6 |
 | 20 | 20 15/16 | 20 14/16 | 1/16 | 20.9 |
