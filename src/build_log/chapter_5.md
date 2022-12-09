@@ -97,8 +97,6 @@ Two days after that, I performed the second repair of the upper longeron.
 
 ## The Lower Longerons
 
-To aid with clamping the lower longerons to the fuselage sides, most builders make wood blocks with a convex inner 45° corner to match the triangular lower longeron piece. I decided that the best route for me was to instead model these jigs in CAD and 3d print them. I modeled 1 up, printed a test print to verify it works. After checking that I had the dimensions correct, I printed a bunch more of them.
-
 ### Measuring & Marking the Lower Longerons
 
 The plans are slightly unclear on how you're supposed to make sure the lower longerons are correctly installed. The important thing is that the lower longerons need to be installed such that each side exactly matches - each lower longeron needs to be exactly the same distance from the corresponding upper longeron. They should be close to the numbers specified in figure 5, but since it's impossible to actually get that correct (considering you're now measuring on a curved surface, when figure 5 is for a flat surface), the distances just need to be close to what figure 5 specifies. I measured the distance with a carpenter's square, using wood spacers to avoid any error from measuring a vertical distance. I recorded the distances at 10 inch intervals, and then computed their differences. After, I marked the insets on the relevant sides, where relevant. Then I prepared for glassing. Here are the values I measured, along with what figure 5 specifies:
@@ -124,9 +122,21 @@ So, they're fairly close to each other, and relatively close to the values speci
 
 The plans state to add saw cuts on the inside every 4 inches, then every 2 inches where the curvature is sharper. A bunch of other builders have reported better success with doubling that - making cuts every 2 inches and every inch in sharper curves. Which I also did. Additionally, I made these cuts using a thin blade on my oscillating tool, so I feel that the more-frequent cuts will better help with this curve.
 
+To aid with clamping the lower longerons to the fuselage sides, most builders make wood blocks with a convex inner 45° corner to match the triangular lower longeron piece. I decided that the best route for me was to instead model these jigs in CAD and 3d print them. I modeled 1 up, printed a test print to verify it works. After checking that I had the dimensions correct, I printed a bunch more of them.
+
+![The 3d-printed clamp jig, on a triangular spruce strip](/assets/images/build_log/chapter_5/lower_longeron_clamp_jig.jpg)
+
+In actual usage, these ended up being a bit too long, and I ended up cutting off some of the tabs with an oscillating tool. Afterwards I redesigned the jig to remove that extra tab. For those interested, there's an STL with this updated design.
+
+![CAD rendering of the updated clamp jig](/assets/images/build_log/chapter_5/lower_longeron_clamp_jig_updated_cad.png)
+
+- [STL of the above rendering](/assets/cad/chapter_5/lower_longeron_clamp_jig.stl)
+
+With these clamp jigs, I installed the lower longerons. I didn't want to bother with using nails to hold the wood in place, so instead I used clamps with the clamp jigs. I didn't have enough clamps to install both triangular lower longerons at once, so I installed them on two separate days.
+
+![Installing the port-side lower longeron](/assets/images/build_log/chapter_5/lower_longeron_install_port.jpg)
+
 Once the lower longerons are installed, the plans state to build 2 plugs for the electrical channel. I built these plugs much earlier - before I had done the first glassing of the fuselage sides. These plugs are made, per plans, out of 2 identical sloped pieces of 3/4" last-a-foam. These foam pieces serve as a mold. I wrapped them in packing tape and then glassed them with 1 play of BID.
-
-
 
 ## Log
 
@@ -157,3 +167,4 @@ Once the lower longerons are installed, the plans state to build 2 plugs for the
 - 2022-12-04 - Redid the upper longeron layup.
 - 2022-12-06 - Repaired upper longeron layup (repair part 2). Added initial saw cuts through entire triangular pieces of lower longerons.
 - 2022-12-07 - Some additional, final repairs of the interior fuselage side layup that I hadn't noticed until now. Additionally, measured and marked locations for lower longerons.
+- 2022-12-08 - Installed lower longeron on the port fuselage side.
