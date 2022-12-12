@@ -136,7 +136,15 @@ With these clamp jigs, I installed the lower longerons. I didn't want to bother 
 
 ![Installing the port-side lower longeron](/assets/images/build_log/chapter_5/lower_longeron_install_port.jpg)
 
-Once the lower longerons are installed, the plans state to build 2 plugs for the electrical channel. I built these plugs much earlier - before I had done the first glassing of the fuselage sides. These plugs are made, per plans, out of 2 identical sloped pieces of 3/4" last-a-foam. These foam pieces serve as a mold. I wrapped them in packing tape and then glassed them with 1 play of BID.
+After both port and starboard lower longerons were installed, I added the longeron doublers - a 20" long piece of triangular spruce which joins both lower longerons at the aft end along the hypotenuse side. I also measured and installed the LWX and LWY stringers. These are used to provide additional stability and better anchor the landing gear to the rest of the airplane.
+
+![Installing the longeron doubler and LWX and LWY stringers on the port side](/assets/images/build_log/chapter_5/stringer_install_port.jpg)
+
+### Completing the Fuselage Sides
+
+With the lower longerons and LW\* stringers installed, the next step is to fill the area between the LW\* stringers and the lower longerons with foam, and leaving room for the electrical channel (which will be covered with 1 ply of BID). I made the channel covers using 2 molds made out of 0.75 inch low-density clark foam. I built these molds and channel covers much earlier - before I had done the first glassing of the fuselage sides. These foam pieces serve as a mold. I wrapped them in packing tape and then glassed them with 1 play of BID.  Once the stringers were in place, I installed the covers with 5-minute epoxy. Then I cut out foam to fill the area out of the same 0.75 inch low-density clark foam that I had used for the mold. I even re-used parts from the molds to fill in the area above the sloped parts of the covers. I then installed this foam with micro, and filled the voids with dry micro.
+
+![Aft end of the fuselage sides, with the stringers and electrical channel covers installed](/assets/images/build_log/chapter_5/electrical_cover_install.jpg)
 
 ## Log
 
@@ -167,4 +175,7 @@ Once the lower longerons are installed, the plans state to build 2 plugs for the
 - 2022-12-04 - Redid the upper longeron layup.
 - 2022-12-06 - Repaired upper longeron layup (repair part 2). Added initial saw cuts through entire triangular pieces of lower longerons.
 - 2022-12-07 - Some additional, final repairs of the interior fuselage side layup that I hadn't noticed until now. Additionally, measured and marked locations for lower longerons.
-- 2022-12-08 - Installed lower longeron on the port fuselage side.
+- 2022-12-08 - Installed the lower longeron on the port fuselage side.
+- 2022-12-09 - Installed the lower longeron on the starboard fuselage side.
+- 2022-12-10 - Installed the longeron doublers as well as the LWX and LWY stringers on both fuselage sides.
+- 2022-12-11 - Installed electrical cover & filled area between the stringers on the lower longerons with foam.
