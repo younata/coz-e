@@ -4,7 +4,7 @@ Chapter 4 was about making a bunch of bulkheads which are all internal to the fu
 
 In this chapter, only the interior faces of the fuselage sides will be glassed. The exterior faces will be glassed in chapter 7, when the fuselage is assembled.
 
-Current Status (Early December, 2022): FJ* jigs complete. fuselage side forms complete. Upper longerons complete. Fuselage side panels are cut and in place. Fuselage spacers are installed. Fuselage sides have been glassed. The upper longerons are installed and glassed. Working on installing the lower longerons.
+Current Status: Finished! ✅ 2022-12-13
 
 ## FJ* Jigs
 
@@ -146,6 +146,25 @@ With the lower longerons and LW\* stringers installed, the next step is to fill 
 
 ![Aft end of the fuselage sides, with the stringers and electrical channel covers installed](/assets/images/build_log/chapter_5/electrical_cover_install.jpg)
 
+A day later, I came back and glassed that area with 6 plies of BID. Which turned out great.
+
+With the glasswork finished, there are 2 things left for chapter 5: Cut the fuselage sides to length, and cut out the area for the main spar.
+
+When I measured my fuselage sides, I found that they were both too short. One measured 101.5", the other 101.???". The plans state these must be exactly 101.75", and, after panicking a bit, I checked the mailing list. According to discussion in the <a href="http://www.cozybuilders.org/mail_list/topics98/chap_05.txt" data-proofer-ignore>1998 archives page</a>, it's fine that they're short.
+
+> Nat has in person told me twice about builders with the 101.75 a little too short and said it does not matter. Just make sure that everything is square and it will be fine.
+
+> If you put the upper longerons where they are supposed to be and nail them as instructed all you have to do is spread the bottom a little. The jigs for the sides on the table aren't that exact. Nat told me that the long EZ sides were built flat and bent to fit so that also isn't an
+exact science. He just has us build them prebent to make assembly easier.
+
+> I talked to Nat a long time about this stuff one day and came to the conclusion that I was trying to build to tolerances that are not in
+the plans and don't matter. If you have already built these things I guess that it is obvious. It wasn't obvious to me, I am new to this. That is what we pay Nat the big bucks for though. He was very gracious and helpful despite all my questions that must have seemed silly to him.
+
+After calming down from that, I felt confident continuing. I squared off the forward end of each side, and then cut out the spaces for the main spar. Thus completing chapter 5.
+
+![Close up of aft end of completed fuselage sides, showing the space cut for the main spar](/assets/images/build_log/chapter_5/complete_close_up.jpg)
+![Wide shot of the completed fuselage sides](/assets/images/build_log/chapter_5/complete_wide.jpg)
+
 ## Log
 
 - 2022-06-05, 2022-06-06 - 3D printed FJD jigs & FJA template jig.
@@ -179,3 +198,5 @@ With the lower longerons and LW\* stringers installed, the next step is to fill 
 - 2022-12-09 - Installed the lower longeron on the starboard fuselage side.
 - 2022-12-10 - Installed the longeron doublers as well as the LWX and LWY stringers on both fuselage sides.
 - 2022-12-11 - Installed electrical cover & filled area between the stringers on the lower longerons with foam.
+- 2022-12-12 - Glassed the area between the LWX and LWY stringers on both fuselage sides with 6 plies of BID.
+- 2022-12-13 - Trimmed fiberglass from area between LW* stringers and the lower longerons, squared off forward edges, cut out space for main spar.

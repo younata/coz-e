@@ -166,6 +166,7 @@ wetted
 delaminations
 baltic
 yay
+sawn
  - src/resources.md
 CNC'd
  - src/newsletter/README.md
@@ -183,3 +184,6 @@ hardpoint
  - src/techniques.md
 pre-trimmed
 non-peel-ply'd
+ - src/build_log/chapter_5.md
+prebent
+f22
