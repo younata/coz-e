@@ -27,3 +27,4 @@ With the sides assembled, now it's time to install a floor.
 - 2022-12-14: Started work.
 - 2022-12-15 through 2022-12-16: Prepared shop for fuselage assembly - tore down the fuselage forms jig - building platform to assemble fuselage on.
 - 2022-12-17: Ordered parts for constructing aluminum workbench, started work on the center keel.
+- 2022-12-18: Glassed inside fiberglass parts of the center keel.
