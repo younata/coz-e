@@ -4,7 +4,7 @@ Rejoice! At the end of this, you'll actually have something to show to people in
 
 Now that the fuselage [bulkheads](chapter_4.md) and [sides](chapter_5.md) have been built, it's time to put them together.
 
-Current status (Mid December, 2022): Just barely started.
+Current status (Late February, 2023): Fuselage and bulkheads mostly assembled. Center keel is assembled and waiting for install. Preparing to install the floor.
 
 ## Fuselage Side Assembly
 
@@ -57,7 +57,11 @@ Once it was cured, I sanded down the flox and prepared for the reinforcement lay
 ![Front assembly showing the aft side of the front seatback](/assets/images/build_log/chapter_6/front_assembly_seatback_closeup.jpeg)
 ![Front assembly showing the aft side of the front seatback](/assets/images/build_log/chapter_6/front_assembly_seatback_reinforce.jpeg)
 
+Once I taped as much as I could of these panels, I installed F-28. Similar to F-22, it only receives reinforcement on the aft face. That's because in the next chapter, I'll be removing foam immediately in front of F-28, so the fuselage-side part of those reinforcement layups would be getting removed.
+
 ### Landing Gear Box
+
+After securing as much as needed in the forward half of the fuselage, I moved aft, to the landing gear box. First, I installed the aft landing gear bulkhead. At 5 inches forward of the firewall. I had to trim it down slightly to fit, but I got it in there. After curing and adding reinforcement layups, I installed the lower part of the forward landing gear bulkhead. I hot-glued a box 8-inches long to the bulkhead, which provided exact spacing, as well as helped guide the drill so I could match-drill a 0.25 inch hole from the forward landing gear bulkhead to the aft landing gear bulkhead. This hole was drilled once the flox cured. After drilling the hole, I used a rubber mallet to knock out the wood. I then added reinforcement layups
 
 ![Aft landing gear bulkhead install](/assets/images/build_log/chapter_6/aft_assembly_aft_lgb_install.jpeg)
 ![forward Landing gear bulkhead jig](/assets/images/build_log/chapter_6/aft_assembly_front_lgb_jig_install.jpeg)
@@ -88,3 +92,19 @@ With the sides assembled, now it's time to install a floor.
 - 2023-01-24: Trimmed reinforcement layups. Prepared to install aft landing gear bulkhead.
 - 2023-01-25: Installed aft landing gear bulkhead. Prepared lower part of forward landing gear bulkhead.
 - 2023-01-26: Installed forward landing gear bulkhead.
+- 2023-01-27: Drilled matching holes from forward landing gear bulkhead into aft landing gear bulkhead. Installed the lower piece of the permanent firewall.
+- 2023-01-29: Added reinforcement layups to the landing gear attach bulkheads and F-28.
+- 2023-02-01: Rotated the fuselage to be right-side-up.
+- 2023-02-03: Installed the upper piece of the forward landing gear bulkhead. Added reinforcement layups to the forward side of the front seatback.
+- 2023-02-04: Added layups to join the 2 parts of the forward landing gear bulkhead on the forward side. There were issues in this layup discovered after cure.
+- 2023-02-07: Prepared forward landing gear bulkhead for repair.
+- 2023-02-08: Moved fuselage onto sawhorses, disassembled table used for fuselage assembly.
+- 2023-02-09: Added repair layups to forward landing gear bulkhead.
+- 2023-02-10: Rotated fuselage back to upside-down.
+- 2023-02-11: Added reinforcement/joining layups to the aft side of the forward landing gear bulkhead. Joined & glassed internal pieces of the seatback brace. Floxed them to one side of the seatback brace.
+- 2023-02-12: Joined pieces for the conduit duct.
+- 2023-02-13: Floxed other side of seatback brace in place. Floxed safety harness in place in the conduit duct.
+- 2023-02-16: Laid up 7-ply UNI layup over the safety harness mounting point in the conduit duct.
+- 2023-02-17: Glassed the outside edges of the front seatback.
+- 2023-02-18: Glassed the outside of the conduit duct.
+- 2023-02-20: Removed the firewall & prepared for reinstall. Joined the heat duct and the front seatback.
