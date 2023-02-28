@@ -108,3 +108,9 @@ With the sides assembled, now it's time to install a floor.
 - 2023-02-17: Glassed the outside edges of the front seatback.
 - 2023-02-18: Glassed the outside of the conduit duct.
 - 2023-02-20: Removed the firewall & prepared for reinstall. Joined the heat duct and the front seatback.
+- 2023-02-21: Test fit center keel, determined need for an extension of the heat duct.
+- 2023-02-22, 2023-02-23: Added foam as spacers for the firewall install. Sanded down to the exact length needed.
+- 2023-02-24: Reinstalled firewall. It's now square. Created inside layup for the heat duct extension.
+- 2023-02-25: Joined heat duct extension pieces with flox, glassed exterior.
+- 2023-02-26: Installed center keel, along with heat duct extension.
+- 2023-02-27: Started work on floor. Cut panels to shape, joined with 5-minute epoxy.
