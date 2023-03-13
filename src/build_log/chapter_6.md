@@ -114,3 +114,9 @@ With the sides assembled, now it's time to install a floor.
 - 2023-02-25: Joined heat duct extension pieces with flox, glassed exterior.
 - 2023-02-26: Installed center keel, along with heat duct extension.
 - 2023-02-27: Started work on floor. Cut panels to shape, joined with 5-minute epoxy.
+- 2023-03-01: Built frame to support floor during contour and layup. Cut out landing brake. Marked where contour pieces will go.
+- 2023-03-02: Cut out contouring foam for floor, fit in place.
+- 2023-03-04: Epoxied contouring foam for floor into place.
+- 2023-03-05: Glassed ~3/4 of the floor. Stopped after running out of fiberglass.
+- 2023-03-09 through 11: Sanded floor in prep for finishing glassing.
+- 2023-03-12: Glassed remainder of floor.
