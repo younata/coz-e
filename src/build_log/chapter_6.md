@@ -57,7 +57,7 @@ Once it was cured, I sanded down the flox and prepared for the reinforcement lay
 ![Front assembly showing the aft side of the front seatback](/assets/images/build_log/chapter_6/front_assembly_seatback_closeup.jpeg)
 ![Front assembly showing the aft side of the front seatback](/assets/images/build_log/chapter_6/front_assembly_seatback_reinforce.jpeg)
 
-Once I taped as much as I could of these panels, I installed F-28. Similar to F-22, it only receives reinforcement on the aft face. That's because in the next chapter, I'll be removing foam immediately in front of F-28, so the fuselage-side part of those reinforcement layups would be getting removed.
+Once I taped as much as I could of these panels, I installed F-28. Similar to F-22, it only receives reinforcement on the aft face. That's because in the next chapter, I'll be removing foam and upperlongerons immediately in front of F-28, so there's no point adding reinforcement layups there.
 
 ### Landing Gear Box
 
@@ -120,3 +120,7 @@ With the sides assembled, now it's time to install a floor.
 - 2023-03-05: Glassed ~3/4 of the floor. Stopped after running out of fiberglass.
 - 2023-03-09 through 11: Sanded floor in prep for finishing glassing.
 - 2023-03-12: Glassed remainder of floor.
+- 2023-03-18: Installed floor onto fuselage.
+- 2023-03-27: Installed BID strips on starboard side (part 1 - the strips over the lower longerons were too short)
+- 2023-03-29: Installed BID strips on port side
+- 2023-04-01: Installed BID strips on starboard side, finishing up the fuselage assembly.
