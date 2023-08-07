@@ -13,3 +13,7 @@ Don't apply BID tape like a standard layup. You want to apply it already-wet and
 5. Cut the plastic to the desired shape, following the lines you previously drew.
 6. Pull off one side of the plastic, and gently press the tape into place. Remove the plastic backing, and go over it with a clean squeegee to remove air bubbles.
 7. Add peel ply another plastic wrapping to finish.
+
+## Applying Fiberglass to vertical pieces
+
+Whenever possible, you should layup fiberglass on top of parts that are horizontal (or mostly horizontal). Sometimes, that's not possible, and I've found that using the BID tape technique with those works incredibly well.

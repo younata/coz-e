@@ -57,7 +57,7 @@ Once it was cured, I sanded down the flox and prepared for the reinforcement lay
 ![Front assembly showing the aft side of the front seatback](/assets/images/build_log/chapter_6/front_assembly_seatback_closeup.jpeg)
 ![Front assembly showing the aft side of the front seatback](/assets/images/build_log/chapter_6/front_assembly_seatback_reinforce.jpeg)
 
-Once I taped as much as I could of these panels, I installed F-28. Similar to F-22, it only receives reinforcement on the aft face. That's because in the next chapter, I'll be removing foam and upperlongerons immediately in front of F-28, so there's no point adding reinforcement layups there.
+Once I taped as much as I could of these panels, I installed F-28. Similar to F-22, it only receives reinforcement on the aft face. That's because in the next chapter, I'll be removing foam and upper longerons immediately in front of F-28, so there's no point adding reinforcement layups there.
 
 ### Landing Gear Box
 
