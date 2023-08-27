@@ -34,12 +34,28 @@ After inspecting this layup, I noticed a number of errors, and I spent quite som
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mXKEVW3YBxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Contouring fuselage sides.
+## fuselage sides.
 
-With the floor glassed, the next step is to contour the fuselage sides. Part one of that is making the canard cut-out. The cut-out line vertically is at W.L. 18.9, with the top of the longerons at W.L. 23.0, that means flush with the forward face of F-28, we're supposed to cut out 2 4.1" by 6.25" squares from the longerons, foam, and the top "ears" of F-22. One on either side. I drew lines for this on the foam with pencil, then used the oscillating multitool to cut them out.
+With the floor glassed, the next step is to contour the fuselage sides. 
+
+### Canard Cutout
+
+Part one of contouring the fuselage sides is making the canard cut-out. The cut-out line vertically is at W.L. 18.9, with the top of the longerons at W.L. 23.0, that means flush with the forward face of F-28, we're supposed to cut out 2 4.1" by 6.25" squares from the longerons, foam, and the top "ears" of F-22. One on either side. I drew lines for this on the foam with pencil, then used the oscillating multitool to cut them out.
 
 ![Guide lines for the canard cutout](/assets/images/build_log/chapter_7/canard_cutout_guidelines.jpeg)
 ![Me holding the piece cut out for the canard](/assets/images/build_log/chapter_7/canard_cutout_finished.jpeg)
+
+### Making the fuselage contour templates
+
+Next up is making the templates for the contours. These are 4 templates that represent what the fuselage sides should look like at F-28, F.S. 33, F.S. 38, and at the firewall, with the actual contour of the fuselage smoothly transitioning between them. I printed the 4, glued sandpaper to them as sanding sticks. For the sections where I'm supposed to smoothly transition to the next, I just eye-balled it. It turned out pretty good.
+
+Anyway, I created out the A, B, C, D templates in CAD and created the gcode for them. The next day, I actually printed them. This is because the job would take 9 hours and I'm not at all comfortable running my 3d printer overnight. I've never had an issue in the 6 years I've owned that printer, but it just feels wrong.
+
+### Contouring the Fuselage Sides
+
+With these printed, and the sandpaper attached, I spent a few hours sanding down the upper fuselage sides/upper longerons to the correct contour. Most of the work was done with a belt sander, but I frequently paused to check with the appropriate contour checker. Once it was close enough, I used the contour checker to finalize that sanding.
+
+![The port-side upper longerons contoured](/assets/images/build_log/chapter_7/port_side_contoured.jpeg)
 
 ## Log
 
@@ -79,3 +95,7 @@ With the floor glassed, the next step is to contour the fuselage sides. Part one
 - 2023-08-16: Finished repairing the fuselage floor.
 - 2023-08-22: Released video about process of glassing the fuselage floor exterior.
 - 2023-08-22: Rotate fuselage right-side up. Created canard cut-out.
+- 2023-08-23: Created 3d models and gcode of the upper longeron contour checkers.
+- 2023-08-24: Printed upper longeron contour checkers.
+- 2023-08-25: Glued 36-grit sandpaper to upper longeron contour checkers.
+- 2023-08-26: Contoured the upper longerons/fuselage sides.
