@@ -57,6 +57,14 @@ With these printed, and the sandpaper attached, I spent a few hours sanding down
 
 ![The port-side upper longerons contoured](/assets/images/build_log/chapter_7/port_side_contoured.jpeg)
 
+### Glassing the Port Side
+
+Once the fuselage sides were contoured, I rotated the fuselage so that the port side was facing up, and I glassed that. It took me about 6 hours to do so, and thankfully I managed to get it all in one shot.
+
+### Glassing the Starboard Side
+
+While the port side was still curing, I prepped the fiberglass for the starboard side.
+
 ## Log
 
 - 2023-04-06: Made paper template for air intake scoop.
@@ -99,3 +107,6 @@ With these printed, and the sandpaper attached, I spent a few hours sanding down
 - 2023-08-24: Printed upper longeron contour checkers.
 - 2023-08-25: Glued 36-grit sandpaper to upper longeron contour checkers.
 - 2023-08-26: Contoured the upper longerons/fuselage sides.
+- 2023-08-27 through 2023-08-29: Prepped for glassing the port side.
+- 2023-08-30: Glassed the port side.
+- 2023-08-31: Prep for glassing the starboard side.
