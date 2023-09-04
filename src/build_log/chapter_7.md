@@ -63,7 +63,11 @@ Once the fuselage sides were contoured, I rotated the fuselage so that the port 
 
 ### Glassing the Starboard Side
 
-While the port side was still curing, I prepped the fiberglass for the starboard side.
+While the port side was still curing, I prepped the fiberglass for the starboard side. I rotated the fuselage so that the starboard side was facing up, and glassed it. It took slightly less time to glass than the port side, but still close to 6 hours. This layup also came out great, thankfully.
+
+### Finishing
+
+While the starboard side cured, I trimmed the glass for the port side.
 
 ## Log
 
@@ -110,3 +114,5 @@ While the port side was still curing, I prepped the fiberglass for the starboard
 - 2023-08-27 through 2023-08-29: Prepped for glassing the port side.
 - 2023-08-30: Glassed the port side.
 - 2023-08-31: Prep for glassing the starboard side.
+- 2023-09-02: Glassed starboard side.
+- 2023-09-03: Trimmed glass from port side.
