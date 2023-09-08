@@ -67,7 +67,11 @@ While the port side was still curing, I prepped the fiberglass for the starboard
 
 ### Finishing
 
-While the starboard side cured, I trimmed the glass for the port side.
+While the starboard side cured, I trimmed the glass for the port side. Once the starboard side cured, I trimmed the glass on the starboard side. Once both sides were trimmed, chapter 7 was finished!
+
+![The finished starboard side](/assets/images/build_log/chapter_7/fuselage_sides_finished.jpeg)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LDHFQshCZj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Log
 
