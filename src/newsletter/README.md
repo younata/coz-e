@@ -55,7 +55,7 @@ From Cozy Newsletter \#34, with a discussion on where to place the antennas (For
 - Com: Located under skin of winglets, per plans.
 - FM and/or Marker Beacon: Under skin mid-wing.
 
-GPS was not specifically called out, nor was VOR.
+GPS was not specifically called out, presumably because it wasn't available back then.
 
 - Be careful in laying out VOR antennas on the bottom of the fuselage to avoid future cut outs for the landing light and nose wheel. (Thomas Kennedy, Cozy Newsletter \#55)
 
