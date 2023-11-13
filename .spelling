@@ -182,6 +182,13 @@ repairwork
 F.S.
 gcode
 36-grit
+nutplates
+2024-T3
+alumiprep
+AN4-6
+this'll
+alumiprep'd
+alodine'd
  - src/resources.md
 CNC'd
  - src/newsletter/README.md
@@ -202,3 +209,5 @@ non-peel-ply'd
  - src/build_log/chapter_5.md
 prebent
 f22
+ - src/build_log/chapter_8.md
+rv-whatever
