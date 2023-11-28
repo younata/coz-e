@@ -120,3 +120,4 @@ While the starboard side cured, I trimmed the glass for the port side. Once the 
 - 2023-08-31: Prep for glassing the starboard side.
 - 2023-09-02: Glassed starboard side.
 - 2023-09-03: Trimmed glass from port side.
+- 2023-11-20: Came back later and sanded smooth the seams where the fuselage sides transition to the fuselage floor.
